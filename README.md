@@ -97,8 +97,6 @@ From there, I checked the matplotlib documentation for the additional functions 
 
 ## References
 
-*Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.*
-
 https://www.easytweaks.com/python-remove-newline-string/
 
 https://stackoverflow.com/questions/1215208/how-might-i-remove-duplicate-lines-from-a-file
@@ -113,8 +111,6 @@ https://www.folkstalk.com/2022/09/pycharm-remove-tab-for-multiple-lines-with-cod
 
 https://docs.python.org/3/library/subprocess.html
 
-https://www.digitalocean.com/community/tutorials/python-pretty-print-json
-
 https://stackoverflow.com/questions/29281935/what-exactly-does-the-t-and-z-mean-in-timestamp
 
 https://stackoverflow.com/questions/50405953/how-to-count-nested-json-objects-from-a-nested-array-in-python
@@ -124,8 +120,6 @@ https://www.geeksforgeeks.org/read-json-file-using-python/
 https://realpython.com/visualizing-python-plt-scatter/
 
 https://docs.python.org/3/library/re.html
-
-https://regex101.com/
 
 https://www.geeksforgeeks.org/python-sort-list-according-second-element-sublist/
 
@@ -139,12 +133,4 @@ https://docs.python.org/3/library/datetime.html
 
 https://stackoverflow.com/questions/69774299/typeerror-float-argument-must-be-a-string-or-a-number-not-datetime-timedelt
 
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.html
-
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.suptitle.html
-
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.xlabel.html#matplotlib.pyplot.xlabel
-
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.ylabel.html#matplotlib.pyplot.ylabel
-
-https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.savefig.html#matplotlib.pyplot.savefig
+https://matplotlib.org/stable/api/pyplot_summary.html
