@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://contentstudio.io",
+  "self": "http://localhost:1208/timemap/json/https://contentstudio.io",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-07-27T19:20:31Z",
+        "uri": "http://archive.md/20160727192031/http://contentstudio.io/"
+      },
+      {
+        "datetime": "2017-11-03T01:46:58Z",
+        "uri": "http://archive.md/20171103014658/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2018-08-16T12:09:38Z",
+        "uri": "https://arquivo.pt/wayback/20180816120938mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-04-23T15:20:48Z",
+        "uri": "https://arquivo.pt/wayback/20190423152048mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-07-21T13:59:48Z",
+        "uri": "https://arquivo.pt/wayback/20190721135948mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-10-01T07:42:04Z",
+        "uri": "https://arquivo.pt/wayback/20191001074204mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-10-01T09:58:45Z",
+        "uri": "https://arquivo.pt/wayback/20191001095845mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-10-07T20:48:31Z",
+        "uri": "https://arquivo.pt/wayback/20191007204831mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2019-10-14T02:04:54Z",
+        "uri": "https://arquivo.pt/wayback/20191014020454mp_/http://support@contentstudio.io/"
+      },
+      {
+        "datetime": "2019-10-18T23:29:37Z",
+        "uri": "https://arquivo.pt/wayback/20191018232937mp_/http://support@contentstudio.io/"
+      },
+      {
+        "datetime": "2019-12-26T16:22:59Z",
+        "uri": "https://arquivo.pt/wayback/20191226162259mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2020-01-06T10:55:40Z",
+        "uri": "https://arquivo.pt/wayback/20200106105540mp_/http://support@contentstudio.io/"
+      },
+      {
+        "datetime": "2020-12-26T21:55:17Z",
+        "uri": "https://arquivo.pt/wayback/20201226215517mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2021-04-02T07:25:17Z",
+        "uri": "https://arquivo.pt/wayback/20210402072517mp_/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2021-04-04T05:06:20Z",
+        "uri": "https://arquivo.pt/wayback/20210404050620mp_/http://mailto:privacy@contentstudio.io/"
+      },
+      {
+        "datetime": "2021-05-19T04:28:54Z",
+        "uri": "http://archive.md/20210519042854/https://contentstudio.io/"
+      },
+      {
+        "datetime": "2021-09-22T17:41:43Z",
+        "uri": "https://arquivo.pt/wayback/20210922174143mp_/https://contentstudio.io/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-07-27T19:20:31Z",
+      "uri": "http://archive.md/20160727192031/http://contentstudio.io/"
+    },
+    "last": {
+      "datetime": "2021-09-22T17:41:43Z",
+      "uri": "https://arquivo.pt/wayback/20210922174143mp_/https://contentstudio.io/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://contentstudio.io",
+    "json_format": "http://localhost:1208/timemap/json/https://contentstudio.io",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://contentstudio.io"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://contentstudio.io"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation",
+  "self": "http://localhost:1208/timemap/json/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-15T08:22:51Z",
+        "uri": "http://archive.md/20221015082251/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-15T08:22:51Z",
+      "uri": "http://archive.md/20221015082251/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation"
+    },
+    "last": {
+      "datetime": "2022-10-15T08:22:51Z",
+      "uri": "http://archive.md/20221015082251/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation",
+    "json_format": "http://localhost:1208/timemap/json/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://seekingalpha.com/article/4546716-how-to-use-cash-in-bank-to-fight-inflation"
+}

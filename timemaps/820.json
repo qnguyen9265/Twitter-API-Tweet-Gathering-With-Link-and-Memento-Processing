@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.patreon.com/MekuuMaki",
+  "self": "http://localhost:1208/timemap/json/https://www.patreon.com/MekuuMaki",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-15T11:18:09Z",
+        "uri": "http://archive.md/20200215111809/https://www.patreon.com/MekuuMaki"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-15T11:18:09Z",
+      "uri": "http://archive.md/20200215111809/https://www.patreon.com/MekuuMaki"
+    },
+    "last": {
+      "datetime": "2020-02-15T11:18:09Z",
+      "uri": "http://archive.md/20200215111809/https://www.patreon.com/MekuuMaki"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.patreon.com/MekuuMaki",
+    "json_format": "http://localhost:1208/timemap/json/https://www.patreon.com/MekuuMaki",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.patreon.com/MekuuMaki"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.patreon.com/MekuuMaki"
+}

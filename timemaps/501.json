@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//",
+  "self": "http://localhost:1208/timemap/json/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-08T12:58:18Z",
+        "uri": "https://arquivo.pt/wayback/20200608125818mp_/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths/"
+      },
+      {
+        "datetime": "2020-08-27T20:17:38Z",
+        "uri": "https://arquivo.pt/wayback/20200827201738mp_/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths/"
+      },
+      {
+        "datetime": "2021-09-12T14:08:16Z",
+        "uri": "https://arquivo.pt/wayback/20210912140816mp_/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-08T12:58:18Z",
+      "uri": "https://arquivo.pt/wayback/20200608125818mp_/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths/"
+    },
+    "last": {
+      "datetime": "2021-09-12T14:08:16Z",
+      "uri": "https://arquivo.pt/wayback/20210912140816mp_/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cebm.net/covid-19/covid-19-florence-nightingales-daigrams-for-deaths//"
+}

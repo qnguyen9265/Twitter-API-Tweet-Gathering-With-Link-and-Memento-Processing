@@ -1,0 +1,2438 @@
+{
+  "original_uri": "https://www.linkfire.com",
+  "self": "http://localhost:1208/timemap/json/https://www.linkfire.com",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-03-27T08:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20180327084656mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-27T08:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20180327084656mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-28T07:41:33Z",
+        "uri": "https://arquivo.pt/wayback/20180328074133mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-28T07:41:33Z",
+        "uri": "https://arquivo.pt/wayback/20180328074133mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-29T00:32:33Z",
+        "uri": "https://arquivo.pt/wayback/20180329003233mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-29T00:32:33Z",
+        "uri": "https://arquivo.pt/wayback/20180329003233mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-30T05:40:31Z",
+        "uri": "https://arquivo.pt/wayback/20180330054031mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-30T05:40:31Z",
+        "uri": "https://arquivo.pt/wayback/20180330054031mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-31T08:05:25Z",
+        "uri": "https://arquivo.pt/wayback/20180331080525mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-03-31T08:05:25Z",
+        "uri": "https://arquivo.pt/wayback/20180331080525mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-01T07:27:49Z",
+        "uri": "https://arquivo.pt/wayback/20180401072749mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-01T07:27:49Z",
+        "uri": "https://arquivo.pt/wayback/20180401072749mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-02T06:32:11Z",
+        "uri": "https://arquivo.pt/wayback/20180402063211mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-03T03:21:01Z",
+        "uri": "https://arquivo.pt/wayback/20180403032101mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-04T02:51:17Z",
+        "uri": "https://arquivo.pt/wayback/20180404025117mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-05T04:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20180405045904mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-06T06:49:48Z",
+        "uri": "https://arquivo.pt/wayback/20180406064948mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-07T08:29:13Z",
+        "uri": "https://arquivo.pt/wayback/20180407082913mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-08T05:00:33Z",
+        "uri": "https://arquivo.pt/wayback/20180408050033mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-09T05:17:34Z",
+        "uri": "https://arquivo.pt/wayback/20180409051734mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-10T06:33:32Z",
+        "uri": "https://arquivo.pt/wayback/20180410063332mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-11T04:13:57Z",
+        "uri": "https://arquivo.pt/wayback/20180411041357mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-12T15:05:07Z",
+        "uri": "https://arquivo.pt/wayback/20180412150507mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-13T04:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20180413041452mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-14T07:00:50Z",
+        "uri": "https://arquivo.pt/wayback/20180414070050mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-15T02:58:36Z",
+        "uri": "https://arquivo.pt/wayback/20180415025836mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-16T04:52:37Z",
+        "uri": "https://arquivo.pt/wayback/20180416045237mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-17T07:07:27Z",
+        "uri": "https://arquivo.pt/wayback/20180417070727mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-18T04:46:19Z",
+        "uri": "https://arquivo.pt/wayback/20180418044619mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-19T04:11:44Z",
+        "uri": "https://arquivo.pt/wayback/20180419041144mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-20T05:20:16Z",
+        "uri": "https://arquivo.pt/wayback/20180420052016mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-21T02:26:05Z",
+        "uri": "https://arquivo.pt/wayback/20180421022605mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-22T04:16:58Z",
+        "uri": "https://arquivo.pt/wayback/20180422041658mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-23T03:14:12Z",
+        "uri": "https://arquivo.pt/wayback/20180423031412mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-24T04:11:51Z",
+        "uri": "https://arquivo.pt/wayback/20180424041151mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-25T06:06:58Z",
+        "uri": "https://arquivo.pt/wayback/20180425060658mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-26T06:22:04Z",
+        "uri": "https://arquivo.pt/wayback/20180426062204mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-27T03:39:56Z",
+        "uri": "https://arquivo.pt/wayback/20180427033956mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-28T05:14:09Z",
+        "uri": "https://arquivo.pt/wayback/20180428051409mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-29T04:40:53Z",
+        "uri": "https://arquivo.pt/wayback/20180429044053mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-04-30T03:09:33Z",
+        "uri": "https://arquivo.pt/wayback/20180430030933mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-01T04:41:13Z",
+        "uri": "https://arquivo.pt/wayback/20180501044113mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-02T04:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20180502044533mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-03T03:20:56Z",
+        "uri": "https://arquivo.pt/wayback/20180503032056mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-04T05:54:51Z",
+        "uri": "https://arquivo.pt/wayback/20180504055451mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-05T07:16:21Z",
+        "uri": "https://arquivo.pt/wayback/20180505071621mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-06T03:25:36Z",
+        "uri": "https://arquivo.pt/wayback/20180506032536mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-07T06:21:33Z",
+        "uri": "https://arquivo.pt/wayback/20180507062133mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-08T05:14:41Z",
+        "uri": "https://arquivo.pt/wayback/20180508051441mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-08T10:58:39Z",
+        "uri": "https://arquivo.pt/wayback/20180508105839mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-09T02:32:13Z",
+        "uri": "https://arquivo.pt/wayback/20180509023213mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-10T05:25:22Z",
+        "uri": "https://arquivo.pt/wayback/20180510052522mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-11T03:27:18Z",
+        "uri": "https://arquivo.pt/wayback/20180511032718mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-12T05:48:29Z",
+        "uri": "https://arquivo.pt/wayback/20180512054829mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-13T04:09:07Z",
+        "uri": "https://arquivo.pt/wayback/20180513040907mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-14T04:06:07Z",
+        "uri": "https://arquivo.pt/wayback/20180514040607mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-15T03:31:36Z",
+        "uri": "https://arquivo.pt/wayback/20180515033136mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-16T04:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20180516041239mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-17T03:13:31Z",
+        "uri": "https://arquivo.pt/wayback/20180517031331mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-18T02:58:20Z",
+        "uri": "https://arquivo.pt/wayback/20180518025820mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-19T02:42:54Z",
+        "uri": "https://arquivo.pt/wayback/20180519024254mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-20T03:04:27Z",
+        "uri": "https://arquivo.pt/wayback/20180520030427mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-21T03:08:22Z",
+        "uri": "https://arquivo.pt/wayback/20180521030822mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-21T22:11:06Z",
+        "uri": "https://arquivo.pt/wayback/20180521221106mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-23T04:14:05Z",
+        "uri": "https://arquivo.pt/wayback/20180523041405mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-24T06:46:22Z",
+        "uri": "https://arquivo.pt/wayback/20180524064622mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-25T07:24:38Z",
+        "uri": "https://arquivo.pt/wayback/20180525072438mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-26T04:16:23Z",
+        "uri": "https://arquivo.pt/wayback/20180526041623mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-27T04:56:45Z",
+        "uri": "https://arquivo.pt/wayback/20180527045645mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-28T04:16:57Z",
+        "uri": "https://arquivo.pt/wayback/20180528041657mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-29T03:07:42Z",
+        "uri": "https://arquivo.pt/wayback/20180529030742mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-30T03:31:19Z",
+        "uri": "https://arquivo.pt/wayback/20180530033119mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-05-31T03:08:13Z",
+        "uri": "https://arquivo.pt/wayback/20180531030813mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-01T04:30:56Z",
+        "uri": "https://arquivo.pt/wayback/20180601043056mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-02T04:37:16Z",
+        "uri": "https://arquivo.pt/wayback/20180602043716mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-03T05:26:34Z",
+        "uri": "https://arquivo.pt/wayback/20180603052634mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-04T04:44:01Z",
+        "uri": "https://arquivo.pt/wayback/20180604044401mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-05T04:44:30Z",
+        "uri": "https://arquivo.pt/wayback/20180605044430mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-06T04:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20180606043122mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-07T04:13:28Z",
+        "uri": "https://arquivo.pt/wayback/20180607041328mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-08T06:21:37Z",
+        "uri": "https://arquivo.pt/wayback/20180608062137mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-09T04:08:56Z",
+        "uri": "https://arquivo.pt/wayback/20180609040856mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-10T04:04:23Z",
+        "uri": "https://arquivo.pt/wayback/20180610040423mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-11T05:09:28Z",
+        "uri": "https://arquivo.pt/wayback/20180611050928mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-14T22:54:58Z",
+        "uri": "https://arquivo.pt/wayback/20180614225458mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-16T03:10:33Z",
+        "uri": "https://arquivo.pt/wayback/20180616031033mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-17T03:29:22Z",
+        "uri": "https://arquivo.pt/wayback/20180617032922mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-18T02:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20180618024116mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-23T14:54:41Z",
+        "uri": "https://arquivo.pt/wayback/20180623145441mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-06-30T16:59:51Z",
+        "uri": "https://arquivo.pt/wayback/20180630165951mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-01T17:02:16Z",
+        "uri": "https://arquivo.pt/wayback/20180701170216mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-02T17:01:15Z",
+        "uri": "https://arquivo.pt/wayback/20180702170115mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-03T17:20:03Z",
+        "uri": "https://arquivo.pt/wayback/20180703172003mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-04T17:34:31Z",
+        "uri": "https://arquivo.pt/wayback/20180704173431mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-05T22:13:18Z",
+        "uri": "https://arquivo.pt/wayback/20180705221318mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-09T17:22:49Z",
+        "uri": "https://arquivo.pt/wayback/20180709172249mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-10T15:39:34Z",
+        "uri": "https://arquivo.pt/wayback/20180710153934mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-11T16:14:17Z",
+        "uri": "https://arquivo.pt/wayback/20180711161417mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-12T16:26:03Z",
+        "uri": "https://arquivo.pt/wayback/20180712162603mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-13T18:28:18Z",
+        "uri": "https://arquivo.pt/wayback/20180713182818mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-14T17:53:25Z",
+        "uri": "https://arquivo.pt/wayback/20180714175325mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-15T17:49:53Z",
+        "uri": "https://arquivo.pt/wayback/20180715174953mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-16T17:31:15Z",
+        "uri": "https://arquivo.pt/wayback/20180716173115mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-17T16:07:57Z",
+        "uri": "https://arquivo.pt/wayback/20180717160757mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-18T16:24:46Z",
+        "uri": "https://arquivo.pt/wayback/20180718162446mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-19T06:07:33Z",
+        "uri": "https://arquivo.pt/wayback/20180719060733mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-19T17:34:37Z",
+        "uri": "https://arquivo.pt/wayback/20180719173437mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-20T17:29:04Z",
+        "uri": "https://arquivo.pt/wayback/20180720172904mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-21T16:59:26Z",
+        "uri": "https://arquivo.pt/wayback/20180721165926mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-22T13:54:03Z",
+        "uri": "https://arquivo.pt/wayback/20180722135403mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-22T16:32:24Z",
+        "uri": "https://arquivo.pt/wayback/20180722163224mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-23T17:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20180723170656mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-24T21:53:16Z",
+        "uri": "https://arquivo.pt/wayback/20180724215316mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-25T21:29:25Z",
+        "uri": "https://arquivo.pt/wayback/20180725212925mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-26T23:21:15Z",
+        "uri": "https://arquivo.pt/wayback/20180726232115mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-28T03:57:17Z",
+        "uri": "https://arquivo.pt/wayback/20180728035717mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-29T03:00:12Z",
+        "uri": "https://arquivo.pt/wayback/20180729030012mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-07-30T03:39:06Z",
+        "uri": "https://arquivo.pt/wayback/20180730033906mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-01T04:10:41Z",
+        "uri": "https://arquivo.pt/wayback/20180801041041mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-02T04:30:51Z",
+        "uri": "https://arquivo.pt/wayback/20180802043051mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-03T05:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20180803051045mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-04T03:40:10Z",
+        "uri": "https://arquivo.pt/wayback/20180804034010mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-05T03:28:56Z",
+        "uri": "https://arquivo.pt/wayback/20180805032856mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-06T03:35:49Z",
+        "uri": "https://arquivo.pt/wayback/20180806033549mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-07T03:34:04Z",
+        "uri": "https://arquivo.pt/wayback/20180807033404mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-08T04:30:55Z",
+        "uri": "https://arquivo.pt/wayback/20180808043055mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-09T03:52:16Z",
+        "uri": "https://arquivo.pt/wayback/20180809035216mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-10T03:51:36Z",
+        "uri": "https://arquivo.pt/wayback/20180810035136mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-11T03:36:22Z",
+        "uri": "https://arquivo.pt/wayback/20180811033622mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-12T03:20:46Z",
+        "uri": "https://arquivo.pt/wayback/20180812032046mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-13T02:58:53Z",
+        "uri": "https://arquivo.pt/wayback/20180813025853mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-14T03:27:14Z",
+        "uri": "https://arquivo.pt/wayback/20180814032714mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-15T03:49:55Z",
+        "uri": "https://arquivo.pt/wayback/20180815034955mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-16T03:37:46Z",
+        "uri": "https://arquivo.pt/wayback/20180816033746mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-17T02:58:47Z",
+        "uri": "https://arquivo.pt/wayback/20180817025847mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-18T04:37:15Z",
+        "uri": "https://arquivo.pt/wayback/20180818043715mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-19T03:18:48Z",
+        "uri": "https://arquivo.pt/wayback/20180819031848mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-20T03:26:41Z",
+        "uri": "https://arquivo.pt/wayback/20180820032641mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-21T04:18:08Z",
+        "uri": "https://arquivo.pt/wayback/20180821041808mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-22T04:00:56Z",
+        "uri": "https://arquivo.pt/wayback/20180822040056mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-23T03:15:55Z",
+        "uri": "https://arquivo.pt/wayback/20180823031555mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-25T03:41:02Z",
+        "uri": "https://arquivo.pt/wayback/20180825034102mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-26T02:59:17Z",
+        "uri": "https://arquivo.pt/wayback/20180826025917mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-27T03:21:40Z",
+        "uri": "https://arquivo.pt/wayback/20180827032140mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-28T03:08:26Z",
+        "uri": "https://arquivo.pt/wayback/20180828030826mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-29T03:35:27Z",
+        "uri": "https://arquivo.pt/wayback/20180829033527mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-30T03:34:33Z",
+        "uri": "https://arquivo.pt/wayback/20180830033433mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-08-31T04:23:14Z",
+        "uri": "https://arquivo.pt/wayback/20180831042314mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-01T03:18:32Z",
+        "uri": "https://arquivo.pt/wayback/20180901031832mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-02T03:32:24Z",
+        "uri": "https://arquivo.pt/wayback/20180902033224mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-03T03:41:09Z",
+        "uri": "https://arquivo.pt/wayback/20180903034109mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-04T04:03:16Z",
+        "uri": "https://arquivo.pt/wayback/20180904040316mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-05T03:25:24Z",
+        "uri": "https://arquivo.pt/wayback/20180905032524mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-05T03:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20180905035244mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-06T03:52:38Z",
+        "uri": "https://arquivo.pt/wayback/20180906035238mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-07T03:28:51Z",
+        "uri": "https://arquivo.pt/wayback/20180907032851mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-08T03:13:35Z",
+        "uri": "https://arquivo.pt/wayback/20180908031335mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-09T03:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20180909031954mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-10T02:59:49Z",
+        "uri": "https://arquivo.pt/wayback/20180910025949mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-12T03:23:14Z",
+        "uri": "https://arquivo.pt/wayback/20180912032314mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-13T03:28:33Z",
+        "uri": "https://arquivo.pt/wayback/20180913032833mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-14T03:41:20Z",
+        "uri": "https://arquivo.pt/wayback/20180914034120mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-15T03:49:30Z",
+        "uri": "https://arquivo.pt/wayback/20180915034930mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-16T03:16:47Z",
+        "uri": "https://arquivo.pt/wayback/20180916031647mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-17T03:26:36Z",
+        "uri": "https://arquivo.pt/wayback/20180917032636mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-18T03:11:55Z",
+        "uri": "https://arquivo.pt/wayback/20180918031155mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-19T03:26:40Z",
+        "uri": "https://arquivo.pt/wayback/20180919032640mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-20T03:31:15Z",
+        "uri": "https://arquivo.pt/wayback/20180920033115mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-21T03:46:27Z",
+        "uri": "https://arquivo.pt/wayback/20180921034627mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-22T03:20:57Z",
+        "uri": "https://arquivo.pt/wayback/20180922032057mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-23T02:56:44Z",
+        "uri": "https://arquivo.pt/wayback/20180923025644mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-24T03:31:26Z",
+        "uri": "https://arquivo.pt/wayback/20180924033126mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-25T03:50:06Z",
+        "uri": "https://arquivo.pt/wayback/20180925035006mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-26T03:25:34Z",
+        "uri": "https://arquivo.pt/wayback/20180926032534mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-27T03:37:56Z",
+        "uri": "https://arquivo.pt/wayback/20180927033756mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-28T03:01:19Z",
+        "uri": "https://arquivo.pt/wayback/20180928030119mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-09-29T03:36:42Z",
+        "uri": "https://arquivo.pt/wayback/20180929033642mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-01T03:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20181001031931mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-02T03:15:10Z",
+        "uri": "https://arquivo.pt/wayback/20181002031510mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-03T03:37:04Z",
+        "uri": "https://arquivo.pt/wayback/20181003033704mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-04T03:37:36Z",
+        "uri": "https://arquivo.pt/wayback/20181004033736mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-05T04:07:58Z",
+        "uri": "https://arquivo.pt/wayback/20181005040758mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-06T03:04:59Z",
+        "uri": "https://arquivo.pt/wayback/20181006030459mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-07T02:58:40Z",
+        "uri": "https://arquivo.pt/wayback/20181007025840mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-08T03:03:41Z",
+        "uri": "https://arquivo.pt/wayback/20181008030341mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-09T03:32:35Z",
+        "uri": "https://arquivo.pt/wayback/20181009033235mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-09T22:18:22Z",
+        "uri": "https://arquivo.pt/wayback/20181009221822mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-11T03:58:16Z",
+        "uri": "https://arquivo.pt/wayback/20181011035816mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-12T03:59:33Z",
+        "uri": "https://arquivo.pt/wayback/20181012035933mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-13T04:03:50Z",
+        "uri": "https://arquivo.pt/wayback/20181013040350mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-14T03:52:23Z",
+        "uri": "https://arquivo.pt/wayback/20181014035223mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-15T03:21:12Z",
+        "uri": "https://arquivo.pt/wayback/20181015032112mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-16T03:53:06Z",
+        "uri": "https://arquivo.pt/wayback/20181016035306mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-17T04:18:45Z",
+        "uri": "https://arquivo.pt/wayback/20181017041845mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-18T03:20:25Z",
+        "uri": "https://arquivo.pt/wayback/20181018032025mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-19T03:33:35Z",
+        "uri": "https://arquivo.pt/wayback/20181019033335mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-20T03:11:48Z",
+        "uri": "https://arquivo.pt/wayback/20181020031148mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-21T03:26:16Z",
+        "uri": "https://arquivo.pt/wayback/20181021032616mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-22T02:52:52Z",
+        "uri": "https://arquivo.pt/wayback/20181022025252mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-23T03:16:29Z",
+        "uri": "https://arquivo.pt/wayback/20181023031629mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-24T03:55:34Z",
+        "uri": "https://arquivo.pt/wayback/20181024035534mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-25T03:01:58Z",
+        "uri": "https://arquivo.pt/wayback/20181025030158mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-26T04:11:28Z",
+        "uri": "https://arquivo.pt/wayback/20181026041128mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-27T03:37:06Z",
+        "uri": "https://arquivo.pt/wayback/20181027033706mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-28T03:12:33Z",
+        "uri": "https://arquivo.pt/wayback/20181028031233mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-29T05:14:48Z",
+        "uri": "https://arquivo.pt/wayback/20181029051448mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-30T04:49:15Z",
+        "uri": "https://arquivo.pt/wayback/20181030044915mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-10-31T04:57:06Z",
+        "uri": "https://arquivo.pt/wayback/20181031045706mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-02T05:08:27Z",
+        "uri": "https://arquivo.pt/wayback/20181102050827mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-03T05:39:04Z",
+        "uri": "https://arquivo.pt/wayback/20181103053904mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-04T06:16:12Z",
+        "uri": "https://arquivo.pt/wayback/20181104061612mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-05T06:05:53Z",
+        "uri": "https://arquivo.pt/wayback/20181105060553mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-06T04:55:20Z",
+        "uri": "https://arquivo.pt/wayback/20181106045520mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-07T05:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20181107053005mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-08T04:10:11Z",
+        "uri": "https://arquivo.pt/wayback/20181108041011mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-09T04:38:33Z",
+        "uri": "https://arquivo.pt/wayback/20181109043833mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-10T04:04:50Z",
+        "uri": "https://arquivo.pt/wayback/20181110040450mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-11T04:10:06Z",
+        "uri": "https://arquivo.pt/wayback/20181111041006mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-12T04:41:38Z",
+        "uri": "https://arquivo.pt/wayback/20181112044138mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-13T04:34:36Z",
+        "uri": "https://arquivo.pt/wayback/20181113043436mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-14T05:39:08Z",
+        "uri": "https://arquivo.pt/wayback/20181114053908mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-15T05:51:26Z",
+        "uri": "https://arquivo.pt/wayback/20181115055126mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-16T03:14:27Z",
+        "uri": "https://arquivo.pt/wayback/20181116031427mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-17T03:56:11Z",
+        "uri": "https://arquivo.pt/wayback/20181117035611mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-19T03:32:17Z",
+        "uri": "https://arquivo.pt/wayback/20181119033217mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-20T03:32:26Z",
+        "uri": "https://arquivo.pt/wayback/20181120033226mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-21T04:50:35Z",
+        "uri": "https://arquivo.pt/wayback/20181121045035mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-22T03:25:15Z",
+        "uri": "https://arquivo.pt/wayback/20181122032515mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-23T02:48:01Z",
+        "uri": "https://arquivo.pt/wayback/20181123024801mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-24T04:00:05Z",
+        "uri": "https://arquivo.pt/wayback/20181124040005mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-25T03:16:06Z",
+        "uri": "https://arquivo.pt/wayback/20181125031606mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-26T03:37:50Z",
+        "uri": "https://arquivo.pt/wayback/20181126033750mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-27T02:58:17Z",
+        "uri": "https://arquivo.pt/wayback/20181127025817mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-28T03:27:05Z",
+        "uri": "https://arquivo.pt/wayback/20181128032705mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-11-29T04:38:06Z",
+        "uri": "https://arquivo.pt/wayback/20181129043806mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-01T05:45:57Z",
+        "uri": "https://arquivo.pt/wayback/20181201054557mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-02T05:39:19Z",
+        "uri": "https://arquivo.pt/wayback/20181202053919mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-03T06:02:37Z",
+        "uri": "https://arquivo.pt/wayback/20181203060237mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-04T05:35:50Z",
+        "uri": "https://arquivo.pt/wayback/20181204053550mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-05T05:29:50Z",
+        "uri": "https://arquivo.pt/wayback/20181205052950mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-06T05:25:30Z",
+        "uri": "https://arquivo.pt/wayback/20181206052530mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-07T06:12:42Z",
+        "uri": "https://arquivo.pt/wayback/20181207061242mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-08T06:09:25Z",
+        "uri": "https://arquivo.pt/wayback/20181208060925mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-09T06:03:21Z",
+        "uri": "https://arquivo.pt/wayback/20181209060321mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-10T06:35:49Z",
+        "uri": "https://arquivo.pt/wayback/20181210063549mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-11T06:47:10Z",
+        "uri": "https://arquivo.pt/wayback/20181211064710mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-12T05:59:14Z",
+        "uri": "https://arquivo.pt/wayback/20181212055914mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-13T06:01:28Z",
+        "uri": "https://arquivo.pt/wayback/20181213060128mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-14T06:05:45Z",
+        "uri": "https://arquivo.pt/wayback/20181214060545mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-15T04:01:41Z",
+        "uri": "https://arquivo.pt/wayback/20181215040141mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-16T04:46:58Z",
+        "uri": "https://arquivo.pt/wayback/20181216044658mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-17T05:10:08Z",
+        "uri": "https://arquivo.pt/wayback/20181217051008mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-18T05:48:47Z",
+        "uri": "https://arquivo.pt/wayback/20181218054847mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-19T05:31:32Z",
+        "uri": "https://arquivo.pt/wayback/20181219053132mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-19T22:26:49Z",
+        "uri": "https://arquivo.pt/wayback/20181219222649mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-21T06:42:00Z",
+        "uri": "https://arquivo.pt/wayback/20181221064200mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-21T21:46:20Z",
+        "uri": "https://arquivo.pt/wayback/20181221214620mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-23T06:10:14Z",
+        "uri": "https://arquivo.pt/wayback/20181223061014mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-23T22:13:57Z",
+        "uri": "https://arquivo.pt/wayback/20181223221357mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-25T06:32:42Z",
+        "uri": "https://arquivo.pt/wayback/20181225063242mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-25T21:45:25Z",
+        "uri": "https://arquivo.pt/wayback/20181225214525mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-26T23:27:48Z",
+        "uri": "https://arquivo.pt/wayback/20181226232748mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-27T23:23:13Z",
+        "uri": "https://arquivo.pt/wayback/20181227232313mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-28T22:55:40Z",
+        "uri": "https://arquivo.pt/wayback/20181228225540mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-29T23:07:08Z",
+        "uri": "https://arquivo.pt/wayback/20181229230708mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2018-12-31T07:50:40Z",
+        "uri": "https://arquivo.pt/wayback/20181231075040mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-01T07:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20190101071239mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-02T07:43:57Z",
+        "uri": "https://arquivo.pt/wayback/20190102074357mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-03T07:42:09Z",
+        "uri": "https://arquivo.pt/wayback/20190103074209mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-04T07:31:44Z",
+        "uri": "https://arquivo.pt/wayback/20190104073144mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-06T08:32:49Z",
+        "uri": "https://arquivo.pt/wayback/20190106083249mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-07T08:09:00Z",
+        "uri": "https://arquivo.pt/wayback/20190107080900mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-08T03:58:52Z",
+        "uri": "https://arquivo.pt/wayback/20190108035852mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-09T08:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20190109083122mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-09T23:26:17Z",
+        "uri": "https://arquivo.pt/wayback/20190109232617mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-11T06:39:32Z",
+        "uri": "https://arquivo.pt/wayback/20190111063932mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-11T23:16:46Z",
+        "uri": "https://arquivo.pt/wayback/20190111231646mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-13T06:29:01Z",
+        "uri": "https://arquivo.pt/wayback/20190113062901mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-14T05:35:52Z",
+        "uri": "https://arquivo.pt/wayback/20190114053552mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-15T02:34:53Z",
+        "uri": "https://arquivo.pt/wayback/20190115023453mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-15T23:31:42Z",
+        "uri": "https://arquivo.pt/wayback/20190115233142mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-17T06:10:32Z",
+        "uri": "https://arquivo.pt/wayback/20190117061032mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-18T05:55:46Z",
+        "uri": "https://arquivo.pt/wayback/20190118055546mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-19T05:52:04Z",
+        "uri": "https://arquivo.pt/wayback/20190119055204mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-20T06:46:21Z",
+        "uri": "https://arquivo.pt/wayback/20190120064621mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-21T06:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20190121064945mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-22T06:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20190122061452mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-23T06:41:58Z",
+        "uri": "https://arquivo.pt/wayback/20190123064158mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-24T06:55:53Z",
+        "uri": "https://arquivo.pt/wayback/20190124065553mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-25T06:43:50Z",
+        "uri": "https://arquivo.pt/wayback/20190125064350mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-26T06:19:56Z",
+        "uri": "https://arquivo.pt/wayback/20190126061956mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-27T06:16:54Z",
+        "uri": "https://arquivo.pt/wayback/20190127061654mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-28T05:22:38Z",
+        "uri": "https://arquivo.pt/wayback/20190128052238mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-29T05:39:08Z",
+        "uri": "https://arquivo.pt/wayback/20190129053908mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-30T05:50:34Z",
+        "uri": "https://arquivo.pt/wayback/20190130055034mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-01-31T06:30:56Z",
+        "uri": "https://arquivo.pt/wayback/20190131063056mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-01T06:17:07Z",
+        "uri": "https://arquivo.pt/wayback/20190201061707mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-02T06:35:54Z",
+        "uri": "https://arquivo.pt/wayback/20190202063554mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-04T06:25:20Z",
+        "uri": "https://arquivo.pt/wayback/20190204062520mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-05T05:37:26Z",
+        "uri": "https://arquivo.pt/wayback/20190205053726mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-06T05:50:21Z",
+        "uri": "https://arquivo.pt/wayback/20190206055021mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-07T05:58:25Z",
+        "uri": "https://arquivo.pt/wayback/20190207055825mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-08T06:23:19Z",
+        "uri": "https://arquivo.pt/wayback/20190208062319mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-09T06:45:58Z",
+        "uri": "https://arquivo.pt/wayback/20190209064558mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-10T06:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20190210060405mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-11T06:31:19Z",
+        "uri": "https://arquivo.pt/wayback/20190211063119mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-12T06:18:50Z",
+        "uri": "https://arquivo.pt/wayback/20190212061850mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-14T06:37:56Z",
+        "uri": "https://arquivo.pt/wayback/20190214063756mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-15T06:48:39Z",
+        "uri": "https://arquivo.pt/wayback/20190215064839mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-16T06:37:45Z",
+        "uri": "https://arquivo.pt/wayback/20190216063745mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-17T05:34:25Z",
+        "uri": "https://arquivo.pt/wayback/20190217053425mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-18T05:52:52Z",
+        "uri": "https://arquivo.pt/wayback/20190218055252mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-19T06:06:16Z",
+        "uri": "https://arquivo.pt/wayback/20190219060616mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-20T06:17:32Z",
+        "uri": "https://arquivo.pt/wayback/20190220061732mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-21T06:28:34Z",
+        "uri": "https://arquivo.pt/wayback/20190221062834mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-22T07:13:49Z",
+        "uri": "https://arquivo.pt/wayback/20190222071349mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-23T06:44:24Z",
+        "uri": "https://arquivo.pt/wayback/20190223064424mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-24T06:55:37Z",
+        "uri": "https://arquivo.pt/wayback/20190224065537mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-25T06:49:05Z",
+        "uri": "https://arquivo.pt/wayback/20190225064905mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-26T06:43:26Z",
+        "uri": "https://arquivo.pt/wayback/20190226064326mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-27T06:41:27Z",
+        "uri": "https://arquivo.pt/wayback/20190227064127mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-02-28T06:59:00Z",
+        "uri": "https://arquivo.pt/wayback/20190228065900mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-01T06:57:08Z",
+        "uri": "https://arquivo.pt/wayback/20190301065708mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-02T06:19:39Z",
+        "uri": "https://arquivo.pt/wayback/20190302061939mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-03T06:23:29Z",
+        "uri": "https://arquivo.pt/wayback/20190303062329mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-04T06:24:03Z",
+        "uri": "https://arquivo.pt/wayback/20190304062403mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-05T06:17:18Z",
+        "uri": "https://arquivo.pt/wayback/20190305061718mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-06T06:31:09Z",
+        "uri": "https://arquivo.pt/wayback/20190306063109mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-07T07:13:40Z",
+        "uri": "https://arquivo.pt/wayback/20190307071340mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-08T06:30:23Z",
+        "uri": "https://arquivo.pt/wayback/20190308063023mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-09T05:22:08Z",
+        "uri": "https://arquivo.pt/wayback/20190309052208mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-10T06:28:44Z",
+        "uri": "https://arquivo.pt/wayback/20190310062844mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-11T06:31:30Z",
+        "uri": "https://arquivo.pt/wayback/20190311063130mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-12T07:12:21Z",
+        "uri": "https://arquivo.pt/wayback/20190312071221mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-13T07:27:13Z",
+        "uri": "https://arquivo.pt/wayback/20190313072713mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-14T07:36:07Z",
+        "uri": "https://arquivo.pt/wayback/20190314073607mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-15T07:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20190315072251mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-16T07:09:57Z",
+        "uri": "https://arquivo.pt/wayback/20190316070957mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-17T06:18:16Z",
+        "uri": "https://arquivo.pt/wayback/20190317061816mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-18T06:45:14Z",
+        "uri": "https://arquivo.pt/wayback/20190318064514mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-20T07:19:19Z",
+        "uri": "https://arquivo.pt/wayback/20190320071919mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-21T09:39:21Z",
+        "uri": "https://arquivo.pt/wayback/20190321093921mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-23T09:44:44Z",
+        "uri": "https://arquivo.pt/wayback/20190323094444mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-24T08:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20190324084533mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-25T08:49:06Z",
+        "uri": "https://arquivo.pt/wayback/20190325084906mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-26T09:34:56Z",
+        "uri": "https://arquivo.pt/wayback/20190326093456mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-27T08:57:31Z",
+        "uri": "https://arquivo.pt/wayback/20190327085731mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-28T09:08:05Z",
+        "uri": "https://arquivo.pt/wayback/20190328090805mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-28T17:44:20Z",
+        "uri": "https://arquivo.pt/wayback/20190328174420mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-29T09:00:17Z",
+        "uri": "https://arquivo.pt/wayback/20190329090017mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-30T08:44:59Z",
+        "uri": "https://arquivo.pt/wayback/20190330084459mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-03-31T08:59:05Z",
+        "uri": "https://arquivo.pt/wayback/20190331085905mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-01T07:31:02Z",
+        "uri": "https://arquivo.pt/wayback/20190401073102mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-02T08:01:08Z",
+        "uri": "https://arquivo.pt/wayback/20190402080108mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-03T07:45:32Z",
+        "uri": "https://arquivo.pt/wayback/20190403074532mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-04T08:08:55Z",
+        "uri": "https://arquivo.pt/wayback/20190404080855mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-05T07:43:21Z",
+        "uri": "https://arquivo.pt/wayback/20190405074321mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-06T07:17:01Z",
+        "uri": "https://arquivo.pt/wayback/20190406071701mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-07T08:12:23Z",
+        "uri": "https://arquivo.pt/wayback/20190407081223mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-08T08:05:26Z",
+        "uri": "https://arquivo.pt/wayback/20190408080526mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-09T08:08:36Z",
+        "uri": "https://arquivo.pt/wayback/20190409080836mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-10T08:52:05Z",
+        "uri": "https://arquivo.pt/wayback/20190410085205mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-11T08:32:47Z",
+        "uri": "https://arquivo.pt/wayback/20190411083247mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-12T08:26:18Z",
+        "uri": "https://arquivo.pt/wayback/20190412082618mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-13T07:45:18Z",
+        "uri": "https://arquivo.pt/wayback/20190413074518mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-14T07:25:21Z",
+        "uri": "https://arquivo.pt/wayback/20190414072521mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-15T07:37:26Z",
+        "uri": "https://arquivo.pt/wayback/20190415073726mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-16T08:00:43Z",
+        "uri": "https://arquivo.pt/wayback/20190416080043mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-17T09:09:55Z",
+        "uri": "https://arquivo.pt/wayback/20190417090955mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-18T08:28:18Z",
+        "uri": "https://arquivo.pt/wayback/20190418082818mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-19T08:23:39Z",
+        "uri": "https://arquivo.pt/wayback/20190419082339mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-20T08:55:58Z",
+        "uri": "https://arquivo.pt/wayback/20190420085558mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-21T07:44:55Z",
+        "uri": "https://arquivo.pt/wayback/20190421074455mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-22T03:58:46Z",
+        "uri": "https://arquivo.pt/wayback/20190422035846mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-23T08:41:31Z",
+        "uri": "https://arquivo.pt/wayback/20190423084131mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-24T08:14:17Z",
+        "uri": "https://arquivo.pt/wayback/20190424081417mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-25T08:39:19Z",
+        "uri": "https://arquivo.pt/wayback/20190425083919mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-26T08:30:56Z",
+        "uri": "https://arquivo.pt/wayback/20190426083056mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-27T08:35:49Z",
+        "uri": "https://arquivo.pt/wayback/20190427083549mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-28T08:53:26Z",
+        "uri": "https://arquivo.pt/wayback/20190428085326mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-29T07:39:47Z",
+        "uri": "https://arquivo.pt/wayback/20190429073947mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-04-30T08:06:15Z",
+        "uri": "https://arquivo.pt/wayback/20190430080615mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-01T08:04:39Z",
+        "uri": "https://arquivo.pt/wayback/20190501080439mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-02T08:10:32Z",
+        "uri": "https://arquivo.pt/wayback/20190502081032mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-03T07:55:48Z",
+        "uri": "https://arquivo.pt/wayback/20190503075548mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-04T07:37:51Z",
+        "uri": "https://arquivo.pt/wayback/20190504073751mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-05T07:50:49Z",
+        "uri": "https://arquivo.pt/wayback/20190505075049mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-06T07:53:20Z",
+        "uri": "https://arquivo.pt/wayback/20190506075320mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-07T09:00:24Z",
+        "uri": "https://arquivo.pt/wayback/20190507090024mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-08T11:13:23Z",
+        "uri": "https://arquivo.pt/wayback/20190508111323mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-09T10:15:07Z",
+        "uri": "https://arquivo.pt/wayback/20190509101507mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-10T09:14:38Z",
+        "uri": "https://arquivo.pt/wayback/20190510091438mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-11T05:59:16Z",
+        "uri": "https://arquivo.pt/wayback/20190511055916mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-12T06:40:19Z",
+        "uri": "https://arquivo.pt/wayback/20190512064019mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-13T05:25:10Z",
+        "uri": "https://arquivo.pt/wayback/20190513052510mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-14T05:23:54Z",
+        "uri": "https://arquivo.pt/wayback/20190514052354mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-15T07:09:16Z",
+        "uri": "https://arquivo.pt/wayback/20190515070916mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-16T14:28:05Z",
+        "uri": "https://arquivo.pt/wayback/20190516142805mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-21T14:49:37Z",
+        "uri": "https://arquivo.pt/wayback/20190521144937mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-23T13:33:01Z",
+        "uri": "https://arquivo.pt/wayback/20190523133301mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-27T13:07:46Z",
+        "uri": "https://arquivo.pt/wayback/20190527130746mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-28T12:45:31Z",
+        "uri": "https://arquivo.pt/wayback/20190528124531mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-05-29T13:18:21Z",
+        "uri": "https://arquivo.pt/wayback/20190529131821mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-04T13:16:25Z",
+        "uri": "https://arquivo.pt/wayback/20190604131625mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-06T14:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20190606140048mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-07T22:54:27Z",
+        "uri": "https://arquivo.pt/wayback/20190607225427mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-08T07:15:20Z",
+        "uri": "https://arquivo.pt/wayback/20190608071520mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-18T03:22:20Z",
+        "uri": "http://archive.md/20190618032220/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-19T18:52:47Z",
+        "uri": "https://arquivo.pt/wayback/20190619185247mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-19T18:52:55Z",
+        "uri": "https://arquivo.pt/wayback/20190619185255mp_/http://linkfire.com/"
+      },
+      {
+        "datetime": "2019-06-25T04:08:07Z",
+        "uri": "https://arquivo.pt/wayback/20190625040807mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-07-09T06:46:14Z",
+        "uri": "https://arquivo.pt/wayback/20190709064614mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-07-10T07:11:36Z",
+        "uri": "https://arquivo.pt/wayback/20190710071136mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-07-11T07:15:16Z",
+        "uri": "https://arquivo.pt/wayback/20190711071516mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-07-17T06:39:54Z",
+        "uri": "https://arquivo.pt/wayback/20190717063954mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-08-07T06:36:24Z",
+        "uri": "https://arquivo.pt/wayback/20190807063624mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-08-10T12:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20190810121803mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-09-03T01:15:35Z",
+        "uri": "http://archive.md/20190903011535/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-09-05T11:38:28Z",
+        "uri": "https://arquivo.pt/wayback/20190905113828mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-09-23T23:41:12Z",
+        "uri": "https://arquivo.pt/wayback/20190923234112mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-02T00:40:40Z",
+        "uri": "https://arquivo.pt/wayback/20191002004040mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-06T18:50:35Z",
+        "uri": "https://arquivo.pt/wayback/20191006185035mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-06T18:52:38Z",
+        "uri": "https://arquivo.pt/wayback/20191006185238mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-07T06:44:12Z",
+        "uri": "https://arquivo.pt/wayback/20191007064412mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-07T13:51:47Z",
+        "uri": "https://arquivo.pt/wayback/20191007135147mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-07T23:15:51Z",
+        "uri": "https://arquivo.pt/wayback/20191007231551mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-08T01:47:45Z",
+        "uri": "https://arquivo.pt/wayback/20191008014745mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-08T23:14:05Z",
+        "uri": "https://arquivo.pt/wayback/20191008231405mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-09T01:57:53Z",
+        "uri": "https://arquivo.pt/wayback/20191009015753mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-10-31T00:14:40Z",
+        "uri": "https://arquivo.pt/wayback/20191031001440mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-11-05T00:17:54Z",
+        "uri": "https://arquivo.pt/wayback/20191105001754mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-11-06T00:07:38Z",
+        "uri": "https://arquivo.pt/wayback/20191106000738mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-11-30T00:26:16Z",
+        "uri": "https://arquivo.pt/wayback/20191130002616mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-12-21T14:50:34Z",
+        "uri": "https://arquivo.pt/wayback/20191221145034mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2019-12-24T05:42:15Z",
+        "uri": "http://archive.md/20191224054215/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-01-07T13:47:39Z",
+        "uri": "https://arquivo.pt/wayback/20200107134739mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-01-07T23:32:45Z",
+        "uri": "https://arquivo.pt/wayback/20200107233245mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-01-10T23:34:39Z",
+        "uri": "https://arquivo.pt/wayback/20200110233439mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-01-24T01:25:48Z",
+        "uri": "https://arquivo.pt/wayback/20200124012548mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-01-28T01:15:35Z",
+        "uri": "https://arquivo.pt/wayback/20200128011535mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-02-12T07:34:02Z",
+        "uri": "https://arquivo.pt/wayback/20200212073402mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-02-17T22:35:31Z",
+        "uri": "https://arquivo.pt/wayback/20200217223531mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-02-19T22:01:51Z",
+        "uri": "https://arquivo.pt/wayback/20200219220151mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-02-28T22:57:52Z",
+        "uri": "https://arquivo.pt/wayback/20200228225752mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-03-17T03:57:07Z",
+        "uri": "https://arquivo.pt/wayback/20200317035707mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-02T17:16:48Z",
+        "uri": "https://arquivo.pt/wayback/20200402171648mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-07T17:26:02Z",
+        "uri": "https://arquivo.pt/wayback/20200407172602mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-15T17:09:41Z",
+        "uri": "https://arquivo.pt/wayback/20200415170941mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-21T17:08:30Z",
+        "uri": "https://arquivo.pt/wayback/20200421170830mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-22T17:07:37Z",
+        "uri": "https://arquivo.pt/wayback/20200422170737mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-26T17:18:35Z",
+        "uri": "https://arquivo.pt/wayback/20200426171835mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-04-30T17:12:15Z",
+        "uri": "https://arquivo.pt/wayback/20200430171215mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-04T17:13:35Z",
+        "uri": "https://arquivo.pt/wayback/20200504171335mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-05T17:15:02Z",
+        "uri": "https://arquivo.pt/wayback/20200505171502mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-06T17:26:47Z",
+        "uri": "https://arquivo.pt/wayback/20200506172647mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-07T17:13:17Z",
+        "uri": "https://arquivo.pt/wayback/20200507171317mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-08T17:56:35Z",
+        "uri": "https://arquivo.pt/wayback/20200508175635mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-09T17:14:44Z",
+        "uri": "https://arquivo.pt/wayback/20200509171444mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-10T17:13:40Z",
+        "uri": "https://arquivo.pt/wayback/20200510171340mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-11T17:14:03Z",
+        "uri": "https://arquivo.pt/wayback/20200511171403mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-15T17:13:59Z",
+        "uri": "https://arquivo.pt/wayback/20200515171359mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-19T17:15:55Z",
+        "uri": "https://arquivo.pt/wayback/20200519171555mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-20T17:10:42Z",
+        "uri": "https://arquivo.pt/wayback/20200520171042mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-25T17:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20200525171031mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-26T17:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20200526171031mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-05-28T17:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20200528171031mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-06-04T17:10:18Z",
+        "uri": "https://arquivo.pt/wayback/20200604171018mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-06-05T17:10:30Z",
+        "uri": "https://arquivo.pt/wayback/20200605171030mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-06-16T17:10:48Z",
+        "uri": "https://arquivo.pt/wayback/20200616171048mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-06-17T01:49:05Z",
+        "uri": "https://arquivo.pt/wayback/20200617014905mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-06-18T17:10:26Z",
+        "uri": "https://arquivo.pt/wayback/20200618171026mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-07-03T17:10:31Z",
+        "uri": "https://arquivo.pt/wayback/20200703171031mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-07-04T17:36:34Z",
+        "uri": "https://arquivo.pt/wayback/20200704173634mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2020-07-18T12:35:14Z",
+        "uri": "http://archive.md/20200718123514/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-07-22T17:10:30Z",
+        "uri": "https://arquivo.pt/wayback/20200722171030mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-07-29T17:10:41Z",
+        "uri": "https://arquivo.pt/wayback/20200729171041mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-05T17:10:33Z",
+        "uri": "https://arquivo.pt/wayback/20200805171033mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-07T08:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20200807083927mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-07T17:07:20Z",
+        "uri": "https://arquivo.pt/wayback/20200807170720mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-12T17:02:29Z",
+        "uri": "https://arquivo.pt/wayback/20200812170229mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-18T17:05:40Z",
+        "uri": "https://arquivo.pt/wayback/20200818170540mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-26T10:45:16Z",
+        "uri": "http://archive.md/20200826104516/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-08-26T10:45:50Z",
+        "uri": "http://archive.md/20200826104550/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-09-03T03:09:38Z",
+        "uri": "https://arquivo.pt/wayback/20200903030938mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-09-10T18:12:46Z",
+        "uri": "https://arquivo.pt/wayback/20200910181246mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-09-19T12:45:52Z",
+        "uri": "https://arquivo.pt/wayback/20200919124552mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-01T19:47:57Z",
+        "uri": "https://arquivo.pt/wayback/20201001194757mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-06T12:55:04Z",
+        "uri": "https://arquivo.pt/wayback/20201006125504mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-06T20:21:50Z",
+        "uri": "https://arquivo.pt/wayback/20201006202150mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-07T19:38:22Z",
+        "uri": "https://arquivo.pt/wayback/20201007193822mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-08T19:20:07Z",
+        "uri": "https://arquivo.pt/wayback/20201008192007mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-09T19:40:13Z",
+        "uri": "https://arquivo.pt/wayback/20201009194013mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-10T19:35:16Z",
+        "uri": "https://arquivo.pt/wayback/20201010193516mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-11T19:38:04Z",
+        "uri": "https://arquivo.pt/wayback/20201011193804mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-12T19:35:21Z",
+        "uri": "https://arquivo.pt/wayback/20201012193521mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-13T19:24:17Z",
+        "uri": "https://arquivo.pt/wayback/20201013192417mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-14T19:28:30Z",
+        "uri": "https://arquivo.pt/wayback/20201014192830mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-15T19:30:30Z",
+        "uri": "https://arquivo.pt/wayback/20201015193030mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-16T19:11:53Z",
+        "uri": "https://arquivo.pt/wayback/20201016191153mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-17T18:39:03Z",
+        "uri": "https://arquivo.pt/wayback/20201017183903mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-18T19:04:53Z",
+        "uri": "https://arquivo.pt/wayback/20201018190453mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-19T19:15:37Z",
+        "uri": "https://arquivo.pt/wayback/20201019191537mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-20T19:10:22Z",
+        "uri": "https://arquivo.pt/wayback/20201020191022mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-21T19:06:56Z",
+        "uri": "https://arquivo.pt/wayback/20201021190656mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-22T19:12:03Z",
+        "uri": "https://arquivo.pt/wayback/20201022191203mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-23T18:30:36Z",
+        "uri": "https://arquivo.pt/wayback/20201023183036mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-24T18:49:46Z",
+        "uri": "https://arquivo.pt/wayback/20201024184946mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-25T19:51:16Z",
+        "uri": "https://arquivo.pt/wayback/20201025195116mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-26T20:19:25Z",
+        "uri": "https://arquivo.pt/wayback/20201026201925mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-27T20:31:41Z",
+        "uri": "https://arquivo.pt/wayback/20201027203141mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-28T20:34:38Z",
+        "uri": "https://arquivo.pt/wayback/20201028203438mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-29T20:20:52Z",
+        "uri": "https://arquivo.pt/wayback/20201029202052mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-30T20:12:07Z",
+        "uri": "https://arquivo.pt/wayback/20201030201207mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-10-31T19:58:18Z",
+        "uri": "https://arquivo.pt/wayback/20201031195818mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-01T20:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20201101203710mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-02T20:15:35Z",
+        "uri": "https://arquivo.pt/wayback/20201102201535mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-03T20:12:45Z",
+        "uri": "https://arquivo.pt/wayback/20201103201245mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-04T20:15:46Z",
+        "uri": "https://arquivo.pt/wayback/20201104201546mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-05T20:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20201105202449mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-06T20:37:36Z",
+        "uri": "https://arquivo.pt/wayback/20201106203736mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-07T20:39:33Z",
+        "uri": "https://arquivo.pt/wayback/20201107203933mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-08T20:46:50Z",
+        "uri": "https://arquivo.pt/wayback/20201108204650mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-09T20:58:43Z",
+        "uri": "https://arquivo.pt/wayback/20201109205843mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-10T21:12:40Z",
+        "uri": "https://arquivo.pt/wayback/20201110211240mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-11T20:53:24Z",
+        "uri": "https://arquivo.pt/wayback/20201111205324mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-12T20:44:05Z",
+        "uri": "https://arquivo.pt/wayback/20201112204405mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-13T20:32:40Z",
+        "uri": "https://arquivo.pt/wayback/20201113203240mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-14T20:05:01Z",
+        "uri": "https://arquivo.pt/wayback/20201114200501mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-15T20:33:29Z",
+        "uri": "https://arquivo.pt/wayback/20201115203329mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-16T20:25:37Z",
+        "uri": "https://arquivo.pt/wayback/20201116202537mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-17T20:14:57Z",
+        "uri": "https://arquivo.pt/wayback/20201117201457mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-18T20:25:02Z",
+        "uri": "https://arquivo.pt/wayback/20201118202502mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-19T20:07:08Z",
+        "uri": "https://arquivo.pt/wayback/20201119200708mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-20T20:15:57Z",
+        "uri": "https://arquivo.pt/wayback/20201120201557mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-21T20:23:19Z",
+        "uri": "https://arquivo.pt/wayback/20201121202319mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-22T20:29:13Z",
+        "uri": "https://arquivo.pt/wayback/20201122202913mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-23T20:43:50Z",
+        "uri": "https://arquivo.pt/wayback/20201123204350mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-24T20:02:49Z",
+        "uri": "https://arquivo.pt/wayback/20201124200249mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-25T20:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20201125205244mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-26T20:29:00Z",
+        "uri": "https://arquivo.pt/wayback/20201126202900mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-27T20:14:05Z",
+        "uri": "https://arquivo.pt/wayback/20201127201405mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-28T20:30:03Z",
+        "uri": "https://arquivo.pt/wayback/20201128203003mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-29T20:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20201129203045mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-11-30T20:42:12Z",
+        "uri": "https://arquivo.pt/wayback/20201130204212mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-01T20:36:17Z",
+        "uri": "https://arquivo.pt/wayback/20201201203617mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-02T20:46:53Z",
+        "uri": "https://arquivo.pt/wayback/20201202204653mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-03T20:23:53Z",
+        "uri": "https://arquivo.pt/wayback/20201203202353mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-03T23:24:38Z",
+        "uri": "https://arquivo.pt/wayback/20201203232438mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-04T19:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20201204195542mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-05T19:40:02Z",
+        "uri": "https://arquivo.pt/wayback/20201205194002mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-06T19:29:42Z",
+        "uri": "https://arquivo.pt/wayback/20201206192942mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-07T21:07:17Z",
+        "uri": "https://arquivo.pt/wayback/20201207210717mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-08T20:44:17Z",
+        "uri": "https://arquivo.pt/wayback/20201208204417mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-09T20:24:14Z",
+        "uri": "https://arquivo.pt/wayback/20201209202414mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-10T20:21:44Z",
+        "uri": "https://arquivo.pt/wayback/20201210202144mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-11T20:23:28Z",
+        "uri": "https://arquivo.pt/wayback/20201211202328mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-12T20:12:04Z",
+        "uri": "https://arquivo.pt/wayback/20201212201204mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-13T20:31:29Z",
+        "uri": "https://arquivo.pt/wayback/20201213203129mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-14T20:18:37Z",
+        "uri": "https://arquivo.pt/wayback/20201214201837mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-15T20:14:44Z",
+        "uri": "https://arquivo.pt/wayback/20201215201444mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-16T20:00:17Z",
+        "uri": "https://arquivo.pt/wayback/20201216200017mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-17T20:56:56Z",
+        "uri": "https://arquivo.pt/wayback/20201217205656mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-18T19:07:02Z",
+        "uri": "https://arquivo.pt/wayback/20201218190702mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-19T00:18:18Z",
+        "uri": "http://archive.md/20201219001818/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-19T20:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20201219201045mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-20T20:22:26Z",
+        "uri": "https://arquivo.pt/wayback/20201220202226mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-21T03:17:55Z",
+        "uri": "https://arquivo.pt/wayback/20201221031755mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-21T20:09:29Z",
+        "uri": "https://arquivo.pt/wayback/20201221200929mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-22T20:33:53Z",
+        "uri": "https://arquivo.pt/wayback/20201222203353mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-23T20:14:35Z",
+        "uri": "https://arquivo.pt/wayback/20201223201435mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-24T20:06:19Z",
+        "uri": "https://arquivo.pt/wayback/20201224200619mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-25T20:19:41Z",
+        "uri": "https://arquivo.pt/wayback/20201225201941mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-26T20:21:21Z",
+        "uri": "https://arquivo.pt/wayback/20201226202121mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-27T19:51:48Z",
+        "uri": "https://arquivo.pt/wayback/20201227195148mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-28T20:54:04Z",
+        "uri": "https://arquivo.pt/wayback/20201228205404mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-29T20:17:42Z",
+        "uri": "https://arquivo.pt/wayback/20201229201742mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-30T20:03:41Z",
+        "uri": "https://arquivo.pt/wayback/20201230200341mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-30T20:03:41Z",
+        "uri": "https://arquivo.pt/wayback/20201230200341mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2020-12-31T19:16:28Z",
+        "uri": "https://arquivo.pt/wayback/20201231191628mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-01-04T16:44:48Z",
+        "uri": "http://archive.md/20210104164448/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-01-04T16:46:22Z",
+        "uri": "http://archive.md/20210104164622/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-01-18T06:20:50Z",
+        "uri": "https://arquivo.pt/wayback/20210118062050mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-03-22T02:34:51Z",
+        "uri": "https://arquivo.pt/wayback/20210322023451mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-03-24T00:32:53Z",
+        "uri": "https://arquivo.pt/wayback/20210324003253mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2021-05-08T05:05:06Z",
+        "uri": "http://archive.md/20210508050506/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-05-15T23:39:37Z",
+        "uri": "http://archive.md/20210515233937/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-06-26T04:44:13Z",
+        "uri": "http://archive.md/20210626044413/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-09-08T20:08:40Z",
+        "uri": "http://archive.md/20210908200840/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-09-08T20:08:41Z",
+        "uri": "http://archive.md/20210908200841/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-09-15T08:45:54Z",
+        "uri": "http://archive.md/20210915084554/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-09-24T16:50:34Z",
+        "uri": "https://arquivo.pt/wayback/20210924165034mp_/https://linkfire.com/"
+      },
+      {
+        "datetime": "2021-09-28T00:24:41Z",
+        "uri": "https://arquivo.pt/wayback/20210928002441mp_/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-11-15T10:06:30Z",
+        "uri": "http://archive.md/20211115100630/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2021-12-14T14:22:56Z",
+        "uri": "http://archive.md/20211214142256/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-02-10T02:42:17Z",
+        "uri": "http://archive.md/20220210024217/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-02-10T02:45:30Z",
+        "uri": "http://archive.md/20220210024530/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-04-21T01:56:40Z",
+        "uri": "http://archive.md/20220421015640/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-04-24T03:04:26Z",
+        "uri": "http://archive.md/20220424030426/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-04-24T03:06:20Z",
+        "uri": "http://archive.md/20220424030620/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-04-29T00:37:29Z",
+        "uri": "http://archive.md/20220429003729/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-04-29T00:37:41Z",
+        "uri": "http://archive.md/20220429003741/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-05-18T23:32:00Z",
+        "uri": "http://archive.md/20220518233200/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-06-11T05:44:32Z",
+        "uri": "http://archive.md/20220611054432/https://www.linkfire.com/"
+      },
+      {
+        "datetime": "2022-06-11T05:47:53Z",
+        "uri": "http://archive.md/20220611054753/https://www.linkfire.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-03-27T08:46:56Z",
+      "uri": "https://arquivo.pt/wayback/20180327084656mp_/https://linkfire.com/"
+    },
+    "last": {
+      "datetime": "2022-06-11T05:47:53Z",
+      "uri": "http://archive.md/20220611054753/https://www.linkfire.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkfire.com",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkfire.com",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkfire.com"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkfire.com"
+}

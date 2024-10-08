@@ -1,0 +1,314 @@
+{
+  "original_uri": "https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/",
+  "self": "http://localhost:1208/timemap/json/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-04-17T22:40:57Z",
+        "uri": "https://arquivo.pt/wayback/20180417224057mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-04-23T23:11:54Z",
+        "uri": "https://arquivo.pt/wayback/20180423231154mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-04-29T23:03:14Z",
+        "uri": "https://arquivo.pt/wayback/20180429230314mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-05-02T07:42:26Z",
+        "uri": "https://arquivo.pt/wayback/20180502074226mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-05-09T21:51:47Z",
+        "uri": "https://arquivo.pt/wayback/20180509215147mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-05-16T03:51:33Z",
+        "uri": "https://arquivo.pt/wayback/20180516035133mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2018-05-19T13:36:07Z",
+        "uri": "https://arquivo.pt/wayback/20180519133607mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-01-24T22:46:27Z",
+        "uri": "https://arquivo.pt/wayback/20190124224627mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-04-03T07:45:35Z",
+        "uri": "https://arquivo.pt/wayback/20190403074535mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-04-26T20:56:37Z",
+        "uri": "https://arquivo.pt/wayback/20190426205637mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-05-07T11:30:01Z",
+        "uri": "https://arquivo.pt/wayback/20190507113001mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-06-05T01:17:16Z",
+        "uri": "https://arquivo.pt/wayback/20190605011716mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-09-12T08:04:06Z",
+        "uri": "https://arquivo.pt/wayback/20190912080406mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-09-19T12:35:58Z",
+        "uri": "https://arquivo.pt/wayback/20190919123558mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-09-24T21:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20190924213927mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-09-26T02:18:16Z",
+        "uri": "http://archive.md/20190926021816/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-09-26T18:50:07Z",
+        "uri": "https://arquivo.pt/wayback/20190926185007mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-12-10T02:11:27Z",
+        "uri": "https://arquivo.pt/wayback/20191210021127mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2019-12-17T04:02:39Z",
+        "uri": "https://arquivo.pt/wayback/20191217040239mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-02-27T08:48:18Z",
+        "uri": "https://arquivo.pt/wayback/20200227084818mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-03-12T20:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20200312201859mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-03-25T18:11:02Z",
+        "uri": "https://arquivo.pt/wayback/20200325181102mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-03-25T18:11:02Z",
+        "uri": "https://arquivo.pt/wayback/20200325181102mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-03-25T19:52:14Z",
+        "uri": "https://arquivo.pt/wayback/20200325195214mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-04-07T18:27:28Z",
+        "uri": "https://arquivo.pt/wayback/20200407182728mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-04-10T18:06:52Z",
+        "uri": "https://arquivo.pt/wayback/20200410180652mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-04-16T17:55:36Z",
+        "uri": "https://arquivo.pt/wayback/20200416175536mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-04-20T17:58:17Z",
+        "uri": "https://arquivo.pt/wayback/20200420175817mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-04-28T18:09:06Z",
+        "uri": "https://arquivo.pt/wayback/20200428180906mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-04T18:05:21Z",
+        "uri": "https://arquivo.pt/wayback/20200504180521mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-05T18:04:43Z",
+        "uri": "https://arquivo.pt/wayback/20200505180443mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-06T18:09:33Z",
+        "uri": "https://arquivo.pt/wayback/20200506180933mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-07T18:07:29Z",
+        "uri": "https://arquivo.pt/wayback/20200507180729mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-08T20:37:52Z",
+        "uri": "https://arquivo.pt/wayback/20200508203752mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-09T19:23:45Z",
+        "uri": "https://arquivo.pt/wayback/20200509192345mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-10T19:29:46Z",
+        "uri": "https://arquivo.pt/wayback/20200510192946mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-13T19:07:59Z",
+        "uri": "https://arquivo.pt/wayback/20200513190759mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-05-21T18:33:27Z",
+        "uri": "https://arquivo.pt/wayback/20200521183327mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-01T18:06:33Z",
+        "uri": "https://arquivo.pt/wayback/20200601180633mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-02T18:32:47Z",
+        "uri": "https://arquivo.pt/wayback/20200602183247mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-04T18:35:12Z",
+        "uri": "https://arquivo.pt/wayback/20200604183512mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-19T17:39:14Z",
+        "uri": "https://arquivo.pt/wayback/20200619173914mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-26T18:23:27Z",
+        "uri": "https://arquivo.pt/wayback/20200626182327mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-06-29T14:13:33Z",
+        "uri": "https://arquivo.pt/wayback/20200629141333mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-07-23T18:04:16Z",
+        "uri": "https://arquivo.pt/wayback/20200723180416mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-07-24T18:24:52Z",
+        "uri": "https://arquivo.pt/wayback/20200724182452mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-07-27T18:20:33Z",
+        "uri": "https://arquivo.pt/wayback/20200727182033mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-08-04T18:20:12Z",
+        "uri": "https://arquivo.pt/wayback/20200804182012mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-08-05T18:16:11Z",
+        "uri": "https://arquivo.pt/wayback/20200805181611mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-08-07T10:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20200807100345mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-08-27T17:34:10Z",
+        "uri": "https://arquivo.pt/wayback/20200827173410mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-09-30T20:12:01Z",
+        "uri": "https://arquivo.pt/wayback/20200930201201mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-09-30T20:12:05Z",
+        "uri": "https://arquivo.pt/wayback/20200930201205mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-01T20:50:44Z",
+        "uri": "https://arquivo.pt/wayback/20201001205044mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-01T20:50:47Z",
+        "uri": "https://arquivo.pt/wayback/20201001205047mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-12T21:24:27Z",
+        "uri": "https://arquivo.pt/wayback/20201012212427mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-13T21:06:36Z",
+        "uri": "https://arquivo.pt/wayback/20201013210636mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-14T21:23:14Z",
+        "uri": "https://arquivo.pt/wayback/20201014212314mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-15T21:06:19Z",
+        "uri": "https://arquivo.pt/wayback/20201015210619mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-16T21:14:36Z",
+        "uri": "https://arquivo.pt/wayback/20201016211436mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-17T17:36:09Z",
+        "uri": "https://arquivo.pt/wayback/20201017173609mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-10-19T21:05:11Z",
+        "uri": "https://arquivo.pt/wayback/20201019210511mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-11-01T21:37:17Z",
+        "uri": "https://arquivo.pt/wayback/20201101213717mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-11-01T21:37:21Z",
+        "uri": "https://arquivo.pt/wayback/20201101213721mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-11-11T10:23:59Z",
+        "uri": "http://archive.md/20201111102359/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-11-20T20:17:37Z",
+        "uri": "https://arquivo.pt/wayback/20201120201737mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-11-20T20:17:40Z",
+        "uri": "https://arquivo.pt/wayback/20201120201740mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-12-13T21:07:31Z",
+        "uri": "https://arquivo.pt/wayback/20201213210731mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-12-13T21:07:35Z",
+        "uri": "https://arquivo.pt/wayback/20201213210735mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2020-12-15T21:02:50Z",
+        "uri": "https://arquivo.pt/wayback/20201215210250mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2021-01-08T23:20:37Z",
+        "uri": "https://arquivo.pt/wayback/20210108232037mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2021-09-10T15:00:57Z",
+        "uri": "https://arquivo.pt/wayback/20210910150057mp_/http://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      },
+      {
+        "datetime": "2021-09-10T15:57:50Z",
+        "uri": "https://arquivo.pt/wayback/20210910155750mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-04-17T22:40:57Z",
+      "uri": "https://arquivo.pt/wayback/20180417224057mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+    },
+    "last": {
+      "datetime": "2021-09-10T15:57:50Z",
+      "uri": "https://arquivo.pt/wayback/20210910155750mp_/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/"
+}

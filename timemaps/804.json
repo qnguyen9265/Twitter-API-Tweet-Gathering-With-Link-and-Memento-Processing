@@ -1,0 +1,1814 @@
+{
+  "original_uri": "https://manage.smarturl.it",
+  "self": "http://localhost:1208/timemap/json/https://manage.smarturl.it",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-05-04T19:10:36Z",
+        "uri": "http://archive.md/20130504191036/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-02-08T08:07:24Z",
+        "uri": "http://archive.md/20140208080724/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-03-25T05:17:38Z",
+        "uri": "http://archive.md/20140325051738/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-05-08T07:33:25Z",
+        "uri": "http://archive.md/20140508073325/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-08-13T17:55:50Z",
+        "uri": "http://archive.md/20140813175550/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-09-07T05:21:57Z",
+        "uri": "https://arquivo.pt/wayback/20140907052157mp_/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2014-11-28T06:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20141128062251mp_/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2015-04-06T19:07:33Z",
+        "uri": "http://archive.md/20150406190733/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2015-04-09T07:34:46Z",
+        "uri": "https://arquivo.pt/wayback/20150409073446mp_/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2015-05-31T07:11:30Z",
+        "uri": "http://archive.md/20150531071130/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-02-05T23:19:11Z",
+        "uri": "https://arquivo.pt/wayback/20160205231911mp_/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-04-09T17:45:37Z",
+        "uri": "http://archive.md/20160409174537/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-04-09T23:31:31Z",
+        "uri": "http://archive.md/20160409233131/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-07-05T23:08:03Z",
+        "uri": "http://archive.md/20160705230803/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-10-01T09:17:18Z",
+        "uri": "http://archive.md/20161001091718/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2016-11-18T19:16:38Z",
+        "uri": "http://archive.md/20161118191638/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2017-01-31T21:18:06Z",
+        "uri": "http://archive.md/20170131211806/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2017-02-11T11:21:05Z",
+        "uri": "https://arquivo.pt/wayback/20170211112105mp_/http://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2017-06-15T13:34:41Z",
+        "uri": "http://archive.md/20170615133441/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2017-06-28T20:26:47Z",
+        "uri": "https://arquivo.pt/wayback/20170628202647mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2017-08-09T10:08:45Z",
+        "uri": "http://archive.md/20170809100845/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-05-07T17:51:40Z",
+        "uri": "https://arquivo.pt/wayback/20180507175140mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-07-19T10:26:51Z",
+        "uri": "https://arquivo.pt/wayback/20180719102651mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-07-28T09:24:37Z",
+        "uri": "https://arquivo.pt/wayback/20180728092437mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-07-29T08:17:34Z",
+        "uri": "https://arquivo.pt/wayback/20180729081734mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-07-31T07:29:35Z",
+        "uri": "https://arquivo.pt/wayback/20180731072935mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-02T09:29:39Z",
+        "uri": "https://arquivo.pt/wayback/20180802092939mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-03T08:29:48Z",
+        "uri": "https://arquivo.pt/wayback/20180803082948mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-04T08:23:44Z",
+        "uri": "https://arquivo.pt/wayback/20180804082344mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-05T07:44:59Z",
+        "uri": "https://arquivo.pt/wayback/20180805074459mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-06T08:40:53Z",
+        "uri": "https://arquivo.pt/wayback/20180806084053mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-12T07:57:50Z",
+        "uri": "https://arquivo.pt/wayback/20180812075750mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-13T08:13:54Z",
+        "uri": "https://arquivo.pt/wayback/20180813081354mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-15T13:43:20Z",
+        "uri": "https://arquivo.pt/wayback/20180815134320mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-08-16T13:59:00Z",
+        "uri": "https://arquivo.pt/wayback/20180816135900mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-09-04T14:38:10Z",
+        "uri": "https://arquivo.pt/wayback/20180904143810mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-09-28T12:54:37Z",
+        "uri": "https://arquivo.pt/wayback/20180928125437mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-09-29T05:24:50Z",
+        "uri": "https://arquivo.pt/wayback/20180929052450mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-03T12:48:24Z",
+        "uri": "https://arquivo.pt/wayback/20181003124824mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-05T08:22:44Z",
+        "uri": "https://arquivo.pt/wayback/20181005082244mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-06T06:51:32Z",
+        "uri": "https://arquivo.pt/wayback/20181006065132mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-07T07:08:45Z",
+        "uri": "https://arquivo.pt/wayback/20181007070845mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-08T07:19:00Z",
+        "uri": "https://arquivo.pt/wayback/20181008071900mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-09T06:44:04Z",
+        "uri": "https://arquivo.pt/wayback/20181009064404mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-11T05:01:23Z",
+        "uri": "https://arquivo.pt/wayback/20181011050123mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-12T06:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20181012064637mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-13T00:34:06Z",
+        "uri": "https://arquivo.pt/wayback/20181013003406mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-14T04:56:34Z",
+        "uri": "https://arquivo.pt/wayback/20181014045634mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-15T04:28:07Z",
+        "uri": "https://arquivo.pt/wayback/20181015042807mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-16T04:49:15Z",
+        "uri": "https://arquivo.pt/wayback/20181016044915mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-17T05:10:21Z",
+        "uri": "https://arquivo.pt/wayback/20181017051021mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-18T04:40:59Z",
+        "uri": "https://arquivo.pt/wayback/20181018044059mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-19T04:28:53Z",
+        "uri": "https://arquivo.pt/wayback/20181019042853mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-20T04:42:22Z",
+        "uri": "https://arquivo.pt/wayback/20181020044222mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-21T05:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20181021050800mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-22T04:38:40Z",
+        "uri": "https://arquivo.pt/wayback/20181022043840mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-23T04:46:49Z",
+        "uri": "https://arquivo.pt/wayback/20181023044649mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-24T05:07:09Z",
+        "uri": "https://arquivo.pt/wayback/20181024050709mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-25T04:32:04Z",
+        "uri": "https://arquivo.pt/wayback/20181025043204mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-26T05:12:19Z",
+        "uri": "https://arquivo.pt/wayback/20181026051219mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-27T05:14:18Z",
+        "uri": "https://arquivo.pt/wayback/20181027051418mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-28T04:47:11Z",
+        "uri": "https://arquivo.pt/wayback/20181028044711mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-29T08:20:17Z",
+        "uri": "https://arquivo.pt/wayback/20181029082017mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-30T08:54:18Z",
+        "uri": "https://arquivo.pt/wayback/20181030085418mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-10-31T08:44:36Z",
+        "uri": "https://arquivo.pt/wayback/20181031084436mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-01T08:44:37Z",
+        "uri": "https://arquivo.pt/wayback/20181101084437mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-02T08:31:55Z",
+        "uri": "https://arquivo.pt/wayback/20181102083155mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-03T09:24:19Z",
+        "uri": "https://arquivo.pt/wayback/20181103092419mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-04T09:20:32Z",
+        "uri": "https://arquivo.pt/wayback/20181104092032mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-05T09:58:11Z",
+        "uri": "https://arquivo.pt/wayback/20181105095811mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-06T10:32:30Z",
+        "uri": "https://arquivo.pt/wayback/20181106103230mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-07T11:37:30Z",
+        "uri": "https://arquivo.pt/wayback/20181107113730mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-08T13:41:59Z",
+        "uri": "https://arquivo.pt/wayback/20181108134159mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-10T13:25:16Z",
+        "uri": "https://arquivo.pt/wayback/20181110132516mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-11T08:53:53Z",
+        "uri": "https://arquivo.pt/wayback/20181111085353mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-12T10:35:15Z",
+        "uri": "https://arquivo.pt/wayback/20181112103515mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-13T11:14:04Z",
+        "uri": "https://arquivo.pt/wayback/20181113111404mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-14T07:25:20Z",
+        "uri": "https://arquivo.pt/wayback/20181114072520mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-15T06:51:14Z",
+        "uri": "https://arquivo.pt/wayback/20181115065114mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-24T10:31:59Z",
+        "uri": "https://arquivo.pt/wayback/20181124103159mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-25T08:48:17Z",
+        "uri": "https://arquivo.pt/wayback/20181125084817mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-26T08:58:34Z",
+        "uri": "https://arquivo.pt/wayback/20181126085834mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-11-29T08:51:26Z",
+        "uri": "https://arquivo.pt/wayback/20181129085126mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-02T09:56:11Z",
+        "uri": "https://arquivo.pt/wayback/20181202095611mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-03T08:23:19Z",
+        "uri": "https://arquivo.pt/wayback/20181203082319mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-04T10:15:57Z",
+        "uri": "https://arquivo.pt/wayback/20181204101557mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-05T09:29:34Z",
+        "uri": "https://arquivo.pt/wayback/20181205092934mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-06T09:14:22Z",
+        "uri": "https://arquivo.pt/wayback/20181206091422mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-07T10:43:16Z",
+        "uri": "https://arquivo.pt/wayback/20181207104316mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-08T09:32:04Z",
+        "uri": "https://arquivo.pt/wayback/20181208093204mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-09T09:54:42Z",
+        "uri": "https://arquivo.pt/wayback/20181209095442mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-10T08:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20181210084427mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-11T10:03:28Z",
+        "uri": "https://arquivo.pt/wayback/20181211100328mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-12T10:07:59Z",
+        "uri": "https://arquivo.pt/wayback/20181212100759mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-13T10:01:15Z",
+        "uri": "https://arquivo.pt/wayback/20181213100115mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-14T10:03:53Z",
+        "uri": "https://arquivo.pt/wayback/20181214100353mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-15T04:01:39Z",
+        "uri": "https://arquivo.pt/wayback/20181215040139mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-16T08:41:37Z",
+        "uri": "https://arquivo.pt/wayback/20181216084137mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-17T08:47:27Z",
+        "uri": "https://arquivo.pt/wayback/20181217084727mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-18T09:37:28Z",
+        "uri": "https://arquivo.pt/wayback/20181218093728mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-19T09:27:56Z",
+        "uri": "https://arquivo.pt/wayback/20181219092756mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-20T10:07:45Z",
+        "uri": "https://arquivo.pt/wayback/20181220100745mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2018-12-21T10:02:41Z",
+        "uri": "https://arquivo.pt/wayback/20181221100241mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-05T08:51:34Z",
+        "uri": "https://arquivo.pt/wayback/20190105085134mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-23T12:11:22Z",
+        "uri": "https://arquivo.pt/wayback/20190123121122mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-24T12:36:32Z",
+        "uri": "https://arquivo.pt/wayback/20190124123632mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-25T13:07:42Z",
+        "uri": "https://arquivo.pt/wayback/20190125130742mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-26T09:54:20Z",
+        "uri": "https://arquivo.pt/wayback/20190126095420mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-27T11:14:28Z",
+        "uri": "https://arquivo.pt/wayback/20190127111428mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-28T09:31:21Z",
+        "uri": "https://arquivo.pt/wayback/20190128093121mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-29T11:31:40Z",
+        "uri": "https://arquivo.pt/wayback/20190129113140mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-30T10:57:34Z",
+        "uri": "https://arquivo.pt/wayback/20190130105734mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-01-31T10:56:00Z",
+        "uri": "https://arquivo.pt/wayback/20190131105600mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-01T11:37:17Z",
+        "uri": "https://arquivo.pt/wayback/20190201113717mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-02T12:01:46Z",
+        "uri": "https://arquivo.pt/wayback/20190202120146mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-03T11:22:06Z",
+        "uri": "https://arquivo.pt/wayback/20190203112206mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-04T09:40:50Z",
+        "uri": "https://arquivo.pt/wayback/20190204094050mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-05T11:45:10Z",
+        "uri": "https://arquivo.pt/wayback/20190205114510mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-06T07:37:10Z",
+        "uri": "https://arquivo.pt/wayback/20190206073710mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-07T09:11:26Z",
+        "uri": "https://arquivo.pt/wayback/20190207091126mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-08T12:26:24Z",
+        "uri": "https://arquivo.pt/wayback/20190208122624mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-09T10:53:49Z",
+        "uri": "https://arquivo.pt/wayback/20190209105349mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-10T08:33:37Z",
+        "uri": "https://arquivo.pt/wayback/20190210083337mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-11T09:29:47Z",
+        "uri": "https://arquivo.pt/wayback/20190211092947mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-12T09:38:54Z",
+        "uri": "https://arquivo.pt/wayback/20190212093854mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-02-20T22:51:28Z",
+        "uri": "http://archive.md/20190220225128/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-03-03T08:34:36Z",
+        "uri": "https://arquivo.pt/wayback/20190303083436mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-03-10T08:59:09Z",
+        "uri": "https://arquivo.pt/wayback/20190310085909mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-03-28T14:14:23Z",
+        "uri": "https://arquivo.pt/wayback/20190328141423mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-18T06:02:53Z",
+        "uri": "https://arquivo.pt/wayback/20190418060253mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-19T08:29:26Z",
+        "uri": "https://arquivo.pt/wayback/20190419082926mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-20T08:54:48Z",
+        "uri": "https://arquivo.pt/wayback/20190420085448mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-21T07:53:45Z",
+        "uri": "https://arquivo.pt/wayback/20190421075345mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-22T03:28:07Z",
+        "uri": "https://arquivo.pt/wayback/20190422032807mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-23T03:59:37Z",
+        "uri": "https://arquivo.pt/wayback/20190423035937mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-24T08:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20190424082635mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-25T09:29:21Z",
+        "uri": "https://arquivo.pt/wayback/20190425092921mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-04-26T08:52:50Z",
+        "uri": "https://arquivo.pt/wayback/20190426085250mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-10T14:10:37Z",
+        "uri": "https://arquivo.pt/wayback/20190510141037mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-11T13:22:44Z",
+        "uri": "https://arquivo.pt/wayback/20190511132244mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-12T14:12:09Z",
+        "uri": "https://arquivo.pt/wayback/20190512141209mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-13T12:26:12Z",
+        "uri": "https://arquivo.pt/wayback/20190513122612mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-17T09:20:27Z",
+        "uri": "https://arquivo.pt/wayback/20190517092027mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-18T13:21:25Z",
+        "uri": "https://arquivo.pt/wayback/20190518132125mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-19T14:56:04Z",
+        "uri": "https://arquivo.pt/wayback/20190519145604mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-05-20T13:32:10Z",
+        "uri": "https://arquivo.pt/wayback/20190520133210mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-06-02T05:02:23Z",
+        "uri": "https://arquivo.pt/wayback/20190602050223mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-06-07T20:22:23Z",
+        "uri": "https://arquivo.pt/wayback/20190607202223mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-06-21T13:09:35Z",
+        "uri": "https://arquivo.pt/wayback/20190621130935mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-06-24T08:01:41Z",
+        "uri": "https://arquivo.pt/wayback/20190624080141mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-06-26T14:31:11Z",
+        "uri": "https://arquivo.pt/wayback/20190626143111mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-15T09:27:59Z",
+        "uri": "https://arquivo.pt/wayback/20190715092759mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-16T10:28:16Z",
+        "uri": "https://arquivo.pt/wayback/20190716102816mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-17T10:05:24Z",
+        "uri": "https://arquivo.pt/wayback/20190717100524mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-18T10:25:51Z",
+        "uri": "https://arquivo.pt/wayback/20190718102551mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-19T10:19:12Z",
+        "uri": "https://arquivo.pt/wayback/20190719101912mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-20T09:13:24Z",
+        "uri": "https://arquivo.pt/wayback/20190720091324mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-21T11:40:15Z",
+        "uri": "https://arquivo.pt/wayback/20190721114015mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-22T12:04:52Z",
+        "uri": "https://arquivo.pt/wayback/20190722120452mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-23T12:01:24Z",
+        "uri": "https://arquivo.pt/wayback/20190723120124mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-24T12:11:29Z",
+        "uri": "https://arquivo.pt/wayback/20190724121129mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-25T12:16:33Z",
+        "uri": "https://arquivo.pt/wayback/20190725121633mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-26T12:06:05Z",
+        "uri": "https://arquivo.pt/wayback/20190726120605mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-27T12:31:09Z",
+        "uri": "https://arquivo.pt/wayback/20190727123109mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-28T11:54:02Z",
+        "uri": "https://arquivo.pt/wayback/20190728115402mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-29T11:54:05Z",
+        "uri": "https://arquivo.pt/wayback/20190729115405mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-30T11:51:56Z",
+        "uri": "https://arquivo.pt/wayback/20190730115156mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-07-31T11:52:26Z",
+        "uri": "https://arquivo.pt/wayback/20190731115226mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-01T12:01:15Z",
+        "uri": "https://arquivo.pt/wayback/20190801120115mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-02T12:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20190802120405mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-03T07:26:21Z",
+        "uri": "https://arquivo.pt/wayback/20190803072621mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-04T12:06:52Z",
+        "uri": "https://arquivo.pt/wayback/20190804120652mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-05T03:30:33Z",
+        "uri": "https://arquivo.pt/wayback/20190805033033mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-06T11:43:20Z",
+        "uri": "https://arquivo.pt/wayback/20190806114320mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-07T12:46:06Z",
+        "uri": "https://arquivo.pt/wayback/20190807124606mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-08T12:32:57Z",
+        "uri": "https://arquivo.pt/wayback/20190808123257mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-09T13:52:55Z",
+        "uri": "https://arquivo.pt/wayback/20190809135255mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-10T13:22:23Z",
+        "uri": "https://arquivo.pt/wayback/20190810132223mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-11T13:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20190811132251mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-12T13:50:13Z",
+        "uri": "https://arquivo.pt/wayback/20190812135013mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-13T12:59:28Z",
+        "uri": "https://arquivo.pt/wayback/20190813125928mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-14T13:22:38Z",
+        "uri": "https://arquivo.pt/wayback/20190814132238mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-15T12:57:22Z",
+        "uri": "https://arquivo.pt/wayback/20190815125722mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-16T13:11:24Z",
+        "uri": "https://arquivo.pt/wayback/20190816131124mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-17T13:30:03Z",
+        "uri": "https://arquivo.pt/wayback/20190817133003mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-18T13:19:24Z",
+        "uri": "https://arquivo.pt/wayback/20190818131924mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-19T12:50:29Z",
+        "uri": "https://arquivo.pt/wayback/20190819125029mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-20T13:29:30Z",
+        "uri": "https://arquivo.pt/wayback/20190820132930mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-21T12:37:53Z",
+        "uri": "https://arquivo.pt/wayback/20190821123753mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-27T07:50:37Z",
+        "uri": "https://arquivo.pt/wayback/20190827075037mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-08-31T11:22:31Z",
+        "uri": "https://arquivo.pt/wayback/20190831112231mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-08T07:13:27Z",
+        "uri": "https://arquivo.pt/wayback/20190908071327mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-10T07:45:00Z",
+        "uri": "https://arquivo.pt/wayback/20190910074500mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-20T20:49:27Z",
+        "uri": "https://arquivo.pt/wayback/20190920204927mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-23T05:38:07Z",
+        "uri": "https://arquivo.pt/wayback/20190923053807mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-23T07:43:56Z",
+        "uri": "https://arquivo.pt/wayback/20190923074356mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-27T06:37:21Z",
+        "uri": "https://arquivo.pt/wayback/20190927063721mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-28T06:53:08Z",
+        "uri": "https://arquivo.pt/wayback/20190928065308mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-29T06:46:50Z",
+        "uri": "https://arquivo.pt/wayback/20190929064650mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-09-30T07:04:10Z",
+        "uri": "https://arquivo.pt/wayback/20190930070410mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-10-01T06:26:55Z",
+        "uri": "https://arquivo.pt/wayback/20191001062655mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-10-02T06:20:10Z",
+        "uri": "https://arquivo.pt/wayback/20191002062010mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-10-03T05:42:25Z",
+        "uri": "https://arquivo.pt/wayback/20191003054225mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-10-04T05:48:43Z",
+        "uri": "https://arquivo.pt/wayback/20191004054843mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-10-07T23:01:32Z",
+        "uri": "https://arquivo.pt/wayback/20191007230132mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-07T04:20:57Z",
+        "uri": "https://arquivo.pt/wayback/20191107042057mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-08T20:18:11Z",
+        "uri": "https://arquivo.pt/wayback/20191108201811mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-09T20:37:08Z",
+        "uri": "https://arquivo.pt/wayback/20191109203708mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-10T20:38:11Z",
+        "uri": "https://arquivo.pt/wayback/20191110203811mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-11T21:40:41Z",
+        "uri": "https://arquivo.pt/wayback/20191111214041mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-12T21:30:22Z",
+        "uri": "https://arquivo.pt/wayback/20191112213022mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-13T21:30:41Z",
+        "uri": "https://arquivo.pt/wayback/20191113213041mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-14T22:03:56Z",
+        "uri": "https://arquivo.pt/wayback/20191114220356mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-15T22:09:56Z",
+        "uri": "https://arquivo.pt/wayback/20191115220956mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-17T00:44:20Z",
+        "uri": "https://arquivo.pt/wayback/20191117004420mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-18T00:37:12Z",
+        "uri": "https://arquivo.pt/wayback/20191118003712mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-19T01:01:33Z",
+        "uri": "https://arquivo.pt/wayback/20191119010133mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-19T22:41:26Z",
+        "uri": "https://arquivo.pt/wayback/20191119224126mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-21T00:34:55Z",
+        "uri": "https://arquivo.pt/wayback/20191121003455mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-22T00:50:42Z",
+        "uri": "https://arquivo.pt/wayback/20191122005042mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-22T23:55:54Z",
+        "uri": "https://arquivo.pt/wayback/20191122235554mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-11-24T00:05:31Z",
+        "uri": "https://arquivo.pt/wayback/20191124000531mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-12-14T01:58:59Z",
+        "uri": "https://arquivo.pt/wayback/20191214015859mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2019-12-20T18:55:25Z",
+        "uri": "https://arquivo.pt/wayback/20191220185525mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-07T02:08:59Z",
+        "uri": "https://arquivo.pt/wayback/20200107020859mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-08T01:46:08Z",
+        "uri": "https://arquivo.pt/wayback/20200108014608mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-09T05:03:01Z",
+        "uri": "https://arquivo.pt/wayback/20200109050301mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-10T05:19:55Z",
+        "uri": "https://arquivo.pt/wayback/20200110051955mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-14T03:45:06Z",
+        "uri": "https://arquivo.pt/wayback/20200114034506mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-19T01:19:09Z",
+        "uri": "https://arquivo.pt/wayback/20200119011909mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-01-20T01:21:53Z",
+        "uri": "https://arquivo.pt/wayback/20200120012153mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-02-14T22:59:24Z",
+        "uri": "https://arquivo.pt/wayback/20200214225924mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-02-15T20:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20200215204656mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-02-16T01:38:42Z",
+        "uri": "https://arquivo.pt/wayback/20200216013842mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-02-17T02:21:42Z",
+        "uri": "https://arquivo.pt/wayback/20200217022142mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-04T01:44:38Z",
+        "uri": "https://arquivo.pt/wayback/20200304014438mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-04T22:34:58Z",
+        "uri": "https://arquivo.pt/wayback/20200304223458mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-06T02:42:30Z",
+        "uri": "https://arquivo.pt/wayback/20200306024230mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-07T00:21:26Z",
+        "uri": "https://arquivo.pt/wayback/20200307002126mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-09T02:07:44Z",
+        "uri": "https://arquivo.pt/wayback/20200309020744mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-11T03:18:47Z",
+        "uri": "https://arquivo.pt/wayback/20200311031847mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-13T07:16:37Z",
+        "uri": "https://arquivo.pt/wayback/20200313071637mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-16T21:15:51Z",
+        "uri": "https://arquivo.pt/wayback/20200316211551mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-24T17:03:07Z",
+        "uri": "http://archive.md/20200324170307/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-25T08:16:49Z",
+        "uri": "http://archive.md/20200325081649/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-25T23:25:23Z",
+        "uri": "https://arquivo.pt/wayback/20200325232523mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-27T05:10:52Z",
+        "uri": "https://arquivo.pt/wayback/20200327051052mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-27T23:34:36Z",
+        "uri": "https://arquivo.pt/wayback/20200327233436mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-28T22:58:45Z",
+        "uri": "https://arquivo.pt/wayback/20200328225845mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-29T21:41:44Z",
+        "uri": "https://arquivo.pt/wayback/20200329214144mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-03-31T00:03:48Z",
+        "uri": "https://arquivo.pt/wayback/20200331000348mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-01T00:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20200401003045mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-01T22:37:14Z",
+        "uri": "https://arquivo.pt/wayback/20200401223714mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-03T00:22:40Z",
+        "uri": "https://arquivo.pt/wayback/20200403002240mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-04T00:35:48Z",
+        "uri": "https://arquivo.pt/wayback/20200404003548mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-05T00:20:55Z",
+        "uri": "https://arquivo.pt/wayback/20200405002055mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-06T00:27:55Z",
+        "uri": "https://arquivo.pt/wayback/20200406002755mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-08T02:02:36Z",
+        "uri": "https://arquivo.pt/wayback/20200408020236mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-11T01:48:57Z",
+        "uri": "https://arquivo.pt/wayback/20200411014857mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-12T01:04:05Z",
+        "uri": "https://arquivo.pt/wayback/20200412010405mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-13T01:07:44Z",
+        "uri": "https://arquivo.pt/wayback/20200413010744mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-13T22:32:40Z",
+        "uri": "https://arquivo.pt/wayback/20200413223240mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-15T00:49:09Z",
+        "uri": "https://arquivo.pt/wayback/20200415004909mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-15T23:07:15Z",
+        "uri": "https://arquivo.pt/wayback/20200415230715mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-16T22:41:59Z",
+        "uri": "https://arquivo.pt/wayback/20200416224159mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-18T01:12:06Z",
+        "uri": "https://arquivo.pt/wayback/20200418011206mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-18T22:22:14Z",
+        "uri": "https://arquivo.pt/wayback/20200418222214mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-19T22:35:49Z",
+        "uri": "https://arquivo.pt/wayback/20200419223549mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-20T23:02:54Z",
+        "uri": "https://arquivo.pt/wayback/20200420230254mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-21T22:43:26Z",
+        "uri": "https://arquivo.pt/wayback/20200421224326mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-22T22:58:10Z",
+        "uri": "https://arquivo.pt/wayback/20200422225810mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-27T02:12:58Z",
+        "uri": "https://arquivo.pt/wayback/20200427021258mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-28T01:54:10Z",
+        "uri": "https://arquivo.pt/wayback/20200428015410mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-29T01:33:38Z",
+        "uri": "https://arquivo.pt/wayback/20200429013338mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-04-30T01:41:45Z",
+        "uri": "https://arquivo.pt/wayback/20200430014145mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-01T01:34:06Z",
+        "uri": "https://arquivo.pt/wayback/20200501013406mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-02T01:14:51Z",
+        "uri": "https://arquivo.pt/wayback/20200502011451mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-03T01:24:45Z",
+        "uri": "https://arquivo.pt/wayback/20200503012445mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-04T01:23:40Z",
+        "uri": "https://arquivo.pt/wayback/20200504012340mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-05T01:59:17Z",
+        "uri": "https://arquivo.pt/wayback/20200505015917mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-05T23:36:54Z",
+        "uri": "https://arquivo.pt/wayback/20200505233654mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-07T02:08:15Z",
+        "uri": "https://arquivo.pt/wayback/20200507020815mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-07T23:25:42Z",
+        "uri": "https://arquivo.pt/wayback/20200507232542mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-09T02:46:54Z",
+        "uri": "https://arquivo.pt/wayback/20200509024654mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-10T01:39:43Z",
+        "uri": "https://arquivo.pt/wayback/20200510013943mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-11T01:26:07Z",
+        "uri": "https://arquivo.pt/wayback/20200511012607mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-12T01:47:24Z",
+        "uri": "https://arquivo.pt/wayback/20200512014724mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-13T01:37:56Z",
+        "uri": "https://arquivo.pt/wayback/20200513013756mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-14T01:49:02Z",
+        "uri": "https://arquivo.pt/wayback/20200514014902mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-15T01:57:55Z",
+        "uri": "https://arquivo.pt/wayback/20200515015755mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-16T01:47:28Z",
+        "uri": "https://arquivo.pt/wayback/20200516014728mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-17T01:51:03Z",
+        "uri": "https://arquivo.pt/wayback/20200517015103mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-18T01:52:00Z",
+        "uri": "https://arquivo.pt/wayback/20200518015200mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-18T23:43:14Z",
+        "uri": "https://arquivo.pt/wayback/20200518234314mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-19T23:44:05Z",
+        "uri": "https://arquivo.pt/wayback/20200519234405mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-21T21:56:33Z",
+        "uri": "https://arquivo.pt/wayback/20200521215633mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-22T21:02:51Z",
+        "uri": "https://arquivo.pt/wayback/20200522210251mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-23T19:09:29Z",
+        "uri": "https://arquivo.pt/wayback/20200523190929mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-24T21:48:55Z",
+        "uri": "https://arquivo.pt/wayback/20200524214855mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-25T21:41:51Z",
+        "uri": "https://arquivo.pt/wayback/20200525214151mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-26T21:51:31Z",
+        "uri": "https://arquivo.pt/wayback/20200526215131mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-28T21:07:47Z",
+        "uri": "https://arquivo.pt/wayback/20200528210747mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-29T21:18:33Z",
+        "uri": "https://arquivo.pt/wayback/20200529211833mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-30T21:18:14Z",
+        "uri": "https://arquivo.pt/wayback/20200530211814mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-05-31T21:06:01Z",
+        "uri": "https://arquivo.pt/wayback/20200531210601mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-01T21:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20200601213341mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-02T21:49:23Z",
+        "uri": "https://arquivo.pt/wayback/20200602214923mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-03T21:15:39Z",
+        "uri": "https://arquivo.pt/wayback/20200603211539mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-04T20:46:51Z",
+        "uri": "https://arquivo.pt/wayback/20200604204651mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-05T21:44:09Z",
+        "uri": "https://arquivo.pt/wayback/20200605214409mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-06T21:50:54Z",
+        "uri": "https://arquivo.pt/wayback/20200606215054mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-07T21:21:50Z",
+        "uri": "https://arquivo.pt/wayback/20200607212150mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-08T19:05:17Z",
+        "uri": "https://arquivo.pt/wayback/20200608190517mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-09T19:44:17Z",
+        "uri": "https://arquivo.pt/wayback/20200609194417mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-10T18:54:07Z",
+        "uri": "https://arquivo.pt/wayback/20200610185407mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-11T19:37:30Z",
+        "uri": "https://arquivo.pt/wayback/20200611193730mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-12T19:06:30Z",
+        "uri": "https://arquivo.pt/wayback/20200612190630mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-13T18:54:43Z",
+        "uri": "https://arquivo.pt/wayback/20200613185443mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-14T19:00:54Z",
+        "uri": "https://arquivo.pt/wayback/20200614190054mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-15T18:52:13Z",
+        "uri": "https://arquivo.pt/wayback/20200615185213mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-16T18:44:52Z",
+        "uri": "https://arquivo.pt/wayback/20200616184452mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-16T19:07:54Z",
+        "uri": "https://arquivo.pt/wayback/20200616190754mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-17T18:56:40Z",
+        "uri": "https://arquivo.pt/wayback/20200617185640mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-18T19:25:47Z",
+        "uri": "https://arquivo.pt/wayback/20200618192547mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-19T22:06:06Z",
+        "uri": "https://arquivo.pt/wayback/20200619220606mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-20T21:46:56Z",
+        "uri": "https://arquivo.pt/wayback/20200620214656mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-21T21:29:59Z",
+        "uri": "https://arquivo.pt/wayback/20200621212959mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-22T21:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20200622215542mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-23T21:57:09Z",
+        "uri": "https://arquivo.pt/wayback/20200623215709mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-24T21:44:29Z",
+        "uri": "https://arquivo.pt/wayback/20200624214429mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-25T21:10:01Z",
+        "uri": "https://arquivo.pt/wayback/20200625211001mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-26T21:27:41Z",
+        "uri": "https://arquivo.pt/wayback/20200626212741mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-27T21:35:32Z",
+        "uri": "https://arquivo.pt/wayback/20200627213532mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-28T21:16:17Z",
+        "uri": "https://arquivo.pt/wayback/20200628211617mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-29T21:43:05Z",
+        "uri": "https://arquivo.pt/wayback/20200629214305mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-06-30T22:00:05Z",
+        "uri": "https://arquivo.pt/wayback/20200630220005mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-01T21:56:53Z",
+        "uri": "https://arquivo.pt/wayback/20200701215653mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-02T21:23:20Z",
+        "uri": "https://arquivo.pt/wayback/20200702212320mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-03T21:42:46Z",
+        "uri": "https://arquivo.pt/wayback/20200703214246mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-04T21:40:48Z",
+        "uri": "https://arquivo.pt/wayback/20200704214048mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-05T21:12:33Z",
+        "uri": "https://arquivo.pt/wayback/20200705211233mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-06T21:12:03Z",
+        "uri": "https://arquivo.pt/wayback/20200706211203mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-07T20:04:33Z",
+        "uri": "https://arquivo.pt/wayback/20200707200433mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-08T20:05:50Z",
+        "uri": "https://arquivo.pt/wayback/20200708200550mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-09T19:59:13Z",
+        "uri": "https://arquivo.pt/wayback/20200709195913mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-10T20:10:35Z",
+        "uri": "https://arquivo.pt/wayback/20200710201035mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-11T20:09:19Z",
+        "uri": "https://arquivo.pt/wayback/20200711200919mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-12T19:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20200712194023mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-13T20:01:46Z",
+        "uri": "https://arquivo.pt/wayback/20200713200146mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-14T20:04:43Z",
+        "uri": "https://arquivo.pt/wayback/20200714200443mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-15T20:00:29Z",
+        "uri": "https://arquivo.pt/wayback/20200715200029mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-16T20:12:55Z",
+        "uri": "https://arquivo.pt/wayback/20200716201255mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-17T19:50:33Z",
+        "uri": "https://arquivo.pt/wayback/20200717195033mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-18T21:17:50Z",
+        "uri": "https://arquivo.pt/wayback/20200718211750mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-19T19:55:50Z",
+        "uri": "https://arquivo.pt/wayback/20200719195550mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-20T21:35:31Z",
+        "uri": "https://arquivo.pt/wayback/20200720213531mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-21T21:38:56Z",
+        "uri": "https://arquivo.pt/wayback/20200721213856mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-22T21:54:00Z",
+        "uri": "https://arquivo.pt/wayback/20200722215400mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-23T21:48:48Z",
+        "uri": "https://arquivo.pt/wayback/20200723214848mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-24T21:04:19Z",
+        "uri": "https://arquivo.pt/wayback/20200724210419mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-25T21:05:45Z",
+        "uri": "https://arquivo.pt/wayback/20200725210545mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-26T21:24:44Z",
+        "uri": "https://arquivo.pt/wayback/20200726212444mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-27T21:46:04Z",
+        "uri": "https://arquivo.pt/wayback/20200727214604mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-28T21:24:13Z",
+        "uri": "https://arquivo.pt/wayback/20200728212413mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-29T21:04:18Z",
+        "uri": "https://arquivo.pt/wayback/20200729210418mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-30T21:21:17Z",
+        "uri": "https://arquivo.pt/wayback/20200730212117mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-07-31T20:05:30Z",
+        "uri": "https://arquivo.pt/wayback/20200731200530mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-01T21:08:37Z",
+        "uri": "https://arquivo.pt/wayback/20200801210837mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-02T20:56:41Z",
+        "uri": "https://arquivo.pt/wayback/20200802205641mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-03T22:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20200803221454mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-04T21:25:15Z",
+        "uri": "https://arquivo.pt/wayback/20200804212515mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-05T21:42:09Z",
+        "uri": "https://arquivo.pt/wayback/20200805214209mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-07T13:21:01Z",
+        "uri": "https://arquivo.pt/wayback/20200807132101mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-07T20:50:05Z",
+        "uri": "https://arquivo.pt/wayback/20200807205005mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-08T21:06:28Z",
+        "uri": "https://arquivo.pt/wayback/20200808210628mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-09T21:10:40Z",
+        "uri": "https://arquivo.pt/wayback/20200809211040mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-10T21:18:22Z",
+        "uri": "https://arquivo.pt/wayback/20200810211822mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-11T21:08:18Z",
+        "uri": "https://arquivo.pt/wayback/20200811210818mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-12T21:45:27Z",
+        "uri": "https://arquivo.pt/wayback/20200812214527mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-13T21:48:43Z",
+        "uri": "https://arquivo.pt/wayback/20200813214843mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-14T21:28:33Z",
+        "uri": "https://arquivo.pt/wayback/20200814212833mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-15T21:10:46Z",
+        "uri": "https://arquivo.pt/wayback/20200815211046mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-16T21:40:51Z",
+        "uri": "https://arquivo.pt/wayback/20200816214051mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-17T21:14:50Z",
+        "uri": "https://arquivo.pt/wayback/20200817211450mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-18T21:45:16Z",
+        "uri": "https://arquivo.pt/wayback/20200818214516mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-19T21:59:18Z",
+        "uri": "https://arquivo.pt/wayback/20200819215918mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-20T21:55:20Z",
+        "uri": "https://arquivo.pt/wayback/20200820215520mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-21T21:26:45Z",
+        "uri": "https://arquivo.pt/wayback/20200821212645mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-22T21:01:48Z",
+        "uri": "https://arquivo.pt/wayback/20200822210148mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-23T21:31:25Z",
+        "uri": "https://arquivo.pt/wayback/20200823213125mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-24T21:25:35Z",
+        "uri": "https://arquivo.pt/wayback/20200824212535mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-25T21:40:27Z",
+        "uri": "https://arquivo.pt/wayback/20200825214027mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-26T22:03:42Z",
+        "uri": "https://arquivo.pt/wayback/20200826220342mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-27T21:31:18Z",
+        "uri": "https://arquivo.pt/wayback/20200827213118mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-28T19:53:48Z",
+        "uri": "https://arquivo.pt/wayback/20200828195348mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-29T20:23:20Z",
+        "uri": "https://arquivo.pt/wayback/20200829202320mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-30T21:46:01Z",
+        "uri": "https://arquivo.pt/wayback/20200830214601mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-08-31T21:39:37Z",
+        "uri": "https://arquivo.pt/wayback/20200831213937mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-09-01T22:03:39Z",
+        "uri": "https://arquivo.pt/wayback/20200901220339mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-09-03T21:01:06Z",
+        "uri": "https://arquivo.pt/wayback/20200903210106mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-09-07T20:14:42Z",
+        "uri": "https://arquivo.pt/wayback/20200907201442mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-09-08T20:22:22Z",
+        "uri": "https://arquivo.pt/wayback/20200908202222mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-09-13T13:45:26Z",
+        "uri": "https://arquivo.pt/wayback/20200913134526mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-01T21:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20201001213045mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-07T21:01:00Z",
+        "uri": "https://arquivo.pt/wayback/20201007210100mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-08T21:21:08Z",
+        "uri": "https://arquivo.pt/wayback/20201008212108mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-09T21:22:40Z",
+        "uri": "https://arquivo.pt/wayback/20201009212240mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-10T21:12:18Z",
+        "uri": "https://arquivo.pt/wayback/20201010211218mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-11T21:16:34Z",
+        "uri": "https://arquivo.pt/wayback/20201011211634mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-12T21:32:36Z",
+        "uri": "https://arquivo.pt/wayback/20201012213236mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-13T21:40:45Z",
+        "uri": "https://arquivo.pt/wayback/20201013214045mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-14T21:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20201014213341mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-15T21:31:30Z",
+        "uri": "https://arquivo.pt/wayback/20201015213130mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-16T21:14:53Z",
+        "uri": "https://arquivo.pt/wayback/20201016211453mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-17T21:35:25Z",
+        "uri": "https://arquivo.pt/wayback/20201017213525mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-18T21:27:02Z",
+        "uri": "https://arquivo.pt/wayback/20201018212702mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-30T20:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20201030202801mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-10-31T21:15:01Z",
+        "uri": "https://arquivo.pt/wayback/20201031211501mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-11-01T22:01:25Z",
+        "uri": "https://arquivo.pt/wayback/20201101220125mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-11-02T21:23:23Z",
+        "uri": "https://arquivo.pt/wayback/20201102212323mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-11-19T21:15:34Z",
+        "uri": "https://arquivo.pt/wayback/20201119211534mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-11-29T22:14:38Z",
+        "uri": "https://arquivo.pt/wayback/20201129221438mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-11T21:38:47Z",
+        "uri": "https://arquivo.pt/wayback/20201211213847mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-12T21:20:31Z",
+        "uri": "https://arquivo.pt/wayback/20201212212031mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-13T21:34:21Z",
+        "uri": "https://arquivo.pt/wayback/20201213213421mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-14T21:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20201214214533mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-15T03:39:39Z",
+        "uri": "https://arquivo.pt/wayback/20201215033939mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-15T21:23:13Z",
+        "uri": "https://arquivo.pt/wayback/20201215212313mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-16T20:57:16Z",
+        "uri": "https://arquivo.pt/wayback/20201216205716mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-18T03:16:12Z",
+        "uri": "https://arquivo.pt/wayback/20201218031612mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-19T02:43:35Z",
+        "uri": "https://arquivo.pt/wayback/20201219024335mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-20T02:40:36Z",
+        "uri": "https://arquivo.pt/wayback/20201220024036mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-20T20:21:41Z",
+        "uri": "https://arquivo.pt/wayback/20201220202141mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-22T02:31:57Z",
+        "uri": "https://arquivo.pt/wayback/20201222023157mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-23T03:10:27Z",
+        "uri": "https://arquivo.pt/wayback/20201223031027mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-24T03:01:58Z",
+        "uri": "https://arquivo.pt/wayback/20201224030158mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-25T02:50:41Z",
+        "uri": "https://arquivo.pt/wayback/20201225025041mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-26T03:08:41Z",
+        "uri": "https://arquivo.pt/wayback/20201226030841mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-27T03:03:43Z",
+        "uri": "https://arquivo.pt/wayback/20201227030343mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-27T19:53:05Z",
+        "uri": "https://arquivo.pt/wayback/20201227195305mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-29T03:36:35Z",
+        "uri": "https://arquivo.pt/wayback/20201229033635mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-30T03:16:47Z",
+        "uri": "https://arquivo.pt/wayback/20201230031647mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2020-12-31T02:57:05Z",
+        "uri": "https://arquivo.pt/wayback/20201231025705mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2021-01-01T03:01:29Z",
+        "uri": "https://arquivo.pt/wayback/20210101030129mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2021-03-16T09:14:45Z",
+        "uri": "https://arquivo.pt/wayback/20210316091445mp_/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2022-02-05T02:28:15Z",
+        "uri": "http://archive.md/20220205022815/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2022-04-25T02:10:50Z",
+        "uri": "http://archive.md/20220425021050/https://manage.smarturl.it/"
+      },
+      {
+        "datetime": "2022-07-07T20:07:00Z",
+        "uri": "http://archive.md/20220707200700/https://manage.smarturl.it/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-05-04T19:10:36Z",
+      "uri": "http://archive.md/20130504191036/http://manage.smarturl.it/"
+    },
+    "last": {
+      "datetime": "2022-07-07T20:07:00Z",
+      "uri": "http://archive.md/20220707200700/https://manage.smarturl.it/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://manage.smarturl.it",
+    "json_format": "http://localhost:1208/timemap/json/https://manage.smarturl.it",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://manage.smarturl.it"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://manage.smarturl.it"
+}

@@ -1,0 +1,194 @@
+{
+  "original_uri": "https://rebrandly.com/404",
+  "self": "http://localhost:1208/timemap/json/https://rebrandly.com/404",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-28T02:30:35Z",
+        "uri": "https://arquivo.pt/wayback/20200128023035mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-01-31T03:13:20Z",
+        "uri": "https://arquivo.pt/wayback/20200131031320mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-02-11T07:35:49Z",
+        "uri": "https://arquivo.pt/wayback/20200211073549mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-03-07T15:38:39Z",
+        "uri": "https://arquivo.pt/wayback/20200307153839mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-03-12T15:14:41Z",
+        "uri": "https://arquivo.pt/wayback/20200312151441mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-05-12T09:16:31Z",
+        "uri": "https://arquivo.pt/wayback/20200512091631mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-05-14T17:40:55Z",
+        "uri": "http://archive.md/20200514174055/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-06-29T04:32:09Z",
+        "uri": "https://arquivo.pt/wayback/20200629043209mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-09-12T17:42:36Z",
+        "uri": "http://archive.md/20200912174236/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-09-22T09:37:47Z",
+        "uri": "https://arquivo.pt/wayback/20200922093747mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-11-19T02:50:21Z",
+        "uri": "https://arquivo.pt/wayback/20201119025021mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-01T03:02:21Z",
+        "uri": "https://arquivo.pt/wayback/20201201030221mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-01T22:16:06Z",
+        "uri": "https://arquivo.pt/wayback/20201201221606mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-03T22:53:43Z",
+        "uri": "https://arquivo.pt/wayback/20201203225343mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-17T06:11:38Z",
+        "uri": "http://archive.md/20201217061138/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-17T23:13:06Z",
+        "uri": "https://arquivo.pt/wayback/20201217231306mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-18T22:29:35Z",
+        "uri": "https://arquivo.pt/wayback/20201218222935mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-19T22:28:59Z",
+        "uri": "https://arquivo.pt/wayback/20201219222859mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-20T22:10:07Z",
+        "uri": "https://arquivo.pt/wayback/20201220221007mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-21T22:21:56Z",
+        "uri": "https://arquivo.pt/wayback/20201221222156mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-22T14:42:09Z",
+        "uri": "https://arquivo.pt/wayback/20201222144209mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-22T14:42:09Z",
+        "uri": "https://arquivo.pt/wayback/20201222144209mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-25T22:38:04Z",
+        "uri": "https://arquivo.pt/wayback/20201225223804mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2020-12-26T22:27:39Z",
+        "uri": "https://arquivo.pt/wayback/20201226222739mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-01-04T20:17:28Z",
+        "uri": "http://archive.md/20210104201728/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-01-04T20:18:12Z",
+        "uri": "http://archive.md/20210104201812/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-01-13T07:28:26Z",
+        "uri": "https://arquivo.pt/wayback/20210113072826mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-03-01T00:22:56Z",
+        "uri": "https://arquivo.pt/wayback/20210301002256mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-03-03T05:05:37Z",
+        "uri": "https://arquivo.pt/wayback/20210303050537mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-03-11T20:17:06Z",
+        "uri": "http://archive.md/20210311201706/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-03-15T19:17:32Z",
+        "uri": "https://arquivo.pt/wayback/20210315191732mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-04-11T05:22:41Z",
+        "uri": "http://archive.md/20210411052241/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-06-28T09:06:59Z",
+        "uri": "https://arquivo.pt/wayback/20210628090659mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-06-28T09:06:59Z",
+        "uri": "https://arquivo.pt/wayback/20210628090659mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-06-28T09:07:00Z",
+        "uri": "https://arquivo.pt/wayback/20210628090700mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-09-23T20:21:27Z",
+        "uri": "https://arquivo.pt/wayback/20210923202127mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2021-10-04T01:58:23Z",
+        "uri": "http://archive.md/20211004015823/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-02-04T17:44:52Z",
+        "uri": "http://archive.md/20220204174452/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-04-16T05:38:09Z",
+        "uri": "http://archive.md/20220416053809/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-06-12T13:32:19Z",
+        "uri": "http://archive.md/20220612133219/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-07-31T10:13:07Z",
+        "uri": "https://arquivo.pt/wayback/20220731101307mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-07-31T10:13:07Z",
+        "uri": "https://arquivo.pt/wayback/20220731101307mp_/https://rebrandly.com/404"
+      },
+      {
+        "datetime": "2022-08-24T11:18:34Z",
+        "uri": "http://archive.md/20220824111834/https://rebrandly.com/404"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-28T02:30:35Z",
+      "uri": "https://arquivo.pt/wayback/20200128023035mp_/https://rebrandly.com/404"
+    },
+    "last": {
+      "datetime": "2022-08-24T11:18:34Z",
+      "uri": "http://archive.md/20220824111834/https://rebrandly.com/404"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://rebrandly.com/404",
+    "json_format": "http://localhost:1208/timemap/json/https://rebrandly.com/404",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://rebrandly.com/404"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://rebrandly.com/404"
+}

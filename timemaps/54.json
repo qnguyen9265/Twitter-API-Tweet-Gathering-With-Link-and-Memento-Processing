@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://publicistlibrary.com",
+  "self": "http://localhost:1208/timemap/json/https://publicistlibrary.com",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-02-02T17:52:47Z",
+        "uri": "http://archive.md/20220202175247/https://publicistlibrary.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-02-02T17:52:47Z",
+      "uri": "http://archive.md/20220202175247/https://publicistlibrary.com/"
+    },
+    "last": {
+      "datetime": "2022-02-02T17:52:47Z",
+      "uri": "http://archive.md/20220202175247/https://publicistlibrary.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://publicistlibrary.com",
+    "json_format": "http://localhost:1208/timemap/json/https://publicistlibrary.com",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://publicistlibrary.com"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://publicistlibrary.com"
+}

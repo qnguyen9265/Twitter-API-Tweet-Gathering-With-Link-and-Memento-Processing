@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.amazon.com/errors/404.html",
+  "self": "http://localhost:1208/timemap/json/https://www.amazon.com/errors/404.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-05-15T18:24:44Z",
+        "uri": "https://arquivo.pt/wayback/20190515182444mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-02-04T17:37:42Z",
+        "uri": "https://arquivo.pt/wayback/20200204173742mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-03-12T22:39:47Z",
+        "uri": "https://arquivo.pt/wayback/20200312223947mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-11-25T21:44:17Z",
+        "uri": "https://arquivo.pt/wayback/20201125214417mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-10T21:56:17Z",
+        "uri": "https://arquivo.pt/wayback/20201210215617mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-16T19:06:19Z",
+        "uri": "https://arquivo.pt/wayback/20201216190619mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-17T19:47:00Z",
+        "uri": "https://arquivo.pt/wayback/20201217194700mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-18T19:06:54Z",
+        "uri": "https://arquivo.pt/wayback/20201218190654mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-19T19:12:53Z",
+        "uri": "https://arquivo.pt/wayback/20201219191253mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-20T19:13:58Z",
+        "uri": "https://arquivo.pt/wayback/20201220191358mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-21T19:44:14Z",
+        "uri": "https://arquivo.pt/wayback/20201221194414mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-22T20:01:37Z",
+        "uri": "https://arquivo.pt/wayback/20201222200137mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-24T20:15:55Z",
+        "uri": "https://arquivo.pt/wayback/20201224201555mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-25T20:00:31Z",
+        "uri": "https://arquivo.pt/wayback/20201225200031mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-26T19:54:35Z",
+        "uri": "https://arquivo.pt/wayback/20201226195435mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-27T19:39:26Z",
+        "uri": "https://arquivo.pt/wayback/20201227193926mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2020-12-28T20:23:44Z",
+        "uri": "https://arquivo.pt/wayback/20201228202344mp_/https://www.amazon.com/errors/404.html"
+      },
+      {
+        "datetime": "2021-06-08T02:12:14Z",
+        "uri": "http://archive.md/20210608021214/https://www.amazon.com/errors/404.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-05-15T18:24:44Z",
+      "uri": "https://arquivo.pt/wayback/20190515182444mp_/https://www.amazon.com/errors/404.html"
+    },
+    "last": {
+      "datetime": "2021-06-08T02:12:14Z",
+      "uri": "http://archive.md/20210608021214/https://www.amazon.com/errors/404.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.amazon.com/errors/404.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.amazon.com/errors/404.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.amazon.com/errors/404.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.amazon.com/errors/404.html"
+}

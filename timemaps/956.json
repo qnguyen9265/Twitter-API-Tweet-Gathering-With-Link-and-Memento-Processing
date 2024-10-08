@@ -1,0 +1,626 @@
+{
+  "original_uri": "https://www.patentlyapple.com/",
+  "self": "http://localhost:1208/timemap/json/https://www.patentlyapple.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-01-13T02:44:02Z",
+        "uri": "https://arquivo.pt/wayback/20110113024402mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2012-01-27T18:27:00Z",
+        "uri": "https://arquivo.pt/wayback/20120127182700mp_/http://patentlyapple.com/"
+      },
+      {
+        "datetime": "2013-04-11T15:31:56Z",
+        "uri": "http://archive.md/20130411153156/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2013-05-05T22:58:02Z",
+        "uri": "http://archive.md/20130505225802/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2014-09-09T07:00:53Z",
+        "uri": "https://arquivo.pt/wayback/20140909070053mp_/http://patentlyapple.com/"
+      },
+      {
+        "datetime": "2017-06-24T09:18:01Z",
+        "uri": "https://arquivo.pt/wayback/20170624091801mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-07-13T03:40:03Z",
+        "uri": "https://arquivo.pt/wayback/20180713034003mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-11-07T21:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20181107212200mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-11-08T23:28:11Z",
+        "uri": "https://arquivo.pt/wayback/20181108232811mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-11-10T02:16:32Z",
+        "uri": "https://arquivo.pt/wayback/20181110021632mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-12-01T10:53:02Z",
+        "uri": "https://arquivo.pt/wayback/20181201105302mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-12-18T23:11:02Z",
+        "uri": "https://arquivo.pt/wayback/20181218231102mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-12-19T23:56:50Z",
+        "uri": "https://arquivo.pt/wayback/20181219235650mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-12-21T10:28:09Z",
+        "uri": "https://arquivo.pt/wayback/20181221102809mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2018-12-22T11:03:57Z",
+        "uri": "https://arquivo.pt/wayback/20181222110357mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-03-28T02:14:28Z",
+        "uri": "https://arquivo.pt/wayback/20190328021428mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-03-28T02:14:31Z",
+        "uri": "https://arquivo.pt/wayback/20190328021431mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-04-14T00:11:27Z",
+        "uri": "https://arquivo.pt/wayback/20190414001127mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-04-15T00:22:53Z",
+        "uri": "https://arquivo.pt/wayback/20190415002253mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-04-15T22:48:09Z",
+        "uri": "https://arquivo.pt/wayback/20190415224809mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-08T05:00:56Z",
+        "uri": "https://arquivo.pt/wayback/20190608050056mp_/http://patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-08T08:51:55Z",
+        "uri": "https://arquivo.pt/wayback/20190608085155mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-08T08:52:06Z",
+        "uri": "https://arquivo.pt/wayback/20190608085206mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-20T05:51:48Z",
+        "uri": "https://arquivo.pt/wayback/20190620055148mp_/http://patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-25T12:52:06Z",
+        "uri": "https://arquivo.pt/wayback/20190625125206mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-06-25T12:52:17Z",
+        "uri": "https://arquivo.pt/wayback/20190625125217mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-02T18:04:00Z",
+        "uri": "https://arquivo.pt/wayback/20190702180400mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-04T01:01:26Z",
+        "uri": "https://arquivo.pt/wayback/20190704010126mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-04T20:21:47Z",
+        "uri": "https://arquivo.pt/wayback/20190704202147mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-05T21:45:42Z",
+        "uri": "https://arquivo.pt/wayback/20190705214542mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-06T21:37:30Z",
+        "uri": "https://arquivo.pt/wayback/20190706213730mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-07T21:53:21Z",
+        "uri": "https://arquivo.pt/wayback/20190707215321mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-07-08T22:13:07Z",
+        "uri": "https://arquivo.pt/wayback/20190708221307mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-09-07T08:53:23Z",
+        "uri": "https://arquivo.pt/wayback/20190907085323mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-09-07T08:53:26Z",
+        "uri": "https://arquivo.pt/wayback/20190907085326mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-09-08T22:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20190908225745mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-10-04T18:21:53Z",
+        "uri": "https://arquivo.pt/wayback/20191004182153mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-10-07T11:39:19Z",
+        "uri": "https://arquivo.pt/wayback/20191007113919mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-10-07T18:44:01Z",
+        "uri": "https://arquivo.pt/wayback/20191007184401mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-10-08T18:52:01Z",
+        "uri": "https://arquivo.pt/wayback/20191008185201mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-10-09T18:42:09Z",
+        "uri": "https://arquivo.pt/wayback/20191009184209mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-11-05T02:43:21Z",
+        "uri": "https://arquivo.pt/wayback/20191105024321mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-12-14T20:02:12Z",
+        "uri": "https://arquivo.pt/wayback/20191214200212mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-12-21T19:49:08Z",
+        "uri": "https://arquivo.pt/wayback/20191221194908mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2019-12-23T23:29:47Z",
+        "uri": "https://arquivo.pt/wayback/20191223232947mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-01-02T19:10:49Z",
+        "uri": "https://arquivo.pt/wayback/20200102191049mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-01-03T19:33:21Z",
+        "uri": "https://arquivo.pt/wayback/20200103193321mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-01-04T19:41:12Z",
+        "uri": "https://arquivo.pt/wayback/20200104194112mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-01-05T19:45:07Z",
+        "uri": "https://arquivo.pt/wayback/20200105194507mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-01-06T19:45:43Z",
+        "uri": "https://arquivo.pt/wayback/20200106194543mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-03-08T08:53:44Z",
+        "uri": "https://arquivo.pt/wayback/20200308085344mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-03-08T08:53:49Z",
+        "uri": "https://arquivo.pt/wayback/20200308085349mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-06-06T08:28:46Z",
+        "uri": "https://arquivo.pt/wayback/20200606082846mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-06-06T08:28:50Z",
+        "uri": "https://arquivo.pt/wayback/20200606082850mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-06-08T17:14:21Z",
+        "uri": "https://arquivo.pt/wayback/20200608171421mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-15T20:47:19Z",
+        "uri": "https://arquivo.pt/wayback/20200815204719mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-16T21:00:29Z",
+        "uri": "https://arquivo.pt/wayback/20200816210029mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-17T22:05:55Z",
+        "uri": "https://arquivo.pt/wayback/20200817220555mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-18T22:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20200818222449mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-20T00:56:12Z",
+        "uri": "https://arquivo.pt/wayback/20200820005612mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-20T22:37:27Z",
+        "uri": "https://arquivo.pt/wayback/20200820223727mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-22T00:24:07Z",
+        "uri": "https://arquivo.pt/wayback/20200822002407mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-08-22T23:42:30Z",
+        "uri": "https://arquivo.pt/wayback/20200822234230mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-05T14:53:15Z",
+        "uri": "https://arquivo.pt/wayback/20200905145315mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-17T23:03:18Z",
+        "uri": "https://arquivo.pt/wayback/20200917230318mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-18T22:52:18Z",
+        "uri": "https://arquivo.pt/wayback/20200918225218mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-19T22:48:02Z",
+        "uri": "https://arquivo.pt/wayback/20200919224802mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-20T22:51:14Z",
+        "uri": "https://arquivo.pt/wayback/20200920225114mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-21T22:55:35Z",
+        "uri": "https://arquivo.pt/wayback/20200921225535mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-22T23:00:46Z",
+        "uri": "https://arquivo.pt/wayback/20200922230046mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-23T22:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20200923225904mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-24T22:53:42Z",
+        "uri": "https://arquivo.pt/wayback/20200924225342mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-25T22:54:04Z",
+        "uri": "https://arquivo.pt/wayback/20200925225404mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-26T22:45:01Z",
+        "uri": "https://arquivo.pt/wayback/20200926224501mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-27T22:48:04Z",
+        "uri": "https://arquivo.pt/wayback/20200927224804mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-28T23:00:15Z",
+        "uri": "https://arquivo.pt/wayback/20200928230015mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-29T23:02:29Z",
+        "uri": "https://arquivo.pt/wayback/20200929230229mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-09-30T22:54:46Z",
+        "uri": "https://arquivo.pt/wayback/20200930225446mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-01T23:30:07Z",
+        "uri": "https://arquivo.pt/wayback/20201001233007mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-06T23:46:06Z",
+        "uri": "https://arquivo.pt/wayback/20201006234606mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-07T23:15:25Z",
+        "uri": "https://arquivo.pt/wayback/20201007231525mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-08T23:08:26Z",
+        "uri": "https://arquivo.pt/wayback/20201008230826mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-09T23:12:02Z",
+        "uri": "https://arquivo.pt/wayback/20201009231202mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-10T23:02:27Z",
+        "uri": "https://arquivo.pt/wayback/20201010230227mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-11T23:02:08Z",
+        "uri": "https://arquivo.pt/wayback/20201011230208mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-12T23:22:47Z",
+        "uri": "https://arquivo.pt/wayback/20201012232247mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-13T23:20:44Z",
+        "uri": "https://arquivo.pt/wayback/20201013232044mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-14T23:15:23Z",
+        "uri": "https://arquivo.pt/wayback/20201014231523mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-15T23:19:26Z",
+        "uri": "https://arquivo.pt/wayback/20201015231926mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-16T23:07:43Z",
+        "uri": "https://arquivo.pt/wayback/20201016230743mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-17T23:11:58Z",
+        "uri": "https://arquivo.pt/wayback/20201017231158mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-18T23:16:39Z",
+        "uri": "https://arquivo.pt/wayback/20201018231639mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-19T23:05:19Z",
+        "uri": "https://arquivo.pt/wayback/20201019230519mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-20T22:59:46Z",
+        "uri": "https://arquivo.pt/wayback/20201020225946mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-21T23:00:34Z",
+        "uri": "https://arquivo.pt/wayback/20201021230034mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-22T22:59:25Z",
+        "uri": "https://arquivo.pt/wayback/20201022225925mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-23T22:57:30Z",
+        "uri": "https://arquivo.pt/wayback/20201023225730mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-24T23:14:01Z",
+        "uri": "https://arquivo.pt/wayback/20201024231401mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-26T00:15:35Z",
+        "uri": "https://arquivo.pt/wayback/20201026001535mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-27T00:11:25Z",
+        "uri": "https://arquivo.pt/wayback/20201027001125mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-28T00:03:49Z",
+        "uri": "https://arquivo.pt/wayback/20201028000349mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-28T19:56:59Z",
+        "uri": "https://arquivo.pt/wayback/20201028195659mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-29T22:28:47Z",
+        "uri": "https://arquivo.pt/wayback/20201029222847mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-30T22:45:15Z",
+        "uri": "https://arquivo.pt/wayback/20201030224515mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-10-31T22:37:39Z",
+        "uri": "https://arquivo.pt/wayback/20201031223739mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-01T23:06:51Z",
+        "uri": "https://arquivo.pt/wayback/20201101230651mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-03T00:08:40Z",
+        "uri": "https://arquivo.pt/wayback/20201103000840mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-04T00:09:47Z",
+        "uri": "https://arquivo.pt/wayback/20201104000947mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-05T00:06:46Z",
+        "uri": "https://arquivo.pt/wayback/20201105000646mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-06T00:05:15Z",
+        "uri": "https://arquivo.pt/wayback/20201106000515mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-07T00:17:04Z",
+        "uri": "https://arquivo.pt/wayback/20201107001704mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-08T00:18:58Z",
+        "uri": "https://arquivo.pt/wayback/20201108001858mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-09T00:34:27Z",
+        "uri": "https://arquivo.pt/wayback/20201109003427mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-10T00:34:28Z",
+        "uri": "https://arquivo.pt/wayback/20201110003428mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-11T00:41:07Z",
+        "uri": "https://arquivo.pt/wayback/20201111004107mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-12T00:30:46Z",
+        "uri": "https://arquivo.pt/wayback/20201112003046mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-13T00:23:50Z",
+        "uri": "https://arquivo.pt/wayback/20201113002350mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-14T00:18:40Z",
+        "uri": "https://arquivo.pt/wayback/20201114001840mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-15T00:05:55Z",
+        "uri": "https://arquivo.pt/wayback/20201115000555mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-16T00:14:13Z",
+        "uri": "https://arquivo.pt/wayback/20201116001413mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-17T00:10:09Z",
+        "uri": "https://arquivo.pt/wayback/20201117001009mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-18T00:16:48Z",
+        "uri": "https://arquivo.pt/wayback/20201118001648mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-19T00:21:49Z",
+        "uri": "https://arquivo.pt/wayback/20201119002149mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-20T00:13:24Z",
+        "uri": "https://arquivo.pt/wayback/20201120001324mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-21T00:24:03Z",
+        "uri": "https://arquivo.pt/wayback/20201121002403mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-22T00:12:55Z",
+        "uri": "https://arquivo.pt/wayback/20201122001255mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-23T00:15:43Z",
+        "uri": "https://arquivo.pt/wayback/20201123001543mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-24T00:40:33Z",
+        "uri": "https://arquivo.pt/wayback/20201124004033mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-25T00:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20201125001859mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-26T00:48:36Z",
+        "uri": "https://arquivo.pt/wayback/20201126004836mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-27T00:20:39Z",
+        "uri": "https://arquivo.pt/wayback/20201127002039mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-28T00:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20201128002224mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-29T00:14:18Z",
+        "uri": "https://arquivo.pt/wayback/20201129001418mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-11-30T00:14:49Z",
+        "uri": "https://arquivo.pt/wayback/20201130001449mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-01T00:30:09Z",
+        "uri": "https://arquivo.pt/wayback/20201201003009mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-02T00:25:55Z",
+        "uri": "https://arquivo.pt/wayback/20201202002555mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-03T00:43:02Z",
+        "uri": "https://arquivo.pt/wayback/20201203004302mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-04T00:11:06Z",
+        "uri": "https://arquivo.pt/wayback/20201204001106mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-05T00:24:48Z",
+        "uri": "https://arquivo.pt/wayback/20201205002448mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-06T00:17:06Z",
+        "uri": "https://arquivo.pt/wayback/20201206001706mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-06T17:00:33Z",
+        "uri": "https://arquivo.pt/wayback/20201206170033mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-07T00:11:29Z",
+        "uri": "https://arquivo.pt/wayback/20201207001129mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-09T00:30:08Z",
+        "uri": "https://arquivo.pt/wayback/20201209003008mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2020-12-10T00:19:35Z",
+        "uri": "https://arquivo.pt/wayback/20201210001935mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-01-01T00:10:06Z",
+        "uri": "https://arquivo.pt/wayback/20210101001006mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-01-27T13:33:48Z",
+        "uri": "http://archive.md/20210127133348/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-01-30T09:58:43Z",
+        "uri": "http://archive.md/20210130095843/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-03-05T09:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20210305091452mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-03-05T09:14:57Z",
+        "uri": "https://arquivo.pt/wayback/20210305091457mp_/https://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2021-09-11T21:36:38Z",
+        "uri": "https://arquivo.pt/wayback/20210911213638mp_/http://www.patentlyapple.com/"
+      },
+      {
+        "datetime": "2022-04-07T23:16:03Z",
+        "uri": "https://perma.cc/Z2GQ-B2P2"
+      }
+    ],
+    "first": {
+      "datetime": "2011-01-13T02:44:02Z",
+      "uri": "https://arquivo.pt/wayback/20110113024402mp_/http://www.patentlyapple.com/"
+    },
+    "last": {
+      "datetime": "2022-04-07T23:16:03Z",
+      "uri": "https://perma.cc/Z2GQ-B2P2"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.patentlyapple.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.patentlyapple.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.patentlyapple.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.patentlyapple.com/"
+}

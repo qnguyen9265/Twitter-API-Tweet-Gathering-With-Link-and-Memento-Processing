@@ -1,0 +1,126 @@
+{
+  "original_uri": "https://home.38degrees.org.uk/",
+  "self": "http://localhost:1208/timemap/json/https://home.38degrees.org.uk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-07-09T18:28:56Z",
+        "uri": "http://archive.md/20160709182856/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2016-11-26T22:13:48Z",
+        "uri": "http://archive.md/20161126221348/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2016-11-26T22:13:49Z",
+        "uri": "http://archive.md/20161126221349/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-08-09T08:08:27Z",
+        "uri": "https://arquivo.pt/wayback/20180809080827mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-09-27T01:23:34Z",
+        "uri": "https://arquivo.pt/wayback/20180927012334mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-09-28T03:09:11Z",
+        "uri": "https://arquivo.pt/wayback/20180928030911mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-09-29T05:48:32Z",
+        "uri": "https://arquivo.pt/wayback/20180929054832mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-09-30T05:23:23Z",
+        "uri": "https://arquivo.pt/wayback/20180930052323mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-01T05:30:05Z",
+        "uri": "https://arquivo.pt/wayback/20181001053005mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-02T06:00:39Z",
+        "uri": "https://arquivo.pt/wayback/20181002060039mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-03T06:05:32Z",
+        "uri": "https://arquivo.pt/wayback/20181003060532mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-04T06:26:58Z",
+        "uri": "https://arquivo.pt/wayback/20181004062658mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-05T06:54:31Z",
+        "uri": "https://arquivo.pt/wayback/20181005065431mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-06T06:38:32Z",
+        "uri": "https://arquivo.pt/wayback/20181006063832mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-07T07:04:16Z",
+        "uri": "https://arquivo.pt/wayback/20181007070416mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2018-10-08T06:55:29Z",
+        "uri": "https://arquivo.pt/wayback/20181008065529mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-04-02T21:30:09Z",
+        "uri": "https://arquivo.pt/wayback/20190402213009mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-04-07T14:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20190407141859mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-06-04T14:41:46Z",
+        "uri": "https://arquivo.pt/wayback/20190604144146mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-06-07T23:05:11Z",
+        "uri": "https://arquivo.pt/wayback/20190607230511mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-06-24T23:54:14Z",
+        "uri": "https://arquivo.pt/wayback/20190624235414mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-07-05T08:13:03Z",
+        "uri": "https://arquivo.pt/wayback/20190705081303mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-10-13T00:59:39Z",
+        "uri": "https://arquivo.pt/wayback/20191013005939mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2019-10-14T19:38:00Z",
+        "uri": "https://arquivo.pt/wayback/20191014193800mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2020-02-13T07:21:56Z",
+        "uri": "https://arquivo.pt/wayback/20200213072156mp_/https://home.38degrees.org.uk/"
+      },
+      {
+        "datetime": "2020-03-28T08:28:48Z",
+        "uri": "https://arquivo.pt/wayback/20200328082848mp_/https://home.38degrees.org.uk/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-07-09T18:28:56Z",
+      "uri": "http://archive.md/20160709182856/https://home.38degrees.org.uk/"
+    },
+    "last": {
+      "datetime": "2020-03-28T08:28:48Z",
+      "uri": "https://arquivo.pt/wayback/20200328082848mp_/https://home.38degrees.org.uk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://home.38degrees.org.uk/",
+    "json_format": "http://localhost:1208/timemap/json/https://home.38degrees.org.uk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://home.38degrees.org.uk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://home.38degrees.org.uk/"
+}

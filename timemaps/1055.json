@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.spamcop.net/spamgraph.shtml?spamstat%0A",
+  "self": "http://localhost:1208/timemap/json/https://www.spamcop.net/spamgraph.shtml?spamstat%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-07-22T15:58:56Z",
+        "uri": "https://arquivo.pt/wayback/20180722155856mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+      },
+      {
+        "datetime": "2019-06-25T02:40:43Z",
+        "uri": "https://arquivo.pt/wayback/20190625024043mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+      },
+      {
+        "datetime": "2019-11-20T12:05:51Z",
+        "uri": "https://arquivo.pt/wayback/20191120120551mp_/https://www.spamcop.net/spamgraph.shtml?spamstats"
+      },
+      {
+        "datetime": "2020-03-07T03:37:50Z",
+        "uri": "https://arquivo.pt/wayback/20200307033750mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+      },
+      {
+        "datetime": "2020-03-26T05:31:25Z",
+        "uri": "https://arquivo.pt/wayback/20200326053125mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+      }
+    ],
+    "first": {
+      "datetime": "2018-07-22T15:58:56Z",
+      "uri": "https://arquivo.pt/wayback/20180722155856mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+    },
+    "last": {
+      "datetime": "2020-03-26T05:31:25Z",
+      "uri": "https://arquivo.pt/wayback/20200326053125mp_/https://www.spamcop.net/spamgraph.shtml?spamyear"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.spamcop.net/spamgraph.shtml?spamstat%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://www.spamcop.net/spamgraph.shtml?spamstat%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.spamcop.net/spamgraph.shtml?spamstat%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.spamcop.net/spamgraph.shtml?spamstat%0A"
+}

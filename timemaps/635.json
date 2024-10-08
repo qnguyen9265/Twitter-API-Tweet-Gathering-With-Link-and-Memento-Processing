@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html",
+  "self": "http://localhost:1208/timemap/json/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-05T19:15:13Z",
+        "uri": "http://archive.md/20221005191513/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-05T19:15:13Z",
+      "uri": "http://archive.md/20221005191513/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html"
+    },
+    "last": {
+      "datetime": "2022-10-05T19:15:13Z",
+      "uri": "http://archive.md/20221005191513/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html",
+    "json_format": "http://localhost:1208/timemap/json/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://rumble.com/v1hoc1l-stewpeters-4g-5g-.html"
+}

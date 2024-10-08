@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//",
+  "self": "http://localhost:1208/timemap/json/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-14T03:44:23Z",
+        "uri": "https://perma.cc/K4CK-TFKB"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-14T03:44:23Z",
+      "uri": "https://perma.cc/K4CK-TFKB"
+    },
+    "last": {
+      "datetime": "2022-03-14T03:44:23Z",
+      "uri": "https://perma.cc/K4CK-TFKB"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//",
+    "json_format": "http://localhost:1208/timemap/json/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29//"
+}

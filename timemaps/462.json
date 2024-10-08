@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html",
+  "self": "http://localhost:1208/timemap/json/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-14T22:47:48Z",
+        "uri": "http://archive.md/20221014224748/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-14T22:47:48Z",
+      "uri": "http://archive.md/20221014224748/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html"
+    },
+    "last": {
+      "datetime": "2022-10-14T22:47:48Z",
+      "uri": "http://archive.md/20221014224748/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.independent.co.uk/news/world/americas/us-politics/trump-jan6-subpoena-response-letter-b2202968.html"
+}

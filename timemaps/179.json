@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://mixlive.ie/stream/progressive-tech/",
+  "self": "http://localhost:1208/timemap/json/https://mixlive.ie/stream/progressive-tech/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-04T20:27:05Z",
+        "uri": "https://arquivo.pt/wayback/20210404202705mp_/https://mixlive.ie/stream/progressive-tech/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-04T20:27:05Z",
+      "uri": "https://arquivo.pt/wayback/20210404202705mp_/https://mixlive.ie/stream/progressive-tech/"
+    },
+    "last": {
+      "datetime": "2021-04-04T20:27:05Z",
+      "uri": "https://arquivo.pt/wayback/20210404202705mp_/https://mixlive.ie/stream/progressive-tech/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://mixlive.ie/stream/progressive-tech/",
+    "json_format": "http://localhost:1208/timemap/json/https://mixlive.ie/stream/progressive-tech/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://mixlive.ie/stream/progressive-tech/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://mixlive.ie/stream/progressive-tech/"
+}

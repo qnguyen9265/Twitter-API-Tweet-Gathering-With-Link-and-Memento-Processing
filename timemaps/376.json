@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html",
+  "self": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-29T16:36:10Z",
+        "uri": "http://archive.md/20220929163610/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+      },
+      {
+        "datetime": "2022-09-29T18:31:51Z",
+        "uri": "http://archive.md/20220929183151/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+      },
+      {
+        "datetime": "2022-09-29T21:58:52Z",
+        "uri": "http://archive.md/20220929215852/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+      },
+      {
+        "datetime": "2022-09-30T05:44:27Z",
+        "uri": "http://archive.md/20220930054427/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-29T16:36:10Z",
+      "uri": "http://archive.md/20220929163610/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+    },
+    "last": {
+      "datetime": "2022-09-30T05:44:27Z",
+      "uri": "http://archive.md/20220930054427/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailymail.co.uk/news/article-11263375/Armys-trans-officer-wife-INDICTED-trying-pass-medical-records-Russians.html"
+}

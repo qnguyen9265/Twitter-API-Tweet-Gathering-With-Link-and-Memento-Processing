@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A",
+  "self": "http://localhost:1208/timemap/json/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-21T18:07:44Z",
+        "uri": "https://arquivo.pt/wayback/20210921180744mp_/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-21T18:07:44Z",
+      "uri": "https://arquivo.pt/wayback/20210921180744mp_/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm"
+    },
+    "last": {
+      "datetime": "2021-09-21T18:07:44Z",
+      "uri": "https://arquivo.pt/wayback/20210921180744mp_/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://science.howstuffworks.com/environmental/earth/oceanography/water-cycle-news.htm?utm_source=flipboard&utm_medium=social&utm_campaign=flipboard-story&utm_content=atlantic-ocean-currents?utm_medium=share&utm_campaign=hsw_share&utm_source=twitter%0A"
+}

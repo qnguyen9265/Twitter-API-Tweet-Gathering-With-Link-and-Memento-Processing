@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://media4you.social/career-development.html#webdev2",
+  "self": "http://localhost:1208/timemap/json/https://media4you.social/career-development.html#webdev2",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-06-07T12:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20190607124533mp_/https://media4you.social/career-development.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-06-07T12:45:33Z",
+      "uri": "https://arquivo.pt/wayback/20190607124533mp_/https://media4you.social/career-development.html"
+    },
+    "last": {
+      "datetime": "2019-06-07T12:45:33Z",
+      "uri": "https://arquivo.pt/wayback/20190607124533mp_/https://media4you.social/career-development.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://media4you.social/career-development.html#webdev2",
+    "json_format": "http://localhost:1208/timemap/json/https://media4you.social/career-development.html#webdev2",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://media4you.social/career-development.html#webdev2"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://media4you.social/career-development.html#webdev2"
+}

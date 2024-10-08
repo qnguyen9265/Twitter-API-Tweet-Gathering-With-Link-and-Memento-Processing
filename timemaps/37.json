@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696",
+  "self": "http://localhost:1208/timemap/json/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-09T11:01:22Z",
+        "uri": "http://archive.md/20221009110122/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-09T11:01:22Z",
+      "uri": "http://archive.md/20221009110122/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696"
+    },
+    "last": {
+      "datetime": "2022-10-09T11:01:22Z",
+      "uri": "http://archive.md/20221009110122/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696",
+    "json_format": "http://localhost:1208/timemap/json/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.globalresearch.ca/israeli-report-mrna-experimental-vaccine-pfizer-killed-about-40-times-more-elderly-people-than-disease-itself-would-have-killed-during-recent-five-week-vaccination-period/5795696"
+}

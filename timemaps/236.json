@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://gizmodo.com/equifax-work-from-home-1849658823",
+  "self": "http://localhost:1208/timemap/json/https://gizmodo.com/equifax-work-from-home-1849658823",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-15T13:13:32Z",
+        "uri": "http://archive.md/20221015131332/https://gizmodo.com/equifax-work-from-home-1849658823"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-15T13:13:32Z",
+      "uri": "http://archive.md/20221015131332/https://gizmodo.com/equifax-work-from-home-1849658823"
+    },
+    "last": {
+      "datetime": "2022-10-15T13:13:32Z",
+      "uri": "http://archive.md/20221015131332/https://gizmodo.com/equifax-work-from-home-1849658823"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://gizmodo.com/equifax-work-from-home-1849658823",
+    "json_format": "http://localhost:1208/timemap/json/https://gizmodo.com/equifax-work-from-home-1849658823",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gizmodo.com/equifax-work-from-home-1849658823"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://gizmodo.com/equifax-work-from-home-1849658823"
+}

@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1",
+  "self": "http://localhost:1208/timemap/json/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-13T19:21:12Z",
+        "uri": "https://arquivo.pt/wayback/20200113192112mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2020-04-22T19:20:46Z",
+        "uri": "https://arquivo.pt/wayback/20200422192046mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2020-07-08T20:50:19Z",
+        "uri": "https://arquivo.pt/wayback/20200708205019mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2021-04-02T20:11:31Z",
+        "uri": "https://arquivo.pt/wayback/20210402201131mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2021-09-19T10:10:07Z",
+        "uri": "https://arquivo.pt/wayback/20210919101007mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2022-03-03T15:56:56Z",
+        "uri": "http://archive.md/20220303155656/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      },
+      {
+        "datetime": "2022-07-29T15:44:25Z",
+        "uri": "http://archive.md/20220729154425/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-13T19:21:12Z",
+      "uri": "https://arquivo.pt/wayback/20200113192112mp_/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+    },
+    "last": {
+      "datetime": "2022-07-29T15:44:25Z",
+      "uri": "http://archive.md/20220729154425/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1",
+    "json_format": "http://localhost:1208/timemap/json/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://shib.idm.umd.edu/shibboleth-idp/profile/cas/login?execution=e1s1"
+}

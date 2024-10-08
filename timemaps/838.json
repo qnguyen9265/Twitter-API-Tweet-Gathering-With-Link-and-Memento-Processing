@@ -1,0 +1,30 @@
+{
+  "original_uri": "http://www.heatingoilshop.com/",
+  "self": "http://localhost:1208/timemap/json/http://www.heatingoilshop.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-08-19T18:03:21Z",
+        "uri": "http://archive.md/20150819180321/http://www.heatingoilshop.com/"
+      },
+      {
+        "datetime": "2015-08-19T18:03:22Z",
+        "uri": "http://archive.md/20150819180322/http://www.heatingoilshop.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-08-19T18:03:21Z",
+      "uri": "http://archive.md/20150819180321/http://www.heatingoilshop.com/"
+    },
+    "last": {
+      "datetime": "2015-08-19T18:03:22Z",
+      "uri": "http://archive.md/20150819180322/http://www.heatingoilshop.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.heatingoilshop.com/",
+    "json_format": "http://localhost:1208/timemap/json/http://www.heatingoilshop.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.heatingoilshop.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.heatingoilshop.com/"
+}

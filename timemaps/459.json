@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://shafaq.com/",
+  "self": "http://localhost:1208/timemap/json/https://shafaq.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-12-16T17:24:46Z",
+        "uri": "https://arquivo.pt/wayback/20201216172446mp_/https://shafaq.com/"
+      },
+      {
+        "datetime": "2021-03-17T22:53:26Z",
+        "uri": "https://arquivo.pt/wayback/20210317225326mp_/https://shafaq.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-12-16T17:24:46Z",
+      "uri": "https://arquivo.pt/wayback/20201216172446mp_/https://shafaq.com/"
+    },
+    "last": {
+      "datetime": "2021-03-17T22:53:26Z",
+      "uri": "https://arquivo.pt/wayback/20210317225326mp_/https://shafaq.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://shafaq.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://shafaq.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://shafaq.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://shafaq.com/"
+}

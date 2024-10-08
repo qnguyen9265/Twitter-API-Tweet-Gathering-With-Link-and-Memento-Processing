@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591",
+  "self": "http://localhost:1208/timemap/json/https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-08T12:16:19Z",
+        "uri": "https://arquivo.pt/wayback/20210908121619mp_/https://m.blog.naver.com/PostView.naver"
+      },
+      {
+        "datetime": "2021-09-08T12:17:05Z",
+        "uri": "https://arquivo.pt/wayback/20210908121705mp_/https://m.blog.naver.com/PostView.naver?blogId=siriusb&logNo=221420310676"
+      },
+      {
+        "datetime": "2021-09-08T12:17:47Z",
+        "uri": "https://arquivo.pt/wayback/20210908121747mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=duke0714&logNo=220727882908"
+      },
+      {
+        "datetime": "2021-09-08T12:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20210908121759mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=slimnpower&logNo=220807363300"
+      },
+      {
+        "datetime": "2021-09-08T12:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20210908121807mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bexcoex&logNo=120211887296"
+      },
+      {
+        "datetime": "2021-09-08T12:18:19Z",
+        "uri": "https://arquivo.pt/wayback/20210908121819mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kurgast&logNo=190906952"
+      },
+      {
+        "datetime": "2021-09-08T12:18:35Z",
+        "uri": "https://arquivo.pt/wayback/20210908121835mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=giosun&logNo=140056022148"
+      },
+      {
+        "datetime": "2021-09-08T12:18:43Z",
+        "uri": "https://arquivo.pt/wayback/20210908121843mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=haeyun010&logNo=220608993172"
+      },
+      {
+        "datetime": "2021-09-24T09:56:26Z",
+        "uri": "https://arquivo.pt/wayback/20210924095626mp_/https://m.blog.naver.com/PostView.naver?blogId=insoon9076&logNo=221313333900&proxyReferer=https:%2F%2Fwww.google.com%2F"
+      },
+      {
+        "datetime": "2021-09-24T09:57:23Z",
+        "uri": "https://arquivo.pt/wayback/20210924095723mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bkpark777&logNo=220973369858"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-08T12:16:19Z",
+      "uri": "https://arquivo.pt/wayback/20210908121619mp_/https://m.blog.naver.com/PostView.naver"
+    },
+    "last": {
+      "datetime": "2021-09-24T09:57:23Z",
+      "uri": "https://arquivo.pt/wayback/20210924095723mp_/https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bkpark777&logNo=220973369858"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591",
+    "json_format": "http://localhost:1208/timemap/json/https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://m.blog.naver.com/PostView.naver?blogId=namukr1&logNo=222853668591"
+}

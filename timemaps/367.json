@@ -1,0 +1,274 @@
+{
+  "original_uri": "https://www.facebook.com/watch?ref=sharing",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/watch?ref=sharing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-07T11:51:08Z",
+        "uri": "http://archive.md/20210907115108/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2021-11-01T22:04:00Z",
+        "uri": "https://arquivo.pt/wayback/20211101220400mp_/https://www.facebook.com/watch/?v=525963241713633&ref=sharing"
+      },
+      {
+        "datetime": "2021-11-01T22:04:06Z",
+        "uri": "https://arquivo.pt/wayback/20211101220406mp_/https://www.facebook.com/watch/?v=525963241713633&ref=sharing"
+      },
+      {
+        "datetime": "2021-11-26T23:37:54Z",
+        "uri": "http://archive.md/20211126233754/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2021-12-07T22:49:45Z",
+        "uri": "https://arquivo.pt/wayback/20211207224945mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-07T22:49:51Z",
+        "uri": "https://arquivo.pt/wayback/20211207224951mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-07T23:59:25Z",
+        "uri": "https://arquivo.pt/wayback/20211207235925mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-07T23:59:30Z",
+        "uri": "https://arquivo.pt/wayback/20211207235930mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T01:49:26Z",
+        "uri": "https://arquivo.pt/wayback/20211208014926mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T01:49:32Z",
+        "uri": "https://arquivo.pt/wayback/20211208014932mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T02:26:17Z",
+        "uri": "https://arquivo.pt/wayback/20211208022617mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T02:26:22Z",
+        "uri": "https://arquivo.pt/wayback/20211208022622mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T03:20:24Z",
+        "uri": "https://arquivo.pt/wayback/20211208032024mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T03:20:30Z",
+        "uri": "https://arquivo.pt/wayback/20211208032030mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T03:39:35Z",
+        "uri": "https://arquivo.pt/wayback/20211208033935mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T03:39:42Z",
+        "uri": "https://arquivo.pt/wayback/20211208033942mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T04:16:03Z",
+        "uri": "https://arquivo.pt/wayback/20211208041603mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T04:16:07Z",
+        "uri": "https://arquivo.pt/wayback/20211208041607mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T04:16:19Z",
+        "uri": "https://arquivo.pt/wayback/20211208041619mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-08T04:16:25Z",
+        "uri": "https://arquivo.pt/wayback/20211208041625mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-10T04:01:35Z",
+        "uri": "https://arquivo.pt/wayback/20211210040135mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2021-12-10T04:01:41Z",
+        "uri": "https://arquivo.pt/wayback/20211210040141mp_/https://www.facebook.com/watch/?v=1132462307220154&ref=sharing"
+      },
+      {
+        "datetime": "2022-02-09T03:39:46Z",
+        "uri": "http://archive.md/20220209033946/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-06-13T07:41:32Z",
+        "uri": "http://archive.md/20220613074132/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-07-19T07:24:48Z",
+        "uri": "http://archive.md/20220719072448/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-07-19T07:30:14Z",
+        "uri": "http://archive.md/20220719073014/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-07-29T21:10:41Z",
+        "uri": "http://archive.md/20220729211041/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:06:44Z",
+        "uri": "https://arquivo.pt/wayback/20220731230644mp_/https://www.facebook.com/watch/?v=343420663292355&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:07:05Z",
+        "uri": "https://arquivo.pt/wayback/20220731230705mp_/https://www.facebook.com/watch/?v=343420663292355&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:07:23Z",
+        "uri": "https://arquivo.pt/wayback/20220731230723mp_/https://www.facebook.com/watch/?v=1079712839148309&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:07:53Z",
+        "uri": "https://arquivo.pt/wayback/20220731230753mp_/https://www.facebook.com/watch/?v=1079712839148309&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:22:41Z",
+        "uri": "https://arquivo.pt/wayback/20220731232241mp_/https://www.facebook.com/watch/?v=2509429492693784&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:23:08Z",
+        "uri": "https://arquivo.pt/wayback/20220731232308mp_/https://www.facebook.com/watch/?v=2509429492693784&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:26:05Z",
+        "uri": "https://arquivo.pt/wayback/20220731232605mp_/https://www.facebook.com/watch/?v=679496876327355&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:26:30Z",
+        "uri": "https://arquivo.pt/wayback/20220731232630mp_/https://www.facebook.com/watch/?v=679496876327355&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:26:49Z",
+        "uri": "https://arquivo.pt/wayback/20220731232649mp_/https://www.facebook.com/watch/?v=120610559901860&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:27:07Z",
+        "uri": "https://arquivo.pt/wayback/20220731232707mp_/https://www.facebook.com/watch/?v=120610559901860&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:27:25Z",
+        "uri": "https://arquivo.pt/wayback/20220731232725mp_/https://www.facebook.com/watch/?v=129322622271906&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:27:34Z",
+        "uri": "https://arquivo.pt/wayback/20220731232734mp_/https://www.facebook.com/watch/?v=129322622271906&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:28:53Z",
+        "uri": "https://arquivo.pt/wayback/20220731232853mp_/https://www.facebook.com/watch/?v=1131654817317240&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:29:14Z",
+        "uri": "https://arquivo.pt/wayback/20220731232914mp_/https://www.facebook.com/watch/?v=1131654817317240&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:30:06Z",
+        "uri": "https://arquivo.pt/wayback/20220731233006mp_/https://www.facebook.com/watch/?v=2782196898760045&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:30:40Z",
+        "uri": "https://arquivo.pt/wayback/20220731233040mp_/https://www.facebook.com/watch/?v=2782196898760045&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:30:58Z",
+        "uri": "https://arquivo.pt/wayback/20220731233058mp_/https://www.facebook.com/watch/?v=371851827581360&ref=sharing"
+      },
+      {
+        "datetime": "2022-07-31T23:31:10Z",
+        "uri": "https://arquivo.pt/wayback/20220731233110mp_/https://www.facebook.com/watch/?v=371851827581360&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T11:29:51Z",
+        "uri": "https://arquivo.pt/wayback/20220801112951mp_/https://www.facebook.com/watch/?v=161370909392870&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T11:30:01Z",
+        "uri": "https://arquivo.pt/wayback/20220801113001mp_/https://www.facebook.com/watch/?v=161370909392870&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T12:31:44Z",
+        "uri": "https://arquivo.pt/wayback/20220801123144mp_/https://www.facebook.com/watch/?v=896353754438782&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T12:31:52Z",
+        "uri": "https://arquivo.pt/wayback/20220801123152mp_/https://www.facebook.com/watch/?v=896353754438782&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:41:33Z",
+        "uri": "https://arquivo.pt/wayback/20220801144133mp_/https://www.facebook.com/watch/?v=967914154083386&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:41:44Z",
+        "uri": "https://arquivo.pt/wayback/20220801144144mp_/https://www.facebook.com/watch/?v=967914154083386&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:42:02Z",
+        "uri": "https://arquivo.pt/wayback/20220801144202mp_/https://www.facebook.com/watch/?v=617346839602666&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:42:12Z",
+        "uri": "https://arquivo.pt/wayback/20220801144212mp_/https://www.facebook.com/watch/?v=617346839602666&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:42:31Z",
+        "uri": "https://arquivo.pt/wayback/20220801144231mp_/https://www.facebook.com/watch/?v=218703117091475&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:42:38Z",
+        "uri": "https://arquivo.pt/wayback/20220801144238mp_/https://www.facebook.com/watch/?v=218703117091475&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:43:03Z",
+        "uri": "https://arquivo.pt/wayback/20220801144303mp_/https://www.facebook.com/watch/?v=6672654102806579&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T14:43:10Z",
+        "uri": "https://arquivo.pt/wayback/20220801144310mp_/https://www.facebook.com/watch/?v=6672654102806579&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T16:39:49Z",
+        "uri": "https://arquivo.pt/wayback/20220801163949mp_/https://www.facebook.com/watch/?v=5175374072552133&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T16:39:54Z",
+        "uri": "https://arquivo.pt/wayback/20220801163954mp_/https://www.facebook.com/watch/?v=5175374072552133&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T16:43:52Z",
+        "uri": "https://arquivo.pt/wayback/20220801164352mp_/https://www.facebook.com/watch/?v=1016652159246933&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-01T16:44:00Z",
+        "uri": "https://arquivo.pt/wayback/20220801164400mp_/https://www.facebook.com/watch/?v=1016652159246933&ref=sharing"
+      },
+      {
+        "datetime": "2022-08-21T02:43:51Z",
+        "uri": "http://archive.md/20220821024351/https://www.facebook.com/watch?ref=sharing"
+      },
+      {
+        "datetime": "2022-08-21T16:55:48Z",
+        "uri": "http://archive.md/20220821165548/https://www.facebook.com/watch?ref=sharing"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-07T11:51:08Z",
+      "uri": "http://archive.md/20210907115108/https://www.facebook.com/watch?ref=sharing"
+    },
+    "last": {
+      "datetime": "2022-08-21T16:55:48Z",
+      "uri": "http://archive.md/20220821165548/https://www.facebook.com/watch?ref=sharing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/watch?ref=sharing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/watch?ref=sharing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/watch?ref=sharing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/watch?ref=sharing"
+}

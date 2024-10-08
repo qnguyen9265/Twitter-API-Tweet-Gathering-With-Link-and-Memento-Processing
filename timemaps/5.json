@@ -1,0 +1,466 @@
+{
+  "original_uri": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A",
+  "self": "http://localhost:1208/timemap/json/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-10T22:00:26Z",
+        "uri": "http://archive.md/20200310220026/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-03-13T06:05:22Z",
+        "uri": "https://arquivo.pt/wayback/20200313060522mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-03-16T14:42:45Z",
+        "uri": "http://archive.md/20200316144245/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-04-03T22:11:30Z",
+        "uri": "https://arquivo.pt/wayback/20200403221130mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-04-07T23:14:04Z",
+        "uri": "https://arquivo.pt/wayback/20200407231404mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-04-08T01:46:39Z",
+        "uri": "https://perma.cc/2N5X-94Z4"
+      },
+      {
+        "datetime": "2020-04-16T23:02:57Z",
+        "uri": "https://arquivo.pt/wayback/20200416230257mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-04-29T01:12:40Z",
+        "uri": "https://arquivo.pt/wayback/20200429011240mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-10T21:54:21Z",
+        "uri": "https://arquivo.pt/wayback/20200510215421mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html/"
+      },
+      {
+        "datetime": "2020-05-10T21:54:32Z",
+        "uri": "https://arquivo.pt/wayback/20200510215432mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-11T22:09:57Z",
+        "uri": "https://arquivo.pt/wayback/20200511220957mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-12T22:12:59Z",
+        "uri": "https://arquivo.pt/wayback/20200512221259mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-13T21:07:41Z",
+        "uri": "https://arquivo.pt/wayback/20200513210741mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-14T22:09:22Z",
+        "uri": "https://arquivo.pt/wayback/20200514220922mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-15T22:22:17Z",
+        "uri": "https://arquivo.pt/wayback/20200515222217mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-16T22:23:08Z",
+        "uri": "https://arquivo.pt/wayback/20200516222308mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-17T22:04:37Z",
+        "uri": "https://arquivo.pt/wayback/20200517220437mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-19T22:09:46Z",
+        "uri": "https://arquivo.pt/wayback/20200519220946mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-21T19:46:32Z",
+        "uri": "https://arquivo.pt/wayback/20200521194632mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-22T19:47:49Z",
+        "uri": "https://arquivo.pt/wayback/20200522194749mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-23T19:33:53Z",
+        "uri": "https://arquivo.pt/wayback/20200523193353mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-26T19:42:51Z",
+        "uri": "https://arquivo.pt/wayback/20200526194251mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-28T22:02:29Z",
+        "uri": "https://arquivo.pt/wayback/20200528220229mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-30T20:21:41Z",
+        "uri": "https://arquivo.pt/wayback/20200530202141mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-05-31T21:06:37Z",
+        "uri": "https://arquivo.pt/wayback/20200531210637mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-01T22:25:11Z",
+        "uri": "https://arquivo.pt/wayback/20200601222511mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-02T19:22:35Z",
+        "uri": "https://arquivo.pt/wayback/20200602192235mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-05T18:47:06Z",
+        "uri": "https://arquivo.pt/wayback/20200605184706mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-08T09:14:58Z",
+        "uri": "https://arquivo.pt/wayback/20200608091458mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-08T11:01:25Z",
+        "uri": "https://arquivo.pt/wayback/20200608110125mp_/http://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-06-10T07:12:24Z",
+        "uri": "https://arquivo.pt/wayback/20200610071224mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-07-15T22:05:43Z",
+        "uri": "https://arquivo.pt/wayback/20200715220543mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-07-31T17:43:03Z",
+        "uri": "https://arquivo.pt/wayback/20200731174303mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-01T17:41:30Z",
+        "uri": "https://arquivo.pt/wayback/20200801174130mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-02T17:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20200802173252mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-03T18:26:08Z",
+        "uri": "https://arquivo.pt/wayback/20200803182608mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-04T17:33:01Z",
+        "uri": "https://arquivo.pt/wayback/20200804173301mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-05T18:30:53Z",
+        "uri": "https://arquivo.pt/wayback/20200805183053mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-07T10:01:01Z",
+        "uri": "https://arquivo.pt/wayback/20200807100101mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-07T17:28:44Z",
+        "uri": "https://arquivo.pt/wayback/20200807172844mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-08T18:23:28Z",
+        "uri": "https://arquivo.pt/wayback/20200808182328mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-09T18:24:53Z",
+        "uri": "https://arquivo.pt/wayback/20200809182453mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-10T18:22:08Z",
+        "uri": "https://arquivo.pt/wayback/20200810182208mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-11T18:27:17Z",
+        "uri": "https://arquivo.pt/wayback/20200811182717mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-12T17:31:06Z",
+        "uri": "https://arquivo.pt/wayback/20200812173106mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-13T18:24:03Z",
+        "uri": "https://arquivo.pt/wayback/20200813182403mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-14T17:38:40Z",
+        "uri": "https://arquivo.pt/wayback/20200814173840mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-15T18:13:01Z",
+        "uri": "https://arquivo.pt/wayback/20200815181301mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-16T18:14:36Z",
+        "uri": "https://arquivo.pt/wayback/20200816181436mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-17T18:13:41Z",
+        "uri": "https://arquivo.pt/wayback/20200817181341mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-18T18:24:03Z",
+        "uri": "https://arquivo.pt/wayback/20200818182403mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-19T18:22:45Z",
+        "uri": "https://arquivo.pt/wayback/20200819182245mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-20T18:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20200820182635mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-21T18:22:29Z",
+        "uri": "https://arquivo.pt/wayback/20200821182229mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-22T18:19:21Z",
+        "uri": "https://arquivo.pt/wayback/20200822181921mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-23T17:27:23Z",
+        "uri": "https://arquivo.pt/wayback/20200823172723mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-24T17:36:43Z",
+        "uri": "https://arquivo.pt/wayback/20200824173643mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-25T17:39:38Z",
+        "uri": "https://arquivo.pt/wayback/20200825173938mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-26T18:22:54Z",
+        "uri": "https://arquivo.pt/wayback/20200826182254mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-27T17:30:35Z",
+        "uri": "https://arquivo.pt/wayback/20200827173035mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-27T19:28:39Z",
+        "uri": "https://arquivo.pt/wayback/20200827192839mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-28T17:29:55Z",
+        "uri": "https://arquivo.pt/wayback/20200828172955mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-28T19:04:45Z",
+        "uri": "https://arquivo.pt/wayback/20200828190445mp_/http://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-29T17:36:10Z",
+        "uri": "https://arquivo.pt/wayback/20200829173610mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-30T18:29:20Z",
+        "uri": "https://arquivo.pt/wayback/20200830182920mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-08-31T17:27:54Z",
+        "uri": "https://arquivo.pt/wayback/20200831172754mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-01T18:20:07Z",
+        "uri": "https://arquivo.pt/wayback/20200901182007mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-08T20:01:47Z",
+        "uri": "https://arquivo.pt/wayback/20200908200147mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-22T17:25:50Z",
+        "uri": "https://arquivo.pt/wayback/20200922172550mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-23T17:25:42Z",
+        "uri": "https://arquivo.pt/wayback/20200923172542mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-24T17:25:04Z",
+        "uri": "https://arquivo.pt/wayback/20200924172504mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-25T17:28:18Z",
+        "uri": "https://arquivo.pt/wayback/20200925172818mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-26T17:26:11Z",
+        "uri": "https://arquivo.pt/wayback/20200926172611mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-09-27T17:26:01Z",
+        "uri": "https://arquivo.pt/wayback/20200927172601mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-06T10:43:04Z",
+        "uri": "https://arquivo.pt/wayback/20201006104304mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-06T17:27:21Z",
+        "uri": "https://arquivo.pt/wayback/20201006172721mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-07T17:29:04Z",
+        "uri": "https://arquivo.pt/wayback/20201007172904mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-08T17:31:09Z",
+        "uri": "https://arquivo.pt/wayback/20201008173109mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-09T17:31:14Z",
+        "uri": "https://arquivo.pt/wayback/20201009173114mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-10T17:23:45Z",
+        "uri": "https://arquivo.pt/wayback/20201010172345mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-11T17:35:24Z",
+        "uri": "https://arquivo.pt/wayback/20201011173524mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-17T20:30:12Z",
+        "uri": "https://arquivo.pt/wayback/20201017203012mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-22T17:34:21Z",
+        "uri": "https://arquivo.pt/wayback/20201022173421mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-23T17:31:42Z",
+        "uri": "https://arquivo.pt/wayback/20201023173142mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-24T17:52:15Z",
+        "uri": "https://arquivo.pt/wayback/20201024175215mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-25T18:48:41Z",
+        "uri": "https://arquivo.pt/wayback/20201025184841mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-26T18:36:05Z",
+        "uri": "https://arquivo.pt/wayback/20201026183605mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-10-27T18:33:52Z",
+        "uri": "https://arquivo.pt/wayback/20201027183352mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-11-06T07:06:24Z",
+        "uri": "http://archive.md/20201106070624/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-11-30T18:31:57Z",
+        "uri": "https://arquivo.pt/wayback/20201130183157mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-01T18:33:50Z",
+        "uri": "https://arquivo.pt/wayback/20201201183350mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-02T18:52:14Z",
+        "uri": "https://arquivo.pt/wayback/20201202185214mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-03T18:27:53Z",
+        "uri": "https://arquivo.pt/wayback/20201203182753mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-04T18:47:59Z",
+        "uri": "https://arquivo.pt/wayback/20201204184759mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-05T18:33:59Z",
+        "uri": "https://arquivo.pt/wayback/20201205183359mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-06T03:29:34Z",
+        "uri": "https://arquivo.pt/wayback/20201206032934mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-06T18:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20201206182646mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-07T18:40:40Z",
+        "uri": "https://arquivo.pt/wayback/20201207184040mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-08T18:36:26Z",
+        "uri": "https://arquivo.pt/wayback/20201208183626mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-20T18:40:20Z",
+        "uri": "https://arquivo.pt/wayback/20201220184020mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-21T18:30:56Z",
+        "uri": "https://arquivo.pt/wayback/20201221183056mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-22T18:47:03Z",
+        "uri": "https://arquivo.pt/wayback/20201222184703mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-23T18:46:19Z",
+        "uri": "https://arquivo.pt/wayback/20201223184619mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-24T18:30:22Z",
+        "uri": "https://arquivo.pt/wayback/20201224183022mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2020-12-25T18:46:24Z",
+        "uri": "https://arquivo.pt/wayback/20201225184624mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2021-03-17T08:07:20Z",
+        "uri": "https://arquivo.pt/wayback/20210317080720mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2021-04-27T16:52:19Z",
+        "uri": "http://archive.md/20210427165219/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2021-09-09T16:59:23Z",
+        "uri": "https://arquivo.pt/wayback/20210909165923mp_/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2021-11-24T07:07:14Z",
+        "uri": "http://archive.md/20211124070714/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+      },
+      {
+        "datetime": "2022-03-03T12:00:59Z",
+        "uri": "https://perma.cc/BUL3-X8ZV"
+      },
+      {
+        "datetime": "2022-04-18T00:45:13Z",
+        "uri": "https://perma.cc/E64H-JXE8"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-10T22:00:26Z",
+      "uri": "http://archive.md/20200310220026/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html"
+    },
+    "last": {
+      "datetime": "2022-04-18T00:45:13Z",
+      "uri": "https://perma.cc/E64H-JXE8"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p%0A"
+}

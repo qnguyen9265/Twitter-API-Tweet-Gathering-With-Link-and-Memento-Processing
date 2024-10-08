@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.newsdrum.in/",
+  "self": "http://localhost:1208/timemap/json/https://www.newsdrum.in/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-01T15:37:45Z",
+        "uri": "http://archive.md/20220901153745/https://www.newsdrum.in/"
+      },
+      {
+        "datetime": "2022-09-14T13:16:19Z",
+        "uri": "http://archive.md/20220914131619/https://www.newsdrum.in/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-01T15:37:45Z",
+      "uri": "http://archive.md/20220901153745/https://www.newsdrum.in/"
+    },
+    "last": {
+      "datetime": "2022-09-14T13:16:19Z",
+      "uri": "http://archive.md/20220914131619/https://www.newsdrum.in/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newsdrum.in/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newsdrum.in/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newsdrum.in/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newsdrum.in/"
+}

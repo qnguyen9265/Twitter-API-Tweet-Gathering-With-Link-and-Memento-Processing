@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://elifesciences.org/articles/83251",
+  "self": "http://localhost:1208/timemap/json/https://elifesciences.org/articles/83251",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-12T18:02:10Z",
+        "uri": "http://archive.md/20221012180210/https://elifesciences.org/articles/83251"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-12T18:02:10Z",
+      "uri": "http://archive.md/20221012180210/https://elifesciences.org/articles/83251"
+    },
+    "last": {
+      "datetime": "2022-10-12T18:02:10Z",
+      "uri": "http://archive.md/20221012180210/https://elifesciences.org/articles/83251"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://elifesciences.org/articles/83251",
+    "json_format": "http://localhost:1208/timemap/json/https://elifesciences.org/articles/83251",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://elifesciences.org/articles/83251"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://elifesciences.org/articles/83251"
+}

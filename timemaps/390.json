@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://www.garoweonline.com/en",
+  "self": "http://localhost:1208/timemap/json/https://www.garoweonline.com/en",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-29T03:12:48Z",
+        "uri": "http://archive.md/20161029031248/http://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2018-04-28T07:45:22Z",
+        "uri": "https://arquivo.pt/wayback/20180428074522mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2018-07-17T17:55:01Z",
+        "uri": "https://arquivo.pt/wayback/20180717175501mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-01-21T00:04:06Z",
+        "uri": "https://arquivo.pt/wayback/20190121000406mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-02-04T23:43:20Z",
+        "uri": "https://arquivo.pt/wayback/20190204234320mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-03-25T12:38:43Z",
+        "uri": "https://arquivo.pt/wayback/20190325123843mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-06-25T02:53:47Z",
+        "uri": "https://arquivo.pt/wayback/20190625025347mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-09-14T00:42:03Z",
+        "uri": "https://arquivo.pt/wayback/20190914004203mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-09-21T02:41:25Z",
+        "uri": "https://arquivo.pt/wayback/20190921024125mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-09-24T08:55:45Z",
+        "uri": "https://arquivo.pt/wayback/20190924085545mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2019-12-29T12:56:40Z",
+        "uri": "https://arquivo.pt/wayback/20191229125640mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2020-03-20T22:15:01Z",
+        "uri": "https://arquivo.pt/wayback/20200320221501mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2020-06-20T15:08:06Z",
+        "uri": "https://arquivo.pt/wayback/20200620150806mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2020-09-17T12:54:47Z",
+        "uri": "https://arquivo.pt/wayback/20200917125447mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2020-12-19T00:07:08Z",
+        "uri": "https://arquivo.pt/wayback/20201219000708mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2021-03-08T08:19:39Z",
+        "uri": "https://arquivo.pt/wayback/20210308081939mp_/https://www.garoweonline.com/en"
+      },
+      {
+        "datetime": "2021-09-12T19:04:22Z",
+        "uri": "https://arquivo.pt/wayback/20210912190422mp_/https://www.garoweonline.com/en"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-29T03:12:48Z",
+      "uri": "http://archive.md/20161029031248/http://www.garoweonline.com/en"
+    },
+    "last": {
+      "datetime": "2021-09-12T19:04:22Z",
+      "uri": "https://arquivo.pt/wayback/20210912190422mp_/https://www.garoweonline.com/en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.garoweonline.com/en",
+    "json_format": "http://localhost:1208/timemap/json/https://www.garoweonline.com/en",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.garoweonline.com/en"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.garoweonline.com/en"
+}

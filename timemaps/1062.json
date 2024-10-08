@@ -1,0 +1,210 @@
+{
+  "original_uri": "https://shp.ee/static/",
+  "self": "http://localhost:1208/timemap/json/https://shp.ee/static/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-18T19:56:51Z",
+        "uri": "https://arquivo.pt/wayback/20201118195651mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-19T19:39:01Z",
+        "uri": "https://arquivo.pt/wayback/20201119193901mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-20T19:42:00Z",
+        "uri": "https://arquivo.pt/wayback/20201120194200mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-21T19:49:40Z",
+        "uri": "https://arquivo.pt/wayback/20201121194940mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-22T19:50:48Z",
+        "uri": "https://arquivo.pt/wayback/20201122195048mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-23T20:25:07Z",
+        "uri": "https://arquivo.pt/wayback/20201123202507mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-24T19:19:18Z",
+        "uri": "https://arquivo.pt/wayback/20201124191918mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-25T19:55:08Z",
+        "uri": "https://arquivo.pt/wayback/20201125195508mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-26T19:21:05Z",
+        "uri": "https://arquivo.pt/wayback/20201126192105mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-27T19:12:22Z",
+        "uri": "https://arquivo.pt/wayback/20201127191222mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-28T19:17:45Z",
+        "uri": "https://arquivo.pt/wayback/20201128191745mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-29T19:24:24Z",
+        "uri": "https://arquivo.pt/wayback/20201129192424mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-11-30T19:29:42Z",
+        "uri": "https://arquivo.pt/wayback/20201130192942mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-01T19:24:25Z",
+        "uri": "https://arquivo.pt/wayback/20201201192425mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-02T19:45:48Z",
+        "uri": "https://arquivo.pt/wayback/20201202194548mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-03T19:13:36Z",
+        "uri": "https://arquivo.pt/wayback/20201203191336mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-04T19:33:43Z",
+        "uri": "https://arquivo.pt/wayback/20201204193343mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-05T19:19:29Z",
+        "uri": "https://arquivo.pt/wayback/20201205191929mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-06T19:12:48Z",
+        "uri": "https://arquivo.pt/wayback/20201206191248mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-07T19:41:25Z",
+        "uri": "https://arquivo.pt/wayback/20201207194125mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-08T19:22:46Z",
+        "uri": "https://arquivo.pt/wayback/20201208192246mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-09T19:24:34Z",
+        "uri": "https://arquivo.pt/wayback/20201209192434mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-10T19:25:14Z",
+        "uri": "https://arquivo.pt/wayback/20201210192514mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-11T19:26:27Z",
+        "uri": "https://arquivo.pt/wayback/20201211192627mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-12T19:12:57Z",
+        "uri": "https://arquivo.pt/wayback/20201212191257mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-13T19:32:01Z",
+        "uri": "https://arquivo.pt/wayback/20201213193201mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-14T19:28:16Z",
+        "uri": "https://arquivo.pt/wayback/20201214192816mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-15T19:32:46Z",
+        "uri": "https://arquivo.pt/wayback/20201215193246mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-16T19:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20201216191931mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-17T20:00:06Z",
+        "uri": "https://arquivo.pt/wayback/20201217200006mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-18T19:17:05Z",
+        "uri": "https://arquivo.pt/wayback/20201218191705mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-19T19:26:24Z",
+        "uri": "https://arquivo.pt/wayback/20201219192624mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-20T19:27:22Z",
+        "uri": "https://arquivo.pt/wayback/20201220192722mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-21T19:21:13Z",
+        "uri": "https://arquivo.pt/wayback/20201221192113mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-22T19:36:53Z",
+        "uri": "https://arquivo.pt/wayback/20201222193653mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-23T19:35:39Z",
+        "uri": "https://arquivo.pt/wayback/20201223193539mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-24T19:16:24Z",
+        "uri": "https://arquivo.pt/wayback/20201224191624mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-25T19:37:52Z",
+        "uri": "https://arquivo.pt/wayback/20201225193752mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-26T19:28:06Z",
+        "uri": "https://arquivo.pt/wayback/20201226192806mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-27T19:10:47Z",
+        "uri": "https://arquivo.pt/wayback/20201227191047mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-28T19:55:36Z",
+        "uri": "https://arquivo.pt/wayback/20201228195536mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-29T19:31:32Z",
+        "uri": "https://arquivo.pt/wayback/20201229193132mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-30T19:17:39Z",
+        "uri": "https://arquivo.pt/wayback/20201230191739mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-30T19:17:39Z",
+        "uri": "https://arquivo.pt/wayback/20201230191739mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2020-12-31T19:22:56Z",
+        "uri": "https://arquivo.pt/wayback/20201231192256mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2021-03-26T06:39:45Z",
+        "uri": "https://arquivo.pt/wayback/20210326063945mp_/https://shp.ee/static/"
+      },
+      {
+        "datetime": "2022-07-19T08:40:03Z",
+        "uri": "http://archive.md/20220719084003/https://shp.ee/static/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-18T19:56:51Z",
+      "uri": "https://arquivo.pt/wayback/20201118195651mp_/https://shp.ee/static/"
+    },
+    "last": {
+      "datetime": "2022-07-19T08:40:03Z",
+      "uri": "http://archive.md/20220719084003/https://shp.ee/static/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://shp.ee/static/",
+    "json_format": "http://localhost:1208/timemap/json/https://shp.ee/static/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://shp.ee/static/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://shp.ee/static/"
+}

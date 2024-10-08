@@ -1,0 +1,834 @@
+{
+  "original_uri": "http://away.vk.com/away.php",
+  "self": "http://localhost:1208/timemap/json/http://away.vk.com/away.php",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-04-14T00:55:22Z",
+        "uri": "http://archive.md/20170414005522/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-04-17T11:08:10Z",
+        "uri": "http://archive.md/20170417110810/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-04-18T20:42:39Z",
+        "uri": "http://archive.md/20170418204239/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-04-28T17:06:40Z",
+        "uri": "http://archive.md/20170428170640/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-05-04T05:54:31Z",
+        "uri": "http://archive.md/20170504055431/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-05-05T10:08:45Z",
+        "uri": "http://archive.md/20170505100845/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-05-06T10:45:06Z",
+        "uri": "http://archive.md/20170506104506/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-05-24T14:45:37Z",
+        "uri": "http://archive.md/20170524144537/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-05-26T08:33:51Z",
+        "uri": "http://archive.md/20170526083351/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-06-07T14:45:19Z",
+        "uri": "http://archive.md/20170607144519/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-06-13T03:10:45Z",
+        "uri": "http://archive.md/20170613031045/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-06-14T22:40:56Z",
+        "uri": "http://archive.md/20170614224056/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-06-22T11:23:38Z",
+        "uri": "http://archive.md/20170622112338/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-06-29T20:28:21Z",
+        "uri": "https://arquivo.pt/wayback/20170629202821mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-07-09T00:23:14Z",
+        "uri": "http://archive.md/20170709002314/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-07-20T15:21:07Z",
+        "uri": "http://archive.md/20170720152107/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-07-27T17:35:47Z",
+        "uri": "http://archive.md/20170727173547/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-08-01T18:04:15Z",
+        "uri": "http://archive.md/20170801180415/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-08-01T20:19:38Z",
+        "uri": "http://archive.md/20170801201938/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-08-12T21:13:10Z",
+        "uri": "http://archive.md/20170812211310/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-08-25T19:51:30Z",
+        "uri": "http://archive.md/20170825195130/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-08-25T19:52:30Z",
+        "uri": "http://archive.md/20170825195230/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-04T15:58:02Z",
+        "uri": "http://archive.md/20170904155802/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-04T15:58:46Z",
+        "uri": "http://archive.md/20170904155846/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-04T16:45:51Z",
+        "uri": "http://archive.md/20170904164551/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-04T17:00:17Z",
+        "uri": "http://archive.md/20170904170017/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-10T18:32:15Z",
+        "uri": "http://archive.md/20170910183215/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-13T20:16:03Z",
+        "uri": "http://archive.md/20170913201603/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-09-17T15:02:14Z",
+        "uri": "http://archive.md/20170917150214/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-10-04T03:55:33Z",
+        "uri": "http://archive.md/20171004035533/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-10-06T20:37:30Z",
+        "uri": "http://archive.md/20171006203730/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-10-30T17:39:53Z",
+        "uri": "http://archive.md/20171030173953/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-13T08:01:37Z",
+        "uri": "http://archive.md/20171113080137/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-21T17:24:45Z",
+        "uri": "http://archive.md/20171121172445/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-25T08:04:12Z",
+        "uri": "http://archive.md/20171125080412/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-26T11:06:51Z",
+        "uri": "http://archive.md/20171126110651/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-26T11:07:01Z",
+        "uri": "http://archive.md/20171126110701/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-26T11:07:07Z",
+        "uri": "http://archive.md/20171126110707/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-11-26T11:07:13Z",
+        "uri": "http://archive.md/20171126110713/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-06T11:09:23Z",
+        "uri": "http://archive.md/20171206110923/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-11T12:33:02Z",
+        "uri": "http://archive.md/20171211123302/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-11T23:39:54Z",
+        "uri": "http://archive.md/20171211233954/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-12T16:01:53Z",
+        "uri": "http://archive.md/20171212160153/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-15T18:43:54Z",
+        "uri": "http://archive.md/20171215184354/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-19T15:40:45Z",
+        "uri": "http://archive.md/20171219154045/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2017-12-30T15:36:22Z",
+        "uri": "http://archive.md/20171230153622/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-13T13:28:34Z",
+        "uri": "http://archive.md/20180113132834/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-21T08:08:33Z",
+        "uri": "http://archive.md/20180121080833/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-22T07:54:06Z",
+        "uri": "http://archive.md/20180122075406/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-27T10:17:04Z",
+        "uri": "http://archive.md/20180127101704/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-29T19:44:01Z",
+        "uri": "http://archive.md/20180129194401/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-01-30T08:00:09Z",
+        "uri": "http://archive.md/20180130080009/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-02-19T16:25:46Z",
+        "uri": "http://archive.md/20180219162546/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-03-15T09:41:55Z",
+        "uri": "http://archive.md/20180315094155/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-04-22T10:11:59Z",
+        "uri": "https://arquivo.pt/wayback/20180422101159mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-04-26T02:11:31Z",
+        "uri": "https://arquivo.pt/wayback/20180426021131mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-05-25T10:20:18Z",
+        "uri": "http://archive.md/20180525102018/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-07-08T03:38:09Z",
+        "uri": "http://archive.md/20180708033809/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-07-19T19:52:20Z",
+        "uri": "https://arquivo.pt/wayback/20180719195220mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-08-03T13:22:57Z",
+        "uri": "https://arquivo.pt/wayback/20180803132257mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-08-27T17:53:57Z",
+        "uri": "http://archive.md/20180827175357/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-08-28T03:17:36Z",
+        "uri": "http://archive.md/20180828031736/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-05T06:56:51Z",
+        "uri": "https://arquivo.pt/wayback/20180905065651mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-09T11:10:20Z",
+        "uri": "https://arquivo.pt/wayback/20180909111020mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-09T11:10:30Z",
+        "uri": "https://arquivo.pt/wayback/20180909111030mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-10T10:49:06Z",
+        "uri": "https://arquivo.pt/wayback/20180910104906mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-11T10:56:16Z",
+        "uri": "https://arquivo.pt/wayback/20180911105616mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-25T12:23:15Z",
+        "uri": "https://arquivo.pt/wayback/20180925122315mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-25T13:43:18Z",
+        "uri": "http://archive.md/20180925134318/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-29T11:42:03Z",
+        "uri": "https://arquivo.pt/wayback/20180929114203mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-09-30T11:11:32Z",
+        "uri": "https://arquivo.pt/wayback/20180930111132mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-07T07:25:03Z",
+        "uri": "https://arquivo.pt/wayback/20181007072503mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-08T08:36:18Z",
+        "uri": "https://arquivo.pt/wayback/20181008083618mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-15T11:38:39Z",
+        "uri": "https://arquivo.pt/wayback/20181015113839mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-16T21:24:00Z",
+        "uri": "http://archive.md/20181016212400/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-21T11:35:44Z",
+        "uri": "http://archive.md/20181021113544/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-10-31T07:09:01Z",
+        "uri": "https://arquivo.pt/wayback/20181031070901mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-11-03T13:38:02Z",
+        "uri": "https://arquivo.pt/wayback/20181103133802mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-11-03T13:38:13Z",
+        "uri": "https://arquivo.pt/wayback/20181103133813mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-11-04T14:27:49Z",
+        "uri": "https://arquivo.pt/wayback/20181104142749mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-11-21T08:21:34Z",
+        "uri": "http://archive.md/20181121082134/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2018-12-20T13:59:52Z",
+        "uri": "https://arquivo.pt/wayback/20181220135952mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-04T20:34:51Z",
+        "uri": "http://archive.md/20190104203451/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-15T14:26:11Z",
+        "uri": "https://arquivo.pt/wayback/20190115142611mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-16T14:50:40Z",
+        "uri": "https://arquivo.pt/wayback/20190116145040mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-19T16:39:30Z",
+        "uri": "http://archive.md/20190119163930/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-19T16:40:33Z",
+        "uri": "http://archive.md/20190119164033/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-19T16:45:24Z",
+        "uri": "http://archive.md/20190119164524/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-01-23T04:41:02Z",
+        "uri": "http://archive.md/20190123044102/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-02-11T03:38:56Z",
+        "uri": "http://archive.md/20190211033856/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-03-29T12:59:27Z",
+        "uri": "https://arquivo.pt/wayback/20190329125927mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-04-04T15:03:47Z",
+        "uri": "https://arquivo.pt/wayback/20190404150347mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-04-17T12:22:01Z",
+        "uri": "https://arquivo.pt/wayback/20190417122201mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-04-25T21:38:46Z",
+        "uri": "https://arquivo.pt/wayback/20190425213846mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-05-15T20:47:31Z",
+        "uri": "http://archive.md/20190515204731/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-06-26T16:06:10Z",
+        "uri": "https://arquivo.pt/wayback/20190626160610mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-06-26T16:06:17Z",
+        "uri": "https://arquivo.pt/wayback/20190626160617mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-08-07T11:43:44Z",
+        "uri": "https://arquivo.pt/wayback/20190807114344mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-09-29T15:32:38Z",
+        "uri": "https://arquivo.pt/wayback/20190929153238mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-09-29T15:32:51Z",
+        "uri": "https://arquivo.pt/wayback/20190929153251mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-01T14:24:11Z",
+        "uri": "http://archive.md/20191001142411/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-07T10:46:01Z",
+        "uri": "https://arquivo.pt/wayback/20191007104601mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-08T01:53:19Z",
+        "uri": "https://arquivo.pt/wayback/20191008015319mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-09T01:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20191009015542mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-15T23:21:15Z",
+        "uri": "https://arquivo.pt/wayback/20191015232115mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-10-15T23:21:27Z",
+        "uri": "https://arquivo.pt/wayback/20191015232127mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-01T02:45:02Z",
+        "uri": "https://arquivo.pt/wayback/20191101024502mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:00Z",
+        "uri": "https://arquivo.pt/wayback/20191105171200mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:06Z",
+        "uri": "https://arquivo.pt/wayback/20191105171206mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:12Z",
+        "uri": "https://arquivo.pt/wayback/20191105171212mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:17Z",
+        "uri": "https://arquivo.pt/wayback/20191105171217mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:23Z",
+        "uri": "https://arquivo.pt/wayback/20191105171223mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:28Z",
+        "uri": "https://arquivo.pt/wayback/20191105171228mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:34Z",
+        "uri": "https://arquivo.pt/wayback/20191105171234mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20191105171239mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:44Z",
+        "uri": "https://arquivo.pt/wayback/20191105171244mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:49Z",
+        "uri": "https://arquivo.pt/wayback/20191105171249mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:12:54Z",
+        "uri": "https://arquivo.pt/wayback/20191105171254mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:00Z",
+        "uri": "https://arquivo.pt/wayback/20191105171300mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:05Z",
+        "uri": "https://arquivo.pt/wayback/20191105171305mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:11Z",
+        "uri": "https://arquivo.pt/wayback/20191105171311mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:16Z",
+        "uri": "https://arquivo.pt/wayback/20191105171316mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:20Z",
+        "uri": "https://arquivo.pt/wayback/20191105171320mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-05T17:13:25Z",
+        "uri": "https://arquivo.pt/wayback/20191105171325mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-06T15:36:23Z",
+        "uri": "https://arquivo.pt/wayback/20191106153623mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-10T05:36:20Z",
+        "uri": "https://arquivo.pt/wayback/20191110053620mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-26T13:08:25Z",
+        "uri": "https://arquivo.pt/wayback/20191126130825mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-26T13:09:09Z",
+        "uri": "https://arquivo.pt/wayback/20191126130909mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-11-27T04:46:44Z",
+        "uri": "https://arquivo.pt/wayback/20191127044644mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-12-03T04:56:05Z",
+        "uri": "https://arquivo.pt/wayback/20191203045605mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-12-27T12:51:36Z",
+        "uri": "https://arquivo.pt/wayback/20191227125136mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2019-12-27T12:51:46Z",
+        "uri": "https://arquivo.pt/wayback/20191227125146mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-01-10T16:47:54Z",
+        "uri": "https://arquivo.pt/wayback/20200110164754mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-06T05:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20200206052801mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-08T05:31:03Z",
+        "uri": "https://arquivo.pt/wayback/20200208053103mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-09T06:23:03Z",
+        "uri": "https://arquivo.pt/wayback/20200209062303mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-13T05:07:02Z",
+        "uri": "https://arquivo.pt/wayback/20200213050702mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-14T06:15:12Z",
+        "uri": "https://arquivo.pt/wayback/20200214061512mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-15T19:21:02Z",
+        "uri": "https://arquivo.pt/wayback/20200215192102mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-16T05:50:59Z",
+        "uri": "https://arquivo.pt/wayback/20200216055059mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-17T04:37:27Z",
+        "uri": "https://arquivo.pt/wayback/20200217043727mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-18T04:46:03Z",
+        "uri": "https://arquivo.pt/wayback/20200218044603mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-02-21T06:32:35Z",
+        "uri": "https://arquivo.pt/wayback/20200221063235mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-05T02:48:53Z",
+        "uri": "https://arquivo.pt/wayback/20200305024853mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-07T06:11:05Z",
+        "uri": "https://arquivo.pt/wayback/20200307061105mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-08T05:24:56Z",
+        "uri": "https://arquivo.pt/wayback/20200308052456mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-09T06:06:18Z",
+        "uri": "https://arquivo.pt/wayback/20200309060618mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-10T05:59:40Z",
+        "uri": "https://arquivo.pt/wayback/20200310055940mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-13T06:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20200313060048mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-14T06:36:37Z",
+        "uri": "https://arquivo.pt/wayback/20200314063637mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-16T05:46:14Z",
+        "uri": "https://arquivo.pt/wayback/20200316054614mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-18T06:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20200318061803mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-18T10:55:01Z",
+        "uri": "https://arquivo.pt/wayback/20200318105501mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-18T10:55:12Z",
+        "uri": "https://arquivo.pt/wayback/20200318105512mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-19T05:56:32Z",
+        "uri": "https://arquivo.pt/wayback/20200319055632mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-20T05:56:47Z",
+        "uri": "https://arquivo.pt/wayback/20200320055647mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-21T06:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20200321061859mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-22T05:45:56Z",
+        "uri": "https://arquivo.pt/wayback/20200322054556mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-23T06:08:58Z",
+        "uri": "https://arquivo.pt/wayback/20200323060858mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-24T06:18:36Z",
+        "uri": "https://arquivo.pt/wayback/20200324061836mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-25T05:56:43Z",
+        "uri": "https://arquivo.pt/wayback/20200325055643mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-28T06:32:05Z",
+        "uri": "https://arquivo.pt/wayback/20200328063205mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-03-31T05:26:53Z",
+        "uri": "https://arquivo.pt/wayback/20200331052653mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-04-01T04:42:33Z",
+        "uri": "https://arquivo.pt/wayback/20200401044233mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-04-02T05:16:49Z",
+        "uri": "https://arquivo.pt/wayback/20200402051649mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-06-18T05:39:06Z",
+        "uri": "https://arquivo.pt/wayback/20200618053906mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-07-04T16:54:23Z",
+        "uri": "https://arquivo.pt/wayback/20200704165423mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-09-30T18:25:00Z",
+        "uri": "https://arquivo.pt/wayback/20200930182500mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-09-30T18:25:09Z",
+        "uri": "https://arquivo.pt/wayback/20200930182509mp_/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-10-23T19:46:22Z",
+        "uri": "https://arquivo.pt/wayback/20201023194622mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-10-26T21:00:24Z",
+        "uri": "https://arquivo.pt/wayback/20201026210024mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-10-27T20:34:12Z",
+        "uri": "https://arquivo.pt/wayback/20201027203412mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-10-29T20:42:15Z",
+        "uri": "https://arquivo.pt/wayback/20201029204215mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-10-30T20:13:21Z",
+        "uri": "https://arquivo.pt/wayback/20201030201321mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-02T20:19:16Z",
+        "uri": "https://arquivo.pt/wayback/20201102201916mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-03T20:25:38Z",
+        "uri": "https://arquivo.pt/wayback/20201103202538mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-06T20:47:44Z",
+        "uri": "https://arquivo.pt/wayback/20201106204744mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-13T21:23:14Z",
+        "uri": "https://arquivo.pt/wayback/20201113212314mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-14T20:11:08Z",
+        "uri": "https://arquivo.pt/wayback/20201114201108mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-17T20:43:33Z",
+        "uri": "https://arquivo.pt/wayback/20201117204333mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-19T20:27:28Z",
+        "uri": "https://arquivo.pt/wayback/20201119202728mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-20T20:43:12Z",
+        "uri": "https://arquivo.pt/wayback/20201120204312mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-21T21:03:33Z",
+        "uri": "https://arquivo.pt/wayback/20201121210333mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-24T20:36:04Z",
+        "uri": "https://arquivo.pt/wayback/20201124203604mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-25T21:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20201125212449mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-26T21:01:40Z",
+        "uri": "https://arquivo.pt/wayback/20201126210140mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-27T20:16:30Z",
+        "uri": "https://arquivo.pt/wayback/20201127201630mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-11-30T21:17:55Z",
+        "uri": "https://arquivo.pt/wayback/20201130211755mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-04T20:44:50Z",
+        "uri": "https://arquivo.pt/wayback/20201204204450mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-16T15:05:26Z",
+        "uri": "https://arquivo.pt/wayback/20201216150526mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-18T20:39:09Z",
+        "uri": "https://arquivo.pt/wayback/20201218203909mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-19T21:09:14Z",
+        "uri": "https://arquivo.pt/wayback/20201219210914mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-20T20:58:55Z",
+        "uri": "https://arquivo.pt/wayback/20201220205855mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2020-12-21T20:33:16Z",
+        "uri": "https://arquivo.pt/wayback/20201221203316mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-01-08T09:31:59Z",
+        "uri": "https://arquivo.pt/wayback/20210108093159mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-01-11T09:16:38Z",
+        "uri": "https://arquivo.pt/wayback/20210111091638mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-02-26T20:34:29Z",
+        "uri": "http://archive.md/20210226203429/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-02-26T21:02:03Z",
+        "uri": "http://archive.md/20210226210203/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-02-26T22:22:46Z",
+        "uri": "http://archive.md/20210226222246/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-02-26T22:24:17Z",
+        "uri": "http://archive.md/20210226222417/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-02-27T04:13:26Z",
+        "uri": "http://archive.md/20210227041326/http://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2021-03-17T21:02:00Z",
+        "uri": "https://arquivo.pt/wayback/20210317210200mp_/https://away.vk.com/away.php"
+      },
+      {
+        "datetime": "2022-05-20T08:41:12Z",
+        "uri": "http://archive.md/20220520084112/http://away.vk.com/away.php"
+      }
+    ],
+    "first": {
+      "datetime": "2017-04-14T00:55:22Z",
+      "uri": "http://archive.md/20170414005522/http://away.vk.com/away.php"
+    },
+    "last": {
+      "datetime": "2022-05-20T08:41:12Z",
+      "uri": "http://archive.md/20220520084112/http://away.vk.com/away.php"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://away.vk.com/away.php",
+    "json_format": "http://localhost:1208/timemap/json/http://away.vk.com/away.php",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://away.vk.com/away.php"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://away.vk.com/away.php"
+}

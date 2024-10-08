@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A",
+  "self": "http://localhost:1208/timemap/json/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-16T22:03:11Z",
+        "uri": "https://arquivo.pt/wayback/20210916220311mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheader1121"
+      },
+      {
+        "datetime": "2021-09-16T22:03:15Z",
+        "uri": "https://arquivo.pt/wayback/20210916220315mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=yellowbarqplus1121"
+      },
+      {
+        "datetime": "2021-09-16T22:03:20Z",
+        "uri": "https://arquivo.pt/wayback/20210916220320mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=oldqconsworlwidesectionqplus1121"
+      },
+      {
+        "datetime": "2021-09-16T22:03:25Z",
+        "uri": "https://arquivo.pt/wayback/20210916220325mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepagefooter1121"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-16T22:03:11Z",
+      "uri": "https://arquivo.pt/wayback/20210916220311mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheader1121"
+    },
+    "last": {
+      "datetime": "2021-09-16T22:03:25Z",
+      "uri": "https://arquivo.pt/wayback/20210916220325mp_/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepagefooter1121"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://plus.qconferences.com/?utm_source=infoq&utm_medium=listing&utm_campaign=infoqhomepageheaderqplus1122%0A"
+}

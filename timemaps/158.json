@@ -1,0 +1,486 @@
+{
+  "original_uri": "https://news.cgtn.com/ui/status_code/404.html",
+  "self": "http://localhost:1208/timemap/json/https://news.cgtn.com/ui/status_code/404.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-28T15:37:07Z",
+        "uri": "http://archive.md/20171228153707/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-04-11T05:07:52Z",
+        "uri": "https://arquivo.pt/wayback/20180411050752mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-04-21T04:56:06Z",
+        "uri": "https://arquivo.pt/wayback/20180421045606mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-04-21T16:51:03Z",
+        "uri": "http://archive.md/20180421165103/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-06-02T06:59:08Z",
+        "uri": "http://archive.md/20180602065908/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-06-19T09:12:33Z",
+        "uri": "https://arquivo.pt/wayback/20180619091233mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-06-23T00:28:14Z",
+        "uri": "https://arquivo.pt/wayback/20180623002814mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-07-16T00:51:46Z",
+        "uri": "http://archive.md/20180716005146/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-07-16T20:03:22Z",
+        "uri": "https://arquivo.pt/wayback/20180716200322mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2018-07-17T17:00:56Z",
+        "uri": "https://arquivo.pt/wayback/20180717170056mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2019-01-21T22:18:13Z",
+        "uri": "http://archive.md/20190121221813/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2019-01-21T22:22:05Z",
+        "uri": "http://archive.md/20190121222205/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2019-10-06T22:10:36Z",
+        "uri": "https://arquivo.pt/wayback/20191006221036mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2019-10-08T22:39:58Z",
+        "uri": "https://arquivo.pt/wayback/20191008223958mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2019-10-11T00:30:48Z",
+        "uri": "https://arquivo.pt/wayback/20191011003048mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-01-07T15:31:05Z",
+        "uri": "https://arquivo.pt/wayback/20200107153105mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-03-21T13:49:37Z",
+        "uri": "http://archive.md/20200321134937/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-03-22T21:04:33Z",
+        "uri": "http://archive.md/20200322210433/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-03-24T01:31:27Z",
+        "uri": "https://arquivo.pt/wayback/20200324013127mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-03-29T21:09:37Z",
+        "uri": "http://archive.md/20200329210937/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-04-07T18:18:55Z",
+        "uri": "https://arquivo.pt/wayback/20200407181855mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-04T18:04:50Z",
+        "uri": "https://arquivo.pt/wayback/20200504180450mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-05T18:01:41Z",
+        "uri": "https://arquivo.pt/wayback/20200505180141mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-06T18:05:15Z",
+        "uri": "https://arquivo.pt/wayback/20200506180515mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-07T18:01:09Z",
+        "uri": "https://arquivo.pt/wayback/20200507180109mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-08T18:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20200508185244mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-09T18:00:34Z",
+        "uri": "https://arquivo.pt/wayback/20200509180034mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-10T18:04:24Z",
+        "uri": "https://arquivo.pt/wayback/20200510180424mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-12T02:59:34Z",
+        "uri": "http://archive.md/20200512025934/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-20T17:13:39Z",
+        "uri": "https://arquivo.pt/wayback/20200520171339mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-05-27T16:00:34Z",
+        "uri": "http://archive.md/20200527160034/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-06-04T17:32:42Z",
+        "uri": "https://arquivo.pt/wayback/20200604173242mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-06-05T11:28:54Z",
+        "uri": "https://arquivo.pt/wayback/20200605112854mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-07-14T11:11:44Z",
+        "uri": "http://archive.md/20200714111144/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-05T17:44:26Z",
+        "uri": "https://arquivo.pt/wayback/20200805174426mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-07T09:14:13Z",
+        "uri": "https://arquivo.pt/wayback/20200807091413mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-07T19:15:21Z",
+        "uri": "http://archive.md/20200807191521/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-20T22:56:22Z",
+        "uri": "https://arquivo.pt/wayback/20200820225622mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-20T22:56:22Z",
+        "uri": "https://arquivo.pt/wayback/20200820225622mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-20T22:56:22Z",
+        "uri": "https://arquivo.pt/wayback/20200820225622mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-08-27T17:18:25Z",
+        "uri": "https://arquivo.pt/wayback/20200827171825mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-09-01T06:00:28Z",
+        "uri": "http://archive.md/20200901060028/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-07T19:32:25Z",
+        "uri": "https://arquivo.pt/wayback/20201007193225mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-10T22:01:18Z",
+        "uri": "https://arquivo.pt/wayback/20201010220118mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-12T18:47:19Z",
+        "uri": "https://arquivo.pt/wayback/20201012184719mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-13T19:37:55Z",
+        "uri": "https://arquivo.pt/wayback/20201013193755mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-17T21:18:38Z",
+        "uri": "https://arquivo.pt/wayback/20201017211838mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-18T18:38:55Z",
+        "uri": "https://arquivo.pt/wayback/20201018183855mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-19T22:41:24Z",
+        "uri": "https://arquivo.pt/wayback/20201019224124mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-27T21:55:31Z",
+        "uri": "https://arquivo.pt/wayback/20201027215531mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-30T20:38:13Z",
+        "uri": "https://arquivo.pt/wayback/20201030203813mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-10-31T23:47:27Z",
+        "uri": "https://arquivo.pt/wayback/20201031234727mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-02T19:45:06Z",
+        "uri": "https://arquivo.pt/wayback/20201102194506mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-03T21:32:30Z",
+        "uri": "https://arquivo.pt/wayback/20201103213230mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-04T19:41:47Z",
+        "uri": "https://arquivo.pt/wayback/20201104194147mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-06T00:36:19Z",
+        "uri": "https://arquivo.pt/wayback/20201106003619mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-07T23:33:31Z",
+        "uri": "https://arquivo.pt/wayback/20201107233331mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-09T21:19:47Z",
+        "uri": "https://arquivo.pt/wayback/20201109211947mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-10T19:41:35Z",
+        "uri": "https://arquivo.pt/wayback/20201110194135mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-12T19:41:51Z",
+        "uri": "https://arquivo.pt/wayback/20201112194151mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-13T22:55:13Z",
+        "uri": "https://arquivo.pt/wayback/20201113225513mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-14T23:55:52Z",
+        "uri": "https://arquivo.pt/wayback/20201114235552mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-15T23:30:32Z",
+        "uri": "https://arquivo.pt/wayback/20201115233032mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-16T21:58:32Z",
+        "uri": "https://arquivo.pt/wayback/20201116215832mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-17T22:57:45Z",
+        "uri": "https://arquivo.pt/wayback/20201117225745mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-19T00:38:37Z",
+        "uri": "https://arquivo.pt/wayback/20201119003837mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-19T09:36:53Z",
+        "uri": "http://archive.md/20201119093653/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-19T22:09:35Z",
+        "uri": "https://arquivo.pt/wayback/20201119220935mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-21T00:09:49Z",
+        "uri": "https://arquivo.pt/wayback/20201121000949mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-21T23:21:47Z",
+        "uri": "https://arquivo.pt/wayback/20201121232147mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-23T00:52:44Z",
+        "uri": "https://arquivo.pt/wayback/20201123005244mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-23T22:43:29Z",
+        "uri": "https://arquivo.pt/wayback/20201123224329mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-24T22:12:11Z",
+        "uri": "https://arquivo.pt/wayback/20201124221211mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-25T23:39:28Z",
+        "uri": "https://arquivo.pt/wayback/20201125233928mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-26T22:24:02Z",
+        "uri": "https://arquivo.pt/wayback/20201126222402mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-27T22:22:38Z",
+        "uri": "https://arquivo.pt/wayback/20201127222238mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-28T22:20:28Z",
+        "uri": "https://arquivo.pt/wayback/20201128222028mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-29T22:33:36Z",
+        "uri": "https://arquivo.pt/wayback/20201129223336mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-11-30T22:26:33Z",
+        "uri": "https://arquivo.pt/wayback/20201130222633mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-01T22:35:48Z",
+        "uri": "https://arquivo.pt/wayback/20201201223548mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-02T22:44:32Z",
+        "uri": "https://arquivo.pt/wayback/20201202224432mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-03T23:31:04Z",
+        "uri": "https://arquivo.pt/wayback/20201203233104mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-04T22:21:46Z",
+        "uri": "https://arquivo.pt/wayback/20201204222146mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-05T19:31:32Z",
+        "uri": "https://arquivo.pt/wayback/20201205193132mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-06T21:44:30Z",
+        "uri": "https://arquivo.pt/wayback/20201206214430mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-08T02:34:28Z",
+        "uri": "https://arquivo.pt/wayback/20201208023428mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-09T01:13:04Z",
+        "uri": "https://arquivo.pt/wayback/20201209011304mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-10T00:07:43Z",
+        "uri": "https://arquivo.pt/wayback/20201210000743mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-11T00:25:08Z",
+        "uri": "https://arquivo.pt/wayback/20201211002508mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-12T00:51:43Z",
+        "uri": "https://arquivo.pt/wayback/20201212005143mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-13T00:07:39Z",
+        "uri": "https://arquivo.pt/wayback/20201213000739mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-14T00:52:29Z",
+        "uri": "https://arquivo.pt/wayback/20201214005229mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-14T22:54:27Z",
+        "uri": "https://arquivo.pt/wayback/20201214225427mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-15T21:56:52Z",
+        "uri": "https://arquivo.pt/wayback/20201215215652mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-16T21:56:16Z",
+        "uri": "https://arquivo.pt/wayback/20201216215616mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-17T20:02:46Z",
+        "uri": "https://arquivo.pt/wayback/20201217200246mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-18T21:00:43Z",
+        "uri": "https://arquivo.pt/wayback/20201218210043mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-19T21:10:30Z",
+        "uri": "https://arquivo.pt/wayback/20201219211030mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-20T21:07:18Z",
+        "uri": "https://arquivo.pt/wayback/20201220210718mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-21T20:51:53Z",
+        "uri": "https://arquivo.pt/wayback/20201221205153mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-22T21:19:43Z",
+        "uri": "https://arquivo.pt/wayback/20201222211943mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-23T20:57:42Z",
+        "uri": "https://arquivo.pt/wayback/20201223205742mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-24T20:56:35Z",
+        "uri": "https://arquivo.pt/wayback/20201224205635mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-25T21:16:42Z",
+        "uri": "https://arquivo.pt/wayback/20201225211642mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-26T21:13:41Z",
+        "uri": "https://arquivo.pt/wayback/20201226211341mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-27T20:47:55Z",
+        "uri": "https://arquivo.pt/wayback/20201227204755mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-28T20:12:56Z",
+        "uri": "https://arquivo.pt/wayback/20201228201256mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-29T19:44:06Z",
+        "uri": "https://arquivo.pt/wayback/20201229194406mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-30T19:30:46Z",
+        "uri": "https://arquivo.pt/wayback/20201230193046mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-30T19:30:46Z",
+        "uri": "https://arquivo.pt/wayback/20201230193046mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2020-12-31T19:39:23Z",
+        "uri": "https://arquivo.pt/wayback/20201231193923mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2021-01-13T10:22:48Z",
+        "uri": "https://arquivo.pt/wayback/20210113102248mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2021-03-04T04:18:06Z",
+        "uri": "https://arquivo.pt/wayback/20210304041806mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2021-09-08T15:48:36Z",
+        "uri": "https://arquivo.pt/wayback/20210908154836mp_/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2022-06-03T01:19:42Z",
+        "uri": "http://archive.md/20220603011942/https://news.cgtn.com/ui/status_code/404.html"
+      },
+      {
+        "datetime": "2022-06-07T02:41:02Z",
+        "uri": "http://archive.md/20220607024102/https://news.cgtn.com/ui/status_code/404.html"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-28T15:37:07Z",
+      "uri": "http://archive.md/20171228153707/https://news.cgtn.com/ui/status_code/404.html"
+    },
+    "last": {
+      "datetime": "2022-06-07T02:41:02Z",
+      "uri": "http://archive.md/20220607024102/https://news.cgtn.com/ui/status_code/404.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news.cgtn.com/ui/status_code/404.html",
+    "json_format": "http://localhost:1208/timemap/json/https://news.cgtn.com/ui/status_code/404.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news.cgtn.com/ui/status_code/404.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news.cgtn.com/ui/status_code/404.html"
+}

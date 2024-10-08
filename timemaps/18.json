@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine",
+  "self": "http://localhost:1208/timemap/json/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-23T06:27:39Z",
+        "uri": "http://archive.md/20220923062739/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-23T06:27:39Z",
+      "uri": "http://archive.md/20220923062739/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine"
+    },
+    "last": {
+      "datetime": "2022-09-23T06:27:39Z",
+      "uri": "http://archive.md/20220923062739/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rnz.co.nz/news/national/475329/covid-19-parents-of-rory-nairn-speak-out-on-son-s-death-linked-to-vaccine"
+}

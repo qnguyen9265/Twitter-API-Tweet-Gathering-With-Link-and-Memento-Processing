@@ -1,0 +1,974 @@
+{
+  "original_uri": "https://www.flipkart.com/",
+  "self": "http://localhost:1208/timemap/json/https://www.flipkart.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2007-11-21T21:01:03Z",
+        "uri": "http://archive.md/20071121210103/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2012-05-25T02:44:44Z",
+        "uri": "http://archive.md/20120525024444/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-01-23T08:59:01Z",
+        "uri": "http://archive.md/20130123085901/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-01-23T10:09:16Z",
+        "uri": "http://archive.md/20130123100916/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-02-16T02:21:11Z",
+        "uri": "http://archive.md/20130216022111/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-04-10T20:13:38Z",
+        "uri": "http://archive.md/20130410201338/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-05-09T05:15:16Z",
+        "uri": "http://archive.md/20130509051516/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-05-10T10:22:12Z",
+        "uri": "http://archive.md/20130510102212/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-06-16T08:08:55Z",
+        "uri": "http://archive.md/20130616080855/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-06-29T07:01:33Z",
+        "uri": "http://archive.md/20130629070133/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-06-29T07:23:24Z",
+        "uri": "http://archive.md/20130629072324/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2013-10-04T18:22:59Z",
+        "uri": "http://archive.md/20131004182259/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-03-14T02:08:19Z",
+        "uri": "http://archive.md/20140314020819/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-04-13T15:30:59Z",
+        "uri": "http://archive.md/20140413153059/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-04-23T14:32:37Z",
+        "uri": "http://archive.md/20140423143237/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-05-17T01:07:50Z",
+        "uri": "http://archive.md/20140517010750/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-06-29T06:07:37Z",
+        "uri": "http://archive.md/20140629060737/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-09-03T08:07:44Z",
+        "uri": "http://archive.md/20140903080744/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-09-03T08:08:59Z",
+        "uri": "http://archive.md/20140903080859/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-09-07T13:31:26Z",
+        "uri": "https://arquivo.pt/wayback/20140907133126mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2014-09-07T23:25:35Z",
+        "uri": "http://archive.md/20140907232535/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-09-24T18:06:28Z",
+        "uri": "http://archive.md/20140924180628/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2014-10-06T07:01:43Z",
+        "uri": "http://archive.md/20141006070143/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-01-28T11:14:18Z",
+        "uri": "http://archive.md/20150128111418/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-02-07T02:28:24Z",
+        "uri": "http://archive.md/20150207022824/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-04-10T06:06:22Z",
+        "uri": "https://arquivo.pt/wayback/20150410060622mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2015-06-14T13:56:36Z",
+        "uri": "http://archive.md/20150614135636/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-06-23T06:24:14Z",
+        "uri": "http://archive.md/20150623062414/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-06-25T08:09:14Z",
+        "uri": "http://archive.md/20150625080914/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-06-30T05:45:33Z",
+        "uri": "http://archive.md/20150630054533/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-08-15T09:45:23Z",
+        "uri": "https://arquivo.pt/wayback/20150815094523mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2015-10-11T08:13:54Z",
+        "uri": "http://archive.md/20151011081354/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-10-16T11:18:20Z",
+        "uri": "http://archive.md/20151016111820/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-11-15T19:31:48Z",
+        "uri": "http://archive.md/20151115193148/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2015-12-23T06:54:51Z",
+        "uri": "http://archive.md/20151223065451/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-01-09T15:21:06Z",
+        "uri": "https://arquivo.pt/wayback/20160109152106mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-01-18T16:30:46Z",
+        "uri": "http://archive.md/20160118163046/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-02-06T08:42:17Z",
+        "uri": "https://arquivo.pt/wayback/20160206084217mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2016-02-26T10:57:44Z",
+        "uri": "http://archive.md/20160226105744/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-04-25T11:43:39Z",
+        "uri": "http://archive.md/20160425114339/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-04-29T10:18:17Z",
+        "uri": "http://archive.md/20160429101817/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-05-01T22:37:20Z",
+        "uri": "http://archive.md/20160501223720/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-05-16T12:58:15Z",
+        "uri": "https://arquivo.pt/wayback/20160516125815mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-05-21T06:54:09Z",
+        "uri": "https://arquivo.pt/wayback/20160521065409mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-06-22T05:33:18Z",
+        "uri": "http://archive.md/20160622053318/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2016-12-06T01:21:24Z",
+        "uri": "http://archive.md/20161206012124/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-02-12T10:17:44Z",
+        "uri": "https://arquivo.pt/wayback/20170212101744mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2017-02-27T18:53:50Z",
+        "uri": "http://archive.md/20170227185350/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-06-09T19:42:03Z",
+        "uri": "https://arquivo.pt/wayback/20170609194203mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-06-11T07:50:11Z",
+        "uri": "http://archive.md/20170611075011/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-06-27T05:54:58Z",
+        "uri": "http://archive.md/20170627055458/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-07-06T19:36:06Z",
+        "uri": "https://arquivo.pt/wayback/20170706193606mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-10-09T11:10:10Z",
+        "uri": "http://archive.md/20171009111010/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-10-20T13:51:32Z",
+        "uri": "http://archive.md/20171020135132/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-11-20T13:51:21Z",
+        "uri": "http://archive.md/20171120135121/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-11-21T07:51:17Z",
+        "uri": "http://archive.md/20171121075117/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2017-12-23T11:02:44Z",
+        "uri": "http://archive.md/20171223110244/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-04-16T20:03:10Z",
+        "uri": "https://arquivo.pt/wayback/20180416200310mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2018-05-01T10:29:00Z",
+        "uri": "http://archive.md/20180501102900/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-05-08T03:05:45Z",
+        "uri": "http://archive.md/20180508030545/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-06-21T07:26:35Z",
+        "uri": "http://archive.md/20180621072635/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-06-27T03:49:53Z",
+        "uri": "http://archive.md/20180627034953/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-07-12T17:14:01Z",
+        "uri": "https://arquivo.pt/wayback/20180712171401mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-07-12T17:15:13Z",
+        "uri": "https://arquivo.pt/wayback/20180712171513mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-07-13T03:42:21Z",
+        "uri": "http://archive.md/20180713034221/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-07-19T20:01:18Z",
+        "uri": "https://arquivo.pt/wayback/20180719200118mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-03T13:34:50Z",
+        "uri": "https://arquivo.pt/wayback/20180803133450mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-04T14:08:18Z",
+        "uri": "https://arquivo.pt/wayback/20180804140818mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-04T14:36:25Z",
+        "uri": "https://arquivo.pt/wayback/20180804143625mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-05T12:04:01Z",
+        "uri": "https://arquivo.pt/wayback/20180805120401mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-06T13:26:12Z",
+        "uri": "https://arquivo.pt/wayback/20180806132612mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-07T13:25:30Z",
+        "uri": "https://arquivo.pt/wayback/20180807132530mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-08T08:36:22Z",
+        "uri": "https://arquivo.pt/wayback/20180808083622mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-09T12:09:42Z",
+        "uri": "https://arquivo.pt/wayback/20180809120942mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-10T14:21:33Z",
+        "uri": "https://arquivo.pt/wayback/20180810142133mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-10T20:13:21Z",
+        "uri": "https://arquivo.pt/wayback/20180810201321mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-10T20:13:39Z",
+        "uri": "https://arquivo.pt/wayback/20180810201339mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-11T06:23:23Z",
+        "uri": "http://archive.md/20180811062323/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-12T13:22:26Z",
+        "uri": "https://arquivo.pt/wayback/20180812132226mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-13T13:37:39Z",
+        "uri": "https://arquivo.pt/wayback/20180813133739mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-14T13:39:28Z",
+        "uri": "https://arquivo.pt/wayback/20180814133928mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-15T14:05:47Z",
+        "uri": "https://arquivo.pt/wayback/20180815140547mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-16T14:33:10Z",
+        "uri": "https://arquivo.pt/wayback/20180816143310mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-17T12:46:34Z",
+        "uri": "https://arquivo.pt/wayback/20180817124634mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-19T13:56:57Z",
+        "uri": "https://arquivo.pt/wayback/20180819135657mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-20T13:26:31Z",
+        "uri": "https://arquivo.pt/wayback/20180820132631mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-21T14:21:32Z",
+        "uri": "https://arquivo.pt/wayback/20180821142132mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-23T13:08:21Z",
+        "uri": "https://arquivo.pt/wayback/20180823130821mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-24T13:22:14Z",
+        "uri": "https://arquivo.pt/wayback/20180824132214mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-30T10:49:59Z",
+        "uri": "https://arquivo.pt/wayback/20180830104959mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-08-31T08:05:38Z",
+        "uri": "https://arquivo.pt/wayback/20180831080538mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-01T10:31:50Z",
+        "uri": "https://arquivo.pt/wayback/20180901103150mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-02T08:13:17Z",
+        "uri": "https://arquivo.pt/wayback/20180902081317mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-03T08:07:58Z",
+        "uri": "https://arquivo.pt/wayback/20180903080758mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-04T08:27:01Z",
+        "uri": "https://arquivo.pt/wayback/20180904082701mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-05T08:12:04Z",
+        "uri": "https://arquivo.pt/wayback/20180905081204mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-06T14:19:02Z",
+        "uri": "https://arquivo.pt/wayback/20180906141902mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-07T13:15:55Z",
+        "uri": "https://arquivo.pt/wayback/20180907131555mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-17T11:33:58Z",
+        "uri": "https://arquivo.pt/wayback/20180917113358mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-09-21T12:21:00Z",
+        "uri": "https://arquivo.pt/wayback/20180921122100mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-05T14:59:28Z",
+        "uri": "https://arquivo.pt/wayback/20181005145928mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-06T13:43:06Z",
+        "uri": "https://arquivo.pt/wayback/20181006134306mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-07T14:44:17Z",
+        "uri": "https://arquivo.pt/wayback/20181007144417mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-09T13:03:15Z",
+        "uri": "https://arquivo.pt/wayback/20181009130315mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-11T14:19:18Z",
+        "uri": "https://arquivo.pt/wayback/20181011141918mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-12T13:36:37Z",
+        "uri": "https://arquivo.pt/wayback/20181012133637mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-13T14:11:47Z",
+        "uri": "https://arquivo.pt/wayback/20181013141147mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-14T14:02:54Z",
+        "uri": "https://arquivo.pt/wayback/20181014140254mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-16T13:45:25Z",
+        "uri": "https://arquivo.pt/wayback/20181016134525mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-17T14:57:20Z",
+        "uri": "https://arquivo.pt/wayback/20181017145720mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-18T14:19:30Z",
+        "uri": "https://arquivo.pt/wayback/20181018141930mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-10-24T12:20:00Z",
+        "uri": "http://archive.md/20181024122000/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-11-27T15:10:12Z",
+        "uri": "https://arquivo.pt/wayback/20181127151012mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-04T10:24:06Z",
+        "uri": "https://arquivo.pt/wayback/20181204102406mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-05T10:07:31Z",
+        "uri": "https://arquivo.pt/wayback/20181205100731mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-13T14:11:30Z",
+        "uri": "https://arquivo.pt/wayback/20181213141130mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-14T14:02:16Z",
+        "uri": "https://arquivo.pt/wayback/20181214140216mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-15T15:00:32Z",
+        "uri": "https://arquivo.pt/wayback/20181215150032mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-16T11:16:01Z",
+        "uri": "https://arquivo.pt/wayback/20181216111601mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-17T11:40:26Z",
+        "uri": "https://arquivo.pt/wayback/20181217114026mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-18T12:22:00Z",
+        "uri": "https://arquivo.pt/wayback/20181218122200mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-19T12:14:30Z",
+        "uri": "https://arquivo.pt/wayback/20181219121430mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-20T08:18:35Z",
+        "uri": "https://arquivo.pt/wayback/20181220081835mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-20T13:36:29Z",
+        "uri": "https://arquivo.pt/wayback/20181220133629mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-21T10:19:22Z",
+        "uri": "https://arquivo.pt/wayback/20181221101922mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-22T11:37:13Z",
+        "uri": "https://arquivo.pt/wayback/20181222113713mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-23T11:40:41Z",
+        "uri": "https://arquivo.pt/wayback/20181223114041mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-24T11:03:03Z",
+        "uri": "https://arquivo.pt/wayback/20181224110303mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-25T12:06:26Z",
+        "uri": "https://arquivo.pt/wayback/20181225120626mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-26T12:07:36Z",
+        "uri": "https://arquivo.pt/wayback/20181226120736mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-27T14:23:17Z",
+        "uri": "https://arquivo.pt/wayback/20181227142317mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-28T14:10:47Z",
+        "uri": "https://arquivo.pt/wayback/20181228141047mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-29T15:34:12Z",
+        "uri": "https://arquivo.pt/wayback/20181229153412mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-30T15:51:16Z",
+        "uri": "https://arquivo.pt/wayback/20181230155116mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2018-12-31T14:25:22Z",
+        "uri": "https://arquivo.pt/wayback/20181231142522mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-01T13:58:36Z",
+        "uri": "https://arquivo.pt/wayback/20190101135836mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-04T13:29:37Z",
+        "uri": "https://arquivo.pt/wayback/20190104132937mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-05T13:46:57Z",
+        "uri": "https://arquivo.pt/wayback/20190105134657mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-06T13:11:25Z",
+        "uri": "https://arquivo.pt/wayback/20190106131125mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-07T11:48:42Z",
+        "uri": "https://arquivo.pt/wayback/20190107114842mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-08T12:45:25Z",
+        "uri": "https://arquivo.pt/wayback/20190108124525mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-09T13:11:58Z",
+        "uri": "https://arquivo.pt/wayback/20190109131158mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-10T13:27:08Z",
+        "uri": "https://arquivo.pt/wayback/20190110132708mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-11T15:58:07Z",
+        "uri": "https://arquivo.pt/wayback/20190111155807mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-12T08:09:28Z",
+        "uri": "https://arquivo.pt/wayback/20190112080928mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-13T09:55:49Z",
+        "uri": "https://arquivo.pt/wayback/20190113095549mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-14T09:30:30Z",
+        "uri": "https://arquivo.pt/wayback/20190114093030mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-15T10:55:58Z",
+        "uri": "https://arquivo.pt/wayback/20190115105558mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-16T04:47:55Z",
+        "uri": "https://arquivo.pt/wayback/20190116044755mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-16T11:15:03Z",
+        "uri": "https://arquivo.pt/wayback/20190116111503mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-17T10:53:48Z",
+        "uri": "https://arquivo.pt/wayback/20190117105348mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-18T11:17:03Z",
+        "uri": "https://arquivo.pt/wayback/20190118111703mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-19T10:24:40Z",
+        "uri": "https://arquivo.pt/wayback/20190119102440mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-20T14:18:10Z",
+        "uri": "https://arquivo.pt/wayback/20190120141810mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-21T13:45:11Z",
+        "uri": "https://arquivo.pt/wayback/20190121134511mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-22T10:03:37Z",
+        "uri": "https://arquivo.pt/wayback/20190122100337mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-01-23T11:14:42Z",
+        "uri": "https://arquivo.pt/wayback/20190123111442mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-02-02T15:03:27Z",
+        "uri": "http://archive.md/20190202150327/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-02-04T13:43:25Z",
+        "uri": "https://arquivo.pt/wayback/20190204134325mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-02-07T10:03:55Z",
+        "uri": "https://arquivo.pt/wayback/20190207100355mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-02-09T04:15:15Z",
+        "uri": "http://archive.md/20190209041515/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-03-16T14:54:27Z",
+        "uri": "https://arquivo.pt/wayback/20190316145427mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-03-26T22:38:29Z",
+        "uri": "https://arquivo.pt/wayback/20190326223829mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-03-26T22:38:37Z",
+        "uri": "https://arquivo.pt/wayback/20190326223837mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-03-29T00:21:20Z",
+        "uri": "https://arquivo.pt/wayback/20190329002120mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2019-04-02T12:36:25Z",
+        "uri": "https://arquivo.pt/wayback/20190402123625mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-04-08T17:25:29Z",
+        "uri": "http://archive.md/20190408172529/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-04-15T02:36:38Z",
+        "uri": "http://archive.md/20190415023638/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-04-23T19:34:07Z",
+        "uri": "http://archive.md/20190423193407/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-04-26T05:59:34Z",
+        "uri": "https://arquivo.pt/wayback/20190426055934mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2019-06-19T00:41:19Z",
+        "uri": "https://arquivo.pt/wayback/20190619004119mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2019-06-21T19:44:52Z",
+        "uri": "http://archive.md/20190621194452/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-06-24T06:10:56Z",
+        "uri": "https://arquivo.pt/wayback/20190624061056mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-07-04T05:47:38Z",
+        "uri": "https://arquivo.pt/wayback/20190704054738mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-07-23T14:03:36Z",
+        "uri": "http://archive.md/20190723140336/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-08-27T19:17:48Z",
+        "uri": "http://archive.md/20190827191748/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-08-29T11:15:47Z",
+        "uri": "https://arquivo.pt/wayback/20190829111547mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-09-02T16:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20190902164116mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-09-08T01:03:02Z",
+        "uri": "https://arquivo.pt/wayback/20190908010302mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-09-08T01:05:41Z",
+        "uri": "https://arquivo.pt/wayback/20190908010541mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-09-13T00:13:21Z",
+        "uri": "https://arquivo.pt/wayback/20190913001321mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-10-21T14:43:41Z",
+        "uri": "http://archive.md/20191021144341/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-11-17T22:47:09Z",
+        "uri": "https://arquivo.pt/wayback/20191117224709mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-11-17T22:50:13Z",
+        "uri": "https://arquivo.pt/wayback/20191117225013mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-12-09T23:58:44Z",
+        "uri": "https://arquivo.pt/wayback/20191209235844mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2019-12-30T12:36:08Z",
+        "uri": "https://arquivo.pt/wayback/20191230123608mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-09T06:25:06Z",
+        "uri": "https://arquivo.pt/wayback/20200109062506mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-12T14:34:34Z",
+        "uri": "http://archive.md/20200112143434/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-16T08:38:00Z",
+        "uri": "https://arquivo.pt/wayback/20200116083800mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-17T07:52:51Z",
+        "uri": "https://arquivo.pt/wayback/20200117075251mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-22T07:24:53Z",
+        "uri": "https://arquivo.pt/wayback/20200122072453mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-01-28T08:34:15Z",
+        "uri": "https://arquivo.pt/wayback/20200128083415mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-02-04T07:51:36Z",
+        "uri": "https://arquivo.pt/wayback/20200204075136mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-02-19T08:04:46Z",
+        "uri": "https://arquivo.pt/wayback/20200219080446mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-03-07T09:03:35Z",
+        "uri": "https://arquivo.pt/wayback/20200307090335mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-03-07T09:03:39Z",
+        "uri": "https://arquivo.pt/wayback/20200307090339mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-03-17T23:13:52Z",
+        "uri": "https://arquivo.pt/wayback/20200317231352mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-03-30T13:58:35Z",
+        "uri": "https://arquivo.pt/wayback/20200330135835mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-04-08T12:16:16Z",
+        "uri": "http://archive.md/20200408121616/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-04-18T17:55:52Z",
+        "uri": "http://archive.md/20200418175552/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-04-20T15:23:10Z",
+        "uri": "http://archive.md/20200420152310/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-06T05:44:23Z",
+        "uri": "http://archive.md/20200506054423/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-09T23:01:47Z",
+        "uri": "https://arquivo.pt/wayback/20200509230147mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-09T23:02:00Z",
+        "uri": "https://arquivo.pt/wayback/20200509230200mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-10T04:16:58Z",
+        "uri": "https://arquivo.pt/wayback/20200510041658mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-11T11:00:20Z",
+        "uri": "https://arquivo.pt/wayback/20200511110020mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-05-15T01:45:16Z",
+        "uri": "https://arquivo.pt/wayback/20200515014516mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-06-05T17:30:01Z",
+        "uri": "https://arquivo.pt/wayback/20200605173001mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-06-05T17:30:06Z",
+        "uri": "https://arquivo.pt/wayback/20200605173006mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-06-18T15:47:06Z",
+        "uri": "https://arquivo.pt/wayback/20200618154706mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-07-04T10:00:45Z",
+        "uri": "http://archive.md/20200704100045/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-07-26T15:34:46Z",
+        "uri": "http://archive.md/20200726153446/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-09-05T00:09:48Z",
+        "uri": "https://arquivo.pt/wayback/20200905000948mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-09-14T23:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20200914231452mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-09-25T09:08:58Z",
+        "uri": "https://arquivo.pt/wayback/20200925090858mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-10-21T16:44:28Z",
+        "uri": "http://archive.md/20201021164428/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-10-22T03:41:00Z",
+        "uri": "http://archive.md/20201022034100/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2020-10-27T19:26:05Z",
+        "uri": "https://arquivo.pt/wayback/20201027192605mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2020-12-02T05:59:52Z",
+        "uri": "http://archive.md/20201202055952/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-01-12T15:25:25Z",
+        "uri": "https://arquivo.pt/wayback/20210112152525mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-01-14T16:51:04Z",
+        "uri": "https://arquivo.pt/wayback/20210114165104mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-01-15T10:45:17Z",
+        "uri": "https://arquivo.pt/wayback/20210115104517mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2021-03-04T20:33:43Z",
+        "uri": "https://arquivo.pt/wayback/20210304203343mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-03-18T07:21:17Z",
+        "uri": "https://arquivo.pt/wayback/20210318072117mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2021-03-27T07:53:25Z",
+        "uri": "https://arquivo.pt/wayback/20210327075325mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-04-01T07:48:16Z",
+        "uri": "http://archive.md/20210401074816/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-06-26T12:52:32Z",
+        "uri": "http://archive.md/20210626125232/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-07-28T16:49:32Z",
+        "uri": "http://archive.md/20210728164932/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-08-05T10:57:39Z",
+        "uri": "http://archive.md/20210805105739/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-09-10T01:22:38Z",
+        "uri": "https://arquivo.pt/wayback/20210910012238mp_/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-09-10T03:19:33Z",
+        "uri": "https://arquivo.pt/wayback/20210910031933mp_/http://www.flipkart.com/"
+      },
+      {
+        "datetime": "2021-09-18T08:39:01Z",
+        "uri": "https://arquivo.pt/wayback/20210918083901mp_/http://flipkart.com/"
+      },
+      {
+        "datetime": "2021-09-18T08:39:14Z",
+        "uri": "https://arquivo.pt/wayback/20210918083914mp_/https://flipkart.com/"
+      },
+      {
+        "datetime": "2022-03-15T05:39:38Z",
+        "uri": "http://archive.md/20220315053938/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2022-04-22T03:50:11Z",
+        "uri": "http://archive.md/20220422035011/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2022-08-10T16:37:51Z",
+        "uri": "http://archive.md/20220810163751/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2022-08-18T12:55:05Z",
+        "uri": "http://archive.md/20220818125505/https://www.flipkart.com/"
+      },
+      {
+        "datetime": "2022-08-23T16:06:47Z",
+        "uri": "http://archive.md/20220823160647/https://www.flipkart.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2007-11-21T21:01:03Z",
+      "uri": "http://archive.md/20071121210103/http://www.flipkart.com/"
+    },
+    "last": {
+      "datetime": "2022-08-23T16:06:47Z",
+      "uri": "http://archive.md/20220823160647/https://www.flipkart.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.flipkart.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.flipkart.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.flipkart.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.flipkart.com/"
+}

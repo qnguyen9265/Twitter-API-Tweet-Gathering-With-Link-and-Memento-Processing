@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/",
+  "self": "http://localhost:1208/timemap/json/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-12T10:55:25Z",
+        "uri": "http://archive.md/20221012105525/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-12T10:55:25Z",
+      "uri": "http://archive.md/20221012105525/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/"
+    },
+    "last": {
+      "datetime": "2022-10-12T10:55:25Z",
+      "uri": "http://archive.md/20221012105525/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.thebulwark.com/iranians-want-democracy-who-are-we-to-say-no-protests-hijab/"
+}

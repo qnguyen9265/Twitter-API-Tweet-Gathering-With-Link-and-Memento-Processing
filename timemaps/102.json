@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm",
+  "self": "http://localhost:1208/timemap/json/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-09T02:18:58Z",
+        "uri": "https://arquivo.pt/wayback/20210909021858mp_/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+      },
+      {
+        "datetime": "2022-10-13T00:10:19Z",
+        "uri": "http://archive.md/20221013001019/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-09T02:18:58Z",
+      "uri": "https://arquivo.pt/wayback/20210909021858mp_/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+    },
+    "last": {
+      "datetime": "2022-10-13T00:10:19Z",
+      "uri": "http://archive.md/20221013001019/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm",
+    "json_format": "http://localhost:1208/timemap/json/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://science.howstuffworks.com/environmental/earth/oceanography/amoc-news.htm"
+}

@@ -1,0 +1,130 @@
+{
+  "original_uri": "https://triberr.com",
+  "self": "http://localhost:1208/timemap/json/https://triberr.com",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-05-04T19:12:35Z",
+        "uri": "http://archive.md/20130504191235/http://triberr.com/"
+      },
+      {
+        "datetime": "2016-03-15T01:21:56Z",
+        "uri": "https://arquivo.pt/wayback/20160315012156mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2017-06-06T18:51:13Z",
+        "uri": "https://arquivo.pt/wayback/20170606185113mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2017-07-02T10:17:45Z",
+        "uri": "https://arquivo.pt/wayback/20170702101745mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-03-27T02:58:06Z",
+        "uri": "https://arquivo.pt/wayback/20190327025806mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2019-03-27T02:58:10Z",
+        "uri": "https://arquivo.pt/wayback/20190327025810mp_/https://www.triberr.com/"
+      },
+      {
+        "datetime": "2019-04-04T00:27:14Z",
+        "uri": "https://arquivo.pt/wayback/20190404002714mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2019-04-04T00:27:19Z",
+        "uri": "https://arquivo.pt/wayback/20190404002719mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-04-15T16:58:51Z",
+        "uri": "https://arquivo.pt/wayback/20190415165851mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-06-19T14:06:55Z",
+        "uri": "https://arquivo.pt/wayback/20190619140655mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2019-06-19T14:06:58Z",
+        "uri": "https://arquivo.pt/wayback/20190619140658mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-09-02T22:07:59Z",
+        "uri": "https://arquivo.pt/wayback/20190902220759mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2019-09-10T22:19:05Z",
+        "uri": "https://arquivo.pt/wayback/20190910221905mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2019-09-14T10:07:32Z",
+        "uri": "https://arquivo.pt/wayback/20190914100732mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-09-21T11:50:52Z",
+        "uri": "https://arquivo.pt/wayback/20190921115052mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2019-10-01T20:22:42Z",
+        "uri": "https://arquivo.pt/wayback/20191001202242mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2019-12-14T07:26:57Z",
+        "uri": "https://arquivo.pt/wayback/20191214072657mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2019-12-25T18:09:46Z",
+        "uri": "https://arquivo.pt/wayback/20191225180946mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2020-03-07T19:55:35Z",
+        "uri": "https://arquivo.pt/wayback/20200307195535mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2020-03-28T01:15:14Z",
+        "uri": "https://arquivo.pt/wayback/20200328011514mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2020-06-05T19:14:56Z",
+        "uri": "https://arquivo.pt/wayback/20200605191456mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2020-06-15T12:12:37Z",
+        "uri": "https://arquivo.pt/wayback/20200615121237mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2020-09-20T15:23:55Z",
+        "uri": "https://arquivo.pt/wayback/20200920152355mp_/http://triberr.com/"
+      },
+      {
+        "datetime": "2021-01-16T17:17:58Z",
+        "uri": "https://arquivo.pt/wayback/20210116171758mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2021-03-04T22:05:07Z",
+        "uri": "https://arquivo.pt/wayback/20210304220507mp_/http://www.triberr.com/"
+      },
+      {
+        "datetime": "2021-03-26T11:52:01Z",
+        "uri": "https://arquivo.pt/wayback/20210326115201mp_/https://triberr.com/"
+      },
+      {
+        "datetime": "2021-05-16T01:58:07Z",
+        "uri": "http://archive.md/20210516015807/https://triberr.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-05-04T19:12:35Z",
+      "uri": "http://archive.md/20130504191235/http://triberr.com/"
+    },
+    "last": {
+      "datetime": "2021-05-16T01:58:07Z",
+      "uri": "http://archive.md/20210516015807/https://triberr.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://triberr.com",
+    "json_format": "http://localhost:1208/timemap/json/https://triberr.com",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://triberr.com"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://triberr.com"
+}

@@ -1,0 +1,634 @@
+{
+  "original_uri": "https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A",
+  "self": "http://localhost:1208/timemap/json/https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-06-20T12:05:46Z",
+        "uri": "http://archive.md/20180620120546/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2018-07-12T13:11:41Z",
+        "uri": "https://arquivo.pt/wayback/20180712131141mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2018-11-06T19:40:09Z",
+        "uri": "https://perma.cc/3BDG-KUMU"
+      },
+      {
+        "datetime": "2019-02-15T21:08:28Z",
+        "uri": "https://perma.cc/FYX2-ETTL"
+      },
+      {
+        "datetime": "2019-02-16T14:01:33Z",
+        "uri": "https://perma.cc/3224-7PTQ"
+      },
+      {
+        "datetime": "2019-02-19T01:54:37Z",
+        "uri": "https://perma.cc/Z49Q-8WN5"
+      },
+      {
+        "datetime": "2019-03-20T03:30:23Z",
+        "uri": "https://arquivo.pt/wayback/20190320033023mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-03-25T06:32:30Z",
+        "uri": "https://arquivo.pt/wayback/20190325063230mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-03-25T08:31:40Z",
+        "uri": "https://arquivo.pt/wayback/20190325083140mp_/http://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2019-03-25T08:31:43Z",
+        "uri": "https://arquivo.pt/wayback/20190325083143mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-05-22T20:09:43Z",
+        "uri": "https://arquivo.pt/wayback/20190522200943mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-05-31T21:27:50Z",
+        "uri": "https://arquivo.pt/wayback/20190531212750mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-09-01T11:59:29Z",
+        "uri": "http://archive.md/20190901115929/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-09-06T21:01:00Z",
+        "uri": "https://arquivo.pt/wayback/20190906210100mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-11-20T00:19:22Z",
+        "uri": "https://perma.cc/9LUJ-36MD"
+      },
+      {
+        "datetime": "2019-11-21T11:05:33Z",
+        "uri": "https://arquivo.pt/wayback/20191121110533mp_/http://www.w3.org/tr/wcag21"
+      },
+      {
+        "datetime": "2019-11-21T14:33:23Z",
+        "uri": "https://arquivo.pt/wayback/20191121143323mp_/http://www.w3.org/TR/wcag21"
+      },
+      {
+        "datetime": "2019-11-21T16:33:03Z",
+        "uri": "https://arquivo.pt/wayback/20191121163303mp_/http://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2019-11-21T17:57:52Z",
+        "uri": "https://arquivo.pt/wayback/20191121175752mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-12-03T12:45:04Z",
+        "uri": "https://arquivo.pt/wayback/20191203124504mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-12-13T14:06:35Z",
+        "uri": "https://arquivo.pt/wayback/20191213140635mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-12-20T05:24:59Z",
+        "uri": "https://arquivo.pt/wayback/20191220052459mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2019-12-20T06:23:13Z",
+        "uri": "https://arquivo.pt/wayback/20191220062313mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-01-11T23:46:05Z",
+        "uri": "https://perma.cc/3C8F-32NK"
+      },
+      {
+        "datetime": "2020-02-07T14:12:40Z",
+        "uri": "https://arquivo.pt/wayback/20200207141240mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-02-07T14:15:42Z",
+        "uri": "https://arquivo.pt/wayback/20200207141542mp_/https://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2020-02-07T14:38:05Z",
+        "uri": "https://arquivo.pt/wayback/20200207143805mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-02-12T09:30:39Z",
+        "uri": "https://arquivo.pt/wayback/20200212093039mp_/http://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2020-03-06T22:13:54Z",
+        "uri": "https://arquivo.pt/wayback/20200306221354mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-03-11T22:19:44Z",
+        "uri": "https://arquivo.pt/wayback/20200311221944mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-03-11T23:29:48Z",
+        "uri": "https://arquivo.pt/wayback/20200311232948mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-03-17T00:38:53Z",
+        "uri": "https://arquivo.pt/wayback/20200317003853mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-03-26T16:59:49Z",
+        "uri": "https://arquivo.pt/wayback/20200326165949mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-04-07T19:01:43Z",
+        "uri": "https://arquivo.pt/wayback/20200407190143mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-04T18:46:34Z",
+        "uri": "https://arquivo.pt/wayback/20200504184634mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-05T18:38:54Z",
+        "uri": "https://arquivo.pt/wayback/20200505183854mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-05T23:49:12Z",
+        "uri": "https://arquivo.pt/wayback/20200505234912mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-06T18:47:03Z",
+        "uri": "https://arquivo.pt/wayback/20200506184703mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-07T19:03:11Z",
+        "uri": "https://arquivo.pt/wayback/20200507190311mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-08T19:22:53Z",
+        "uri": "https://arquivo.pt/wayback/20200508192253mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-09T18:35:08Z",
+        "uri": "https://arquivo.pt/wayback/20200509183508mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-10T18:54:42Z",
+        "uri": "https://arquivo.pt/wayback/20200510185442mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-11T19:18:24Z",
+        "uri": "https://arquivo.pt/wayback/20200511191824mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-05-21T17:47:49Z",
+        "uri": "https://arquivo.pt/wayback/20200521174749mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-06-04T17:55:34Z",
+        "uri": "https://arquivo.pt/wayback/20200604175534mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-06-05T01:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20200605011721mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-06-28T00:40:52Z",
+        "uri": "https://arquivo.pt/wayback/20200628004052mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-06-29T08:57:16Z",
+        "uri": "https://arquivo.pt/wayback/20200629085716mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-06-29T10:47:32Z",
+        "uri": "https://arquivo.pt/wayback/20200629104732mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-08-05T18:19:23Z",
+        "uri": "https://arquivo.pt/wayback/20200805181923mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-08-07T09:36:53Z",
+        "uri": "https://arquivo.pt/wayback/20200807093653mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-01T18:24:42Z",
+        "uri": "https://arquivo.pt/wayback/20201001182442mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-06T11:17:28Z",
+        "uri": "https://arquivo.pt/wayback/20201006111728mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-06T18:04:39Z",
+        "uri": "https://arquivo.pt/wayback/20201006180439mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-07T18:07:09Z",
+        "uri": "https://arquivo.pt/wayback/20201007180709mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-08T18:15:06Z",
+        "uri": "https://arquivo.pt/wayback/20201008181506mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-09T18:07:19Z",
+        "uri": "https://arquivo.pt/wayback/20201009180719mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-10T17:57:50Z",
+        "uri": "https://arquivo.pt/wayback/20201010175750mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-11T18:17:17Z",
+        "uri": "https://arquivo.pt/wayback/20201011181717mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-12T18:23:19Z",
+        "uri": "https://arquivo.pt/wayback/20201012182319mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-13T18:17:29Z",
+        "uri": "https://arquivo.pt/wayback/20201013181729mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-14T18:17:41Z",
+        "uri": "https://arquivo.pt/wayback/20201014181741mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-15T18:15:07Z",
+        "uri": "https://arquivo.pt/wayback/20201015181507mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-17T18:13:04Z",
+        "uri": "https://arquivo.pt/wayback/20201017181304mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-18T18:13:17Z",
+        "uri": "https://arquivo.pt/wayback/20201018181317mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-19T18:14:47Z",
+        "uri": "https://arquivo.pt/wayback/20201019181447mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-20T18:11:00Z",
+        "uri": "https://arquivo.pt/wayback/20201020181100mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-21T18:19:38Z",
+        "uri": "https://arquivo.pt/wayback/20201021181938mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-22T18:18:29Z",
+        "uri": "https://arquivo.pt/wayback/20201022181829mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-23T18:16:21Z",
+        "uri": "https://arquivo.pt/wayback/20201023181621mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-24T18:30:11Z",
+        "uri": "https://arquivo.pt/wayback/20201024183011mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-25T19:33:08Z",
+        "uri": "https://arquivo.pt/wayback/20201025193308mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-26T19:14:54Z",
+        "uri": "https://arquivo.pt/wayback/20201026191454mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-27T19:20:03Z",
+        "uri": "https://arquivo.pt/wayback/20201027192003mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-28T19:28:50Z",
+        "uri": "https://arquivo.pt/wayback/20201028192850mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-29T19:17:04Z",
+        "uri": "https://arquivo.pt/wayback/20201029191704mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-30T19:15:18Z",
+        "uri": "https://arquivo.pt/wayback/20201030191518mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-10-31T18:57:21Z",
+        "uri": "https://arquivo.pt/wayback/20201031185721mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-01T19:32:36Z",
+        "uri": "https://arquivo.pt/wayback/20201101193236mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-02T19:12:11Z",
+        "uri": "https://arquivo.pt/wayback/20201102191211mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-03T19:17:56Z",
+        "uri": "https://arquivo.pt/wayback/20201103191756mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-04T19:18:44Z",
+        "uri": "https://arquivo.pt/wayback/20201104191844mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-05T19:18:58Z",
+        "uri": "https://arquivo.pt/wayback/20201105191858mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-06T19:15:53Z",
+        "uri": "https://arquivo.pt/wayback/20201106191553mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-07T19:34:27Z",
+        "uri": "https://arquivo.pt/wayback/20201107193427mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-08T19:29:48Z",
+        "uri": "https://arquivo.pt/wayback/20201108192948mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-09T19:23:51Z",
+        "uri": "https://arquivo.pt/wayback/20201109192351mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-10T19:08:21Z",
+        "uri": "https://arquivo.pt/wayback/20201110190821mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-11T19:00:39Z",
+        "uri": "https://arquivo.pt/wayback/20201111190039mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-12T19:21:50Z",
+        "uri": "https://arquivo.pt/wayback/20201112192150mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-13T19:24:51Z",
+        "uri": "https://arquivo.pt/wayback/20201113192451mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-14T19:10:05Z",
+        "uri": "https://arquivo.pt/wayback/20201114191005mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-15T19:26:16Z",
+        "uri": "https://arquivo.pt/wayback/20201115192616mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-16T18:59:45Z",
+        "uri": "https://arquivo.pt/wayback/20201116185945mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-17T19:17:42Z",
+        "uri": "https://arquivo.pt/wayback/20201117191742mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-18T19:23:33Z",
+        "uri": "https://arquivo.pt/wayback/20201118192333mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-19T19:06:38Z",
+        "uri": "https://arquivo.pt/wayback/20201119190638mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-20T19:13:44Z",
+        "uri": "https://arquivo.pt/wayback/20201120191344mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-21T19:02:54Z",
+        "uri": "https://arquivo.pt/wayback/20201121190254mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-22T19:20:42Z",
+        "uri": "https://arquivo.pt/wayback/20201122192042mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-23T19:37:50Z",
+        "uri": "https://arquivo.pt/wayback/20201123193750mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-24T19:23:49Z",
+        "uri": "https://arquivo.pt/wayback/20201124192349mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-25T19:57:38Z",
+        "uri": "https://arquivo.pt/wayback/20201125195738mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-26T19:17:29Z",
+        "uri": "https://arquivo.pt/wayback/20201126191729mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-27T19:04:10Z",
+        "uri": "https://arquivo.pt/wayback/20201127190410mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-28T19:09:07Z",
+        "uri": "https://arquivo.pt/wayback/20201128190907mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-29T19:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20201129192224mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-11-30T19:17:43Z",
+        "uri": "https://arquivo.pt/wayback/20201130191743mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-01T19:05:43Z",
+        "uri": "https://arquivo.pt/wayback/20201201190543mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-02T19:36:34Z",
+        "uri": "https://arquivo.pt/wayback/20201202193634mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-03T19:01:24Z",
+        "uri": "https://arquivo.pt/wayback/20201203190124mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-04T19:29:36Z",
+        "uri": "https://arquivo.pt/wayback/20201204192936mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-05T19:18:02Z",
+        "uri": "https://arquivo.pt/wayback/20201205191802mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-06T19:05:13Z",
+        "uri": "https://arquivo.pt/wayback/20201206190513mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-07T19:29:53Z",
+        "uri": "https://arquivo.pt/wayback/20201207192953mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-08T19:13:50Z",
+        "uri": "https://arquivo.pt/wayback/20201208191350mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-09T19:19:50Z",
+        "uri": "https://arquivo.pt/wayback/20201209191950mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-10T19:19:15Z",
+        "uri": "https://arquivo.pt/wayback/20201210191915mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-11T19:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20201211191954mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-12T19:09:24Z",
+        "uri": "https://arquivo.pt/wayback/20201212190924mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-13T19:25:09Z",
+        "uri": "https://arquivo.pt/wayback/20201213192509mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-14T19:19:12Z",
+        "uri": "https://arquivo.pt/wayback/20201214191912mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-23T09:41:10Z",
+        "uri": "https://arquivo.pt/wayback/20201223094110mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2020-12-23T09:41:10Z",
+        "uri": "https://arquivo.pt/wayback/20201223094110mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-01-08T09:34:43Z",
+        "uri": "https://arquivo.pt/wayback/20210108093443mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-01-11T09:18:19Z",
+        "uri": "https://arquivo.pt/wayback/20210111091819mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-01-11T21:47:23Z",
+        "uri": "https://arquivo.pt/wayback/20210111214723mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-01-25T09:26:17Z",
+        "uri": "https://perma.cc/C793-F3UB"
+      },
+      {
+        "datetime": "2021-02-07T03:32:00Z",
+        "uri": "https://perma.cc/HE9T-G87K"
+      },
+      {
+        "datetime": "2021-02-14T12:19:20Z",
+        "uri": "https://perma.cc/Q5Q6-73CY"
+      },
+      {
+        "datetime": "2021-02-24T17:14:38Z",
+        "uri": "https://arquivo.pt/wayback/20210224171438mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-03-03T17:58:29Z",
+        "uri": "https://perma.cc/YV5L-RG63"
+      },
+      {
+        "datetime": "2021-03-03T18:58:42Z",
+        "uri": "https://arquivo.pt/wayback/20210303185842mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-08-15T22:55:30Z",
+        "uri": "https://perma.cc/6ACN-7HW7"
+      },
+      {
+        "datetime": "2021-09-07T13:24:46Z",
+        "uri": "https://arquivo.pt/wayback/20210907132446mp_/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-09-07T13:51:25Z",
+        "uri": "https://arquivo.pt/wayback/20210907135125mp_/http://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2021-09-18T09:11:03Z",
+        "uri": "https://arquivo.pt/wayback/20210918091103mp_/https://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2021-09-18T09:51:30Z",
+        "uri": "https://arquivo.pt/wayback/20210918095130mp_/http://www.w3.org/TR/WCAG21"
+      },
+      {
+        "datetime": "2021-10-19T23:21:25Z",
+        "uri": "https://perma.cc/SW57-4HUX"
+      },
+      {
+        "datetime": "2022-02-04T13:00:39Z",
+        "uri": "http://archive.md/20220204130039/https://www.w3.org/TR/WCAG21/"
+      },
+      {
+        "datetime": "2022-03-04T04:55:48Z",
+        "uri": "https://perma.cc/4EMA-99UM"
+      },
+      {
+        "datetime": "2022-03-21T01:57:49Z",
+        "uri": "https://perma.cc/NPJ9-N8JD"
+      },
+      {
+        "datetime": "2022-08-02T00:20:34Z",
+        "uri": "https://perma.cc/5JRP-MHQ5"
+      },
+      {
+        "datetime": "2022-08-10T19:46:40Z",
+        "uri": "https://perma.cc/UB8A-GG2F"
+      },
+      {
+        "datetime": "2022-08-10T19:48:09Z",
+        "uri": "https://perma.cc/YB57-ZB8C"
+      },
+      {
+        "datetime": "2022-08-10T19:56:41Z",
+        "uri": "https://perma.cc/5PDG-ZTJE"
+      },
+      {
+        "datetime": "2022-08-10T19:59:47Z",
+        "uri": "https://perma.cc/YRP5-M599"
+      },
+      {
+        "datetime": "2022-08-10T20:00:56Z",
+        "uri": "https://perma.cc/FC3E-FRYK"
+      },
+      {
+        "datetime": "2022-08-10T20:01:35Z",
+        "uri": "https://perma.cc/6S93-VX58"
+      },
+      {
+        "datetime": "2022-08-10T20:13:19Z",
+        "uri": "https://perma.cc/ZL6N-VQX4"
+      },
+      {
+        "datetime": "2022-08-10T20:50:51Z",
+        "uri": "https://perma.cc/5NJ6-UZPV"
+      },
+      {
+        "datetime": "2022-08-10T21:07:18Z",
+        "uri": "https://perma.cc/R3VC-WZMY"
+      },
+      {
+        "datetime": "2022-08-10T21:07:49Z",
+        "uri": "https://perma.cc/5A3C-9KK2"
+      }
+    ],
+    "first": {
+      "datetime": "2018-06-20T12:05:46Z",
+      "uri": "http://archive.md/20180620120546/https://www.w3.org/TR/WCAG21/"
+    },
+    "last": {
+      "datetime": "2022-08-10T21:07:49Z",
+      "uri": "https://perma.cc/5A3C-9KK2"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus%0A"
+}

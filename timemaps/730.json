@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://campaigns.zoho.com/InvalidShortURL.zc",
+  "self": "http://localhost:1208/timemap/json/https://campaigns.zoho.com/InvalidShortURL.zc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-03-29T23:20:49Z",
+        "uri": "https://arquivo.pt/wayback/20190329232049mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-04-22T16:50:50Z",
+        "uri": "https://arquivo.pt/wayback/20190422165050mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-09-22T08:03:34Z",
+        "uri": "https://arquivo.pt/wayback/20190922080334mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-09-30T11:34:23Z",
+        "uri": "https://arquivo.pt/wayback/20190930113423mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-11-05T18:14:51Z",
+        "uri": "https://arquivo.pt/wayback/20191105181451mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-12-07T01:59:43Z",
+        "uri": "https://arquivo.pt/wayback/20191207015943mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-12-22T03:47:12Z",
+        "uri": "https://arquivo.pt/wayback/20191222034712mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-12-23T03:48:07Z",
+        "uri": "https://arquivo.pt/wayback/20191223034807mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-12-23T21:04:20Z",
+        "uri": "https://arquivo.pt/wayback/20191223210420mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2019-12-31T03:36:09Z",
+        "uri": "https://arquivo.pt/wayback/20191231033609mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2020-01-11T03:28:27Z",
+        "uri": "https://arquivo.pt/wayback/20200111032827mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2020-03-28T12:22:30Z",
+        "uri": "https://arquivo.pt/wayback/20200328122230mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2020-06-18T10:11:53Z",
+        "uri": "https://arquivo.pt/wayback/20200618101153mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2020-09-10T21:56:36Z",
+        "uri": "https://arquivo.pt/wayback/20200910215636mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      },
+      {
+        "datetime": "2021-03-25T15:07:10Z",
+        "uri": "https://arquivo.pt/wayback/20210325150710mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+      }
+    ],
+    "first": {
+      "datetime": "2019-03-29T23:20:49Z",
+      "uri": "https://arquivo.pt/wayback/20190329232049mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+    },
+    "last": {
+      "datetime": "2021-03-25T15:07:10Z",
+      "uri": "https://arquivo.pt/wayback/20210325150710mp_/https://campaigns.zoho.com/InvalidShortURL.zc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://campaigns.zoho.com/InvalidShortURL.zc",
+    "json_format": "http://localhost:1208/timemap/json/https://campaigns.zoho.com/InvalidShortURL.zc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://campaigns.zoho.com/InvalidShortURL.zc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://campaigns.zoho.com/InvalidShortURL.zc"
+}

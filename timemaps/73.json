@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://grapheneos.org/releases#2022101500%0A",
+  "self": "http://localhost:1208/timemap/json/https://grapheneos.org/releases#2022101500%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-12-25T07:32:24Z",
+        "uri": "http://archive.md/20191225073224/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2020-09-26T00:00:58Z",
+        "uri": "http://archive.md/20200926000058/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2021-01-16T22:04:34Z",
+        "uri": "http://archive.md/20210116220434/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2021-07-14T11:37:05Z",
+        "uri": "http://archive.md/20210714113705/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2021-09-06T08:40:59Z",
+        "uri": "http://archive.md/20210906084059/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2021-09-26T16:06:26Z",
+        "uri": "https://arquivo.pt/wayback/20210926160626mp_/https://grapheneos.org/releases"
+      },
+      {
+        "datetime": "2022-07-16T01:57:42Z",
+        "uri": "http://archive.md/20220716015742/https://grapheneos.org/releases"
+      }
+    ],
+    "first": {
+      "datetime": "2019-12-25T07:32:24Z",
+      "uri": "http://archive.md/20191225073224/https://grapheneos.org/releases"
+    },
+    "last": {
+      "datetime": "2022-07-16T01:57:42Z",
+      "uri": "http://archive.md/20220716015742/https://grapheneos.org/releases"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://grapheneos.org/releases#2022101500%0A",
+    "json_format": "http://localhost:1208/timemap/json/https://grapheneos.org/releases#2022101500%0A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://grapheneos.org/releases#2022101500%0A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://grapheneos.org/releases#2022101500%0A"
+}

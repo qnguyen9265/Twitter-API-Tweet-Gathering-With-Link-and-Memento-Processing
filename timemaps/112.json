@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.wrfalp.com/streaming/",
+  "self": "http://localhost:1208/timemap/json/https://www.wrfalp.com/streaming/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-11-25T18:40:51Z",
+        "uri": "https://arquivo.pt/wayback/20141125184051mp_/http://www.wrfalp.com/streaming/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-11-25T18:40:51Z",
+      "uri": "https://arquivo.pt/wayback/20141125184051mp_/http://www.wrfalp.com/streaming/"
+    },
+    "last": {
+      "datetime": "2014-11-25T18:40:51Z",
+      "uri": "https://arquivo.pt/wayback/20141125184051mp_/http://www.wrfalp.com/streaming/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wrfalp.com/streaming/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wrfalp.com/streaming/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wrfalp.com/streaming/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wrfalp.com/streaming/"
+}
